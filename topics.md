@@ -86,6 +86,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
 - [xml](#xml)
@@ -412,6 +413,7 @@
 
 ## others 
 
+- [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
 - [linked-solutions/rdfjs-svelte](https://github.com/linked-solutions/rdfjs-svelte) - Svelte components for RDFJS objects
 - [gouda-tijdmachine/gui-poc](https://github.com/gouda-tijdmachine/gui-poc) - Proof-of-concept van een GUI voor de Gouda Tijdmachine, gebaseerd op de brainstorms van het GTM kernteam.
 - [hypermedia-app/shaperone](https://github.com/hypermedia-app/shaperone) - Form UI elements driven by SHACL Shapes
@@ -668,6 +670,11 @@
 
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+
+## vuejs 
+
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 
 ## web 
 
