@@ -328,6 +328,7 @@
 
 ## TypeScript 
 
+- [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
 - [hypermedia-app/shaperone](https://github.com/hypermedia-app/shaperone) - Form UI elements driven by SHACL Shapes
 - [INL/corpus-frontend](https://github.com/INL/corpus-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
