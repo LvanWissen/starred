@@ -86,7 +86,6 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
 - [xml](#xml)
@@ -267,6 +266,7 @@
 
 ## hacktoberfest 
 
+- [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
 - [JuliaGraphs/Graphs.jl](https://github.com/JuliaGraphs/Graphs.jl) - An optimized graphs package for the Julia programming language
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -670,11 +670,6 @@
 
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-
-## vuejs 
-
-- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
-- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 
 ## web 
 
