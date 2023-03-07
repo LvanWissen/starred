@@ -41,6 +41,7 @@
 - [golang](#golang)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [home-assistant](#home-assistant)
 - [html](#html)
 - [iot](#iot)
 - [java](#java)
@@ -276,6 +277,11 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 
+## home-assistant 
+
+- [bram2202/esp8266-dsmr](https://github.com/bram2202/esp8266-dsmr) - A ESP8266 based DSMR reader, posting onto MQTT
+- [bruhautomation/ESP-MQTT-JSON-Digital-LEDs](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - (OBSOLETE) ESP8266 MQTT JSON Digital LEDs for Home Assistant
+
 ## html 
 
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
@@ -451,7 +457,6 @@
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [GavinMendelGleason/why_terminusx](https://github.com/GavinMendelGleason/why_terminusx) - Why we made TerminusX
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
-- [bram2202/esp8266-dsmr](https://github.com/bram2202/esp8266-dsmr) - A ESP8266 based DSMR reader, posting onto MQTT
 - [allmaps/iiif-map-collections](https://github.com/allmaps/iiif-map-collections) - List of IIIF map collections
 - [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 3
 - [robcast/python-iiif-annotation-tool](https://github.com/robcast/python-iiif-annotation-tool) - Tool to manipulate image annotations in IIIF manifests
