@@ -17,6 +17,7 @@
 - [bash](#bash)
 - [cli](#cli)
 - [code](#code)
+- [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
 - [data](#data)
@@ -51,6 +52,7 @@
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
+- [language](#language)
 - [latex](#latex)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -148,6 +150,10 @@
 ## code 
 
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
+
+## compiler 
+
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 
 ## computer-vision 
 
@@ -267,6 +273,7 @@
 
 ## hacktoberfest 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
 - [JuliaGraphs/Graphs.jl](https://github.com/JuliaGraphs/Graphs.jl) - An optimized graphs package for the Julia programming language
@@ -329,6 +336,10 @@
 ## kubernetes 
 
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+
+## language 
+
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 
 ## latex 
 
@@ -419,6 +430,7 @@
 
 ## others 
 
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
 - [linked-solutions/rdfjs-svelte](https://github.com/linked-solutions/rdfjs-svelte) - Svelte components for RDFJS objects
 - [gouda-tijdmachine/gui-poc](https://github.com/gouda-tijdmachine/gui-poc) - Proof-of-concept van een GUI voor de Gouda Tijdmachine, gebaseerd op de brainstorms van het GTM kernteam.
@@ -597,6 +609,7 @@
 
 ## python3 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [dhlab-epfl/dhSegment](https://github.com/dhlab-epfl/dhSegment) - Generic framework for historical document processing
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
 
@@ -623,6 +636,7 @@
 
 ## rust 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 
