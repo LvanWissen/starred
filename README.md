@@ -287,6 +287,7 @@
 
 ## Rust 
 
+- [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
 - [field33/plow](https://github.com/field33/plow) - Plow - The ontology package manager
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
@@ -328,6 +329,7 @@
 
 ## TypeScript 
 
+- [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
 - [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
 - [hypermedia-app/shaperone](https://github.com/hypermedia-app/shaperone) - Form UI elements driven by SHACL Shapes
