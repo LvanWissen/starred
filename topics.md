@@ -89,6 +89,7 @@
 - [ubuntu](#ubuntu)
 - [unity](#unity)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [windows](#windows)
 - [xml](#xml)
@@ -689,6 +690,11 @@
 
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
+
+## vuejs 
+
+- [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 
 ## web 
 
