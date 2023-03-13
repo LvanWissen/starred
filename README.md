@@ -75,6 +75,7 @@
 
 ## Go 
 
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [khaller93/graphdb-free](https://github.com/khaller93/graphdb-free) - Dockerfile for free version of Ontotext GraphDB.
 - [delving/hub3](https://github.com/delving/hub3) - RDF discovery and publication platform
