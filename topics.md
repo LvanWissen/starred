@@ -14,6 +14,8 @@
 - [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome-list](#awesome-list)
+- [aws](#aws)
+- [azure](#azure)
 - [bash](#bash)
 - [cli](#cli)
 - [code](#code)
@@ -28,6 +30,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
+- [devops](#devops)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -140,6 +143,14 @@
 
 - [sodascience/awesome-citizen-science-nl](https://github.com/sodascience/awesome-citizen-science-nl) - A curated list of awesome Citizen Science Projects in the Netherlands
 
+## aws 
+
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+
+## azure 
+
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+
 ## bash 
 
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
@@ -208,6 +219,10 @@
 ## deployment 
 
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
+
+## devops 
+
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 
 ## django 
 
@@ -643,6 +658,7 @@
 
 ## security 
 
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
