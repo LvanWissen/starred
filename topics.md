@@ -447,6 +447,7 @@
 
 ## others 
 
+- [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
 - [frickdahl/montias-database-datasets](https://github.com/frickdahl/montias-database-datasets) - The datasets presented here are from The Montias Database of 17th Century Dutch Art Inventories (https://research.frick.org/montias). The datasets have not been modified or augmented.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
@@ -693,6 +694,7 @@
 
 ## typescript 
 
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
