@@ -130,7 +130,7 @@
 - [recogito/geotagging-widget](https://github.com/recogito/geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
 - [globalise-huygens/globalise-annotation-tool](https://github.com/globalise-huygens/globalise-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
 - [cltl/frame-annotation-tool](https://github.com/cltl/frame-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
-- [recogito/openseadragon-wmts](https://github.com/recogito/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
+- [annotorious/openseadragon-wmts](https://github.com/annotorious/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
 - [gitrows/gitrows](https://github.com/gitrows/gitrows) - A lightweight module for using git as a database
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 3
@@ -291,6 +291,7 @@
 
 ## Rust 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
