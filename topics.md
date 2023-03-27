@@ -165,6 +165,7 @@
 
 ## compiler 
 
+- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 
 ## computer-vision 
@@ -484,7 +485,7 @@
 - [sszuev/rdf-protege](https://github.com/sszuev/rdf-protege) - (RDF) Protege Desktop
 - [Smithsonian/dpo-voyager](https://github.com/Smithsonian/dpo-voyager) - DPO Voyager - 3D Explorer and Tool Suite
 - [CommunitySolidServer/CommunitySolidServer](https://github.com/CommunitySolidServer/CommunitySolidServer) - An open and modular implementation of the Solid specifications
-- [recogito/openseadragon-wmts](https://github.com/recogito/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
+- [annotorious/openseadragon-wmts](https://github.com/annotorious/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [GavinMendelGleason/why_terminusx](https://github.com/GavinMendelGleason/why_terminusx) - Why we made TerminusX
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
