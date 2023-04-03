@@ -473,7 +473,7 @@
 - [dvmarinoff/Flux](https://github.com/dvmarinoff/Flux) - Indoor Cycling App for Structured Training
 - [linkml/schemasheets](https://github.com/linkml/schemasheets) - Structure your data in a FAIR way using google sheets or TSVs. These are then converted to LinkML, and from there other formats
 - [knaw-huc/annorepo](https://github.com/knaw-huc/annorepo) - Annotation Repository
-- [recogito/geotagging-widget](https://github.com/recogito/geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
+- [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
 - [globalise-huygens/globalise-annotation-tool](https://github.com/globalise-huygens/globalise-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
 - [INL/corpus-frontend](https://github.com/INL/corpus-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
@@ -485,7 +485,7 @@
 - [sszuev/rdf-protege](https://github.com/sszuev/rdf-protege) - (RDF) Protege Desktop
 - [Smithsonian/dpo-voyager](https://github.com/Smithsonian/dpo-voyager) - DPO Voyager - 3D Explorer and Tool Suite
 - [CommunitySolidServer/CommunitySolidServer](https://github.com/CommunitySolidServer/CommunitySolidServer) - An open and modular implementation of the Solid specifications
-- [annotorious/openseadragon-wmts](https://github.com/annotorious/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
+- [rsimon/openseadragon-wmts](https://github.com/rsimon/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [GavinMendelGleason/why_terminusx](https://github.com/GavinMendelGleason/why_terminusx) - Why we made TerminusX
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
@@ -511,7 +511,7 @@
 - [netwerk-digitaal-erfgoed/project-organisations-datasets](https://github.com/netwerk-digitaal-erfgoed/project-organisations-datasets) - Repository for project "Organisations and datasets in the network"
 - [inveniosoftware/invenio-app-ils](https://github.com/inveniosoftware/invenio-app-ils) - Integrated Library System (ILS) flavour of Invenio.
 - [time-machine-project/requests-for-comments](https://github.com/time-machine-project/requests-for-comments) - The main repository for Time Machine Requests for Comments drafts and releases
-- [recogito/annotorious-openseadragon](https://github.com/recogito/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
+- [annotorious/annotorious-openseadragon](https://github.com/annotorious/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [franzlst/surfrdf](https://github.com/franzlst/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [mightymax/ead2rico](https://github.com/mightymax/ead2rico) - Conversion between EAD in Ric-O
