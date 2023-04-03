@@ -127,10 +127,10 @@
 - [blake-regalia/graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 - [dvmarinoff/Flux](https://github.com/dvmarinoff/Flux) - Indoor Cycling App for Structured Training
-- [recogito/geotagging-widget](https://github.com/recogito/geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
+- [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
 - [globalise-huygens/globalise-annotation-tool](https://github.com/globalise-huygens/globalise-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
 - [cltl/frame-annotation-tool](https://github.com/cltl/frame-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
-- [annotorious/openseadragon-wmts](https://github.com/annotorious/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
+- [rsimon/openseadragon-wmts](https://github.com/rsimon/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
 - [gitrows/gitrows](https://github.com/gitrows/gitrows) - A lightweight module for using git as a database
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 3
@@ -138,7 +138,7 @@
 - [recogito/recogito-js](https://github.com/recogito/recogito-js) - A JavaScript library for text annotation
 - [jankaszel/recogito-web-annotation-adapter](https://github.com/jankaszel/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
 - [LDflex/LDflex](https://github.com/LDflex/LDflex) - A JavaScript DSL for querying Linked Data on the Web
-- [recogito/annotorious-openseadragon](https://github.com/recogito/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
+- [annotorious/annotorious-openseadragon](https://github.com/annotorious/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [mauvilsa/nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
 - [glenrobson/SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - A simple IIIF and Mirador compatible Annotation Server
