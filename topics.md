@@ -170,6 +170,7 @@
 
 ## computer-vision 
 
+- [RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps](https://github.com/RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps) - 
 - [rsommerfeld/trocr](https://github.com/rsommerfeld/trocr) - Powerful handwritten text recognition. A simple-to-use, unofficial implementation of the paper "TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models".
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 
