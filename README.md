@@ -161,6 +161,7 @@
 
 ## Jupyter Notebook 
 
+- [RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps](https://github.com/RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps) - 
 - [CrowdTruth/CrowdTruth-core](https://github.com/CrowdTruth/CrowdTruth-core) - CrowdTruth framework for crowdsourcing ground truth for training & evaluation of AI systems
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
 - [CLARIAH/wp4-links](https://github.com/CLARIAH/wp4-links) - Code for linking all Dutch civil registries
