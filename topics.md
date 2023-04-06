@@ -449,6 +449,7 @@
 
 ## others 
 
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
 - [frickdahl/montias-database-datasets](https://github.com/frickdahl/montias-database-datasets) - The datasets presented here are from The Montias Database of 17th Century Dutch Art Inventories (https://research.frick.org/montias). The datasets have not been modified or augmented.
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
