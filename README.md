@@ -161,6 +161,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps](https://github.com/RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps) - 
 - [CrowdTruth/CrowdTruth-core](https://github.com/CrowdTruth/CrowdTruth-core) - CrowdTruth framework for crowdsourcing ground truth for training & evaluation of AI systems
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
