@@ -102,6 +102,7 @@
 
 ## Java 
 
+- [culturesofknowledge/emdates](https://github.com/culturesofknowledge/emdates) - Early Modern Dates
 - [Jurian/disembed](https://github.com/Jurian/disembed) - Create embeddings for RDF-graphs using the GloVe model
 - [dlcs/elucidate-server](https://github.com/dlcs/elucidate-server) - A W3C and OA compliant Web Annotation server
 - [sszuev/rdf-protege](https://github.com/sszuev/rdf-protege) - (RDF) Protege Desktop
