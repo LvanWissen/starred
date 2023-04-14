@@ -73,6 +73,7 @@
 - [osint](#osint)
 - [others](#others)
 - [package-manager](#package-manager)
+- [perl](#perl)
 - [php](#php)
 - [postgresql](#postgresql)
 - [python](#python)
@@ -158,6 +159,7 @@
 
 ## cli 
 
+- [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 
 ## code 
@@ -342,6 +344,7 @@
 
 ## json 
 
+- [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [gitrows/gitrows](https://github.com/gitrows/gitrows) - A lightweight module for using git as a database
 - [bruhautomation/ESP-MQTT-JSON-Digital-LEDs](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - (OBSOLETE) ESP8266 MQTT JSON Digital LEDs for Home Assistant
 
@@ -602,6 +605,10 @@
 
 - [field33/plow](https://github.com/field33/plow) - Plow - The ontology package manager
 
+## perl 
+
+- [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
+
 ## php 
 
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
@@ -749,6 +756,7 @@
 
 ## xml 
 
+- [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [cltl/nafparserpy](https://github.com/cltl/nafparserpy) - lightweight lxml wrapper for NAF
 
 
