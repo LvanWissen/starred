@@ -71,6 +71,7 @@
 
 ## Dockerfile 
 
+- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [WebThingsIO/gateway-docker](https://github.com/WebThingsIO/gateway-docker) - Legacy docker image for WebThings Gateway - now moved to main gateway repo at https://github.com/WebThingsIO/gateway
 
 ## Go 
@@ -124,6 +125,8 @@
 
 ## JavaScript 
 
+- [D2KLab/sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A more handy way to use SPARQL data in your web app
+- [D2KLab/explorer](https://github.com/D2KLab/explorer) - Exploratory Search Engine for Linked Data (used by MeMAD, SILKNOW and Odeuropa among others)
 - [gouda-tijdmachine/gui-poc](https://github.com/gouda-tijdmachine/gui-poc) - Proof-of-concept van een GUI voor de Gouda Tijdmachine, gebaseerd op de brainstorms van het GTM kernteam.
 - [blake-regalia/graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
