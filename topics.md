@@ -61,8 +61,10 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [minecraft](#minecraft)
+- [mongodb](#mongodb)
 - [mysql](#mysql)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
 - [nodejs](#nodejs)
@@ -236,6 +238,7 @@
 
 ## docker 
 
+- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [netbrain/zwift](https://github.com/netbrain/zwift) - Easily zwift on linux
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
@@ -404,8 +407,13 @@
 
 - [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
 
+## mongodb 
+
+- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+
 ## mysql 
 
+- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
@@ -415,6 +423,10 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
+
+## nextjs 
+
+- [D2KLab/explorer](https://github.com/D2KLab/explorer) - Exploratory Search Engine for Linked Data (used by MeMAD, SILKNOW and Odeuropa among others)
 
 ## nlp 
 
@@ -458,6 +470,7 @@
 
 ## others 
 
+- [D2KLab/sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A more handy way to use SPARQL data in your web app
 - [culturesofknowledge/emdates](https://github.com/culturesofknowledge/emdates) - Early Modern Dates
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
