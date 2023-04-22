@@ -476,6 +476,8 @@
 
 ## others 
 
+- [knaw-huc/loghi](https://github.com/knaw-huc/loghi) - 
+- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [D2KLab/sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A more handy way to use SPARQL data in your web app
 - [culturesofknowledge/emdates](https://github.com/culturesofknowledge/emdates) - Early Modern Dates
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
