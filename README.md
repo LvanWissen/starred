@@ -300,6 +300,7 @@
 
 ## Rust 
 
+- [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
@@ -319,6 +320,7 @@
 
 ## Shell 
 
+- [knaw-huc/loghi](https://github.com/knaw-huc/loghi) - 
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document
 - [netbrain/zwift](https://github.com/netbrain/zwift) - Easily zwift on linux
