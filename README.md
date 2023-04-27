@@ -61,7 +61,6 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [githubharald/CTCWordBeamSearch](https://github.com/githubharald/CTCWordBeamSearch) - Connectionist Temporal Classification (CTC) decoder with dictionary and language model.
 - [Callidon/pyHDT](https://github.com/Callidon/pyHDT) - Read and query HDT documents with ease in Python
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - arduinoWebSockets
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 
@@ -273,6 +272,7 @@
 - [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
 - [mammothb/symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
 - [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib) - :bar_chart: Save matplotlib figures as TikZ/PGFplots for smooth integration into LaTeX.
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [LanguageMachines/PICCL](https://github.com/LanguageMachines/PICCL) - A set of workflows for corpus building through OCR, post-correction and normalisation
 - [luispedro/BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
 - [CLARIAH/grlc](https://github.com/CLARIAH/grlc) - grlc builds Web APIs using shared SPARQL queries
