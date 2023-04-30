@@ -182,6 +182,7 @@
 
 ## Others 
 
+- [simonckemper/NL-HaNA_iiif_manifests](https://github.com/simonckemper/NL-HaNA_iiif_manifests) - Selection of iiif manifests from the National Archives of the Netherlands. Transcriptions and georeferences to be added soon
 - [frickdahl/montias-database-datasets](https://github.com/frickdahl/montias-database-datasets) - The datasets presented here are from The Montias Database of 17th Century Dutch Art Inventories (https://research.frick.org/montias). The datasets have not been modified or augmented.
 - [ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O) - ICA Records in Contexts-Ontology (ICA RiC-O) GitHub repository web pages
 - [GavinMendelGleason/why_terminusx](https://github.com/GavinMendelGleason/why_terminusx) - Why we made TerminusX
