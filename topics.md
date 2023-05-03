@@ -476,6 +476,7 @@
 
 ## others 
 
+- [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [simonckemper/NL-HaNA_iiif_manifests](https://github.com/simonckemper/NL-HaNA_iiif_manifests) - Selection of iiif manifests from the National Archives of the Netherlands. Transcriptions and georeferences to be added soon
 - [knaw-huc/loghi](https://github.com/knaw-huc/loghi) - 
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
