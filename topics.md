@@ -476,6 +476,7 @@
 
 ## others 
 
+- [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) - Directory listing for Github Pages
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [simonckemper/NL-HaNA_iiif_manifests](https://github.com/simonckemper/NL-HaNA_iiif_manifests) - Selection of iiif manifests from the National Archives of the Netherlands. Transcriptions and georeferences to be added soon
