@@ -222,6 +222,7 @@
 
 ## Python 
 
+- [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) - Directory listing for Github Pages
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [RUCAIBox/TextBox](https://github.com/RUCAIBox/TextBox) - TextBox 2.0 is a text generation library with pre-trained language models
