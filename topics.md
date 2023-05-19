@@ -219,6 +219,7 @@
 
 ## deep-learning 
 
+- [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [RUCAIBox/TextBox](https://github.com/RUCAIBox/TextBox) - TextBox 2.0 is a text generation library with pre-trained language models
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -392,6 +393,7 @@
 
 ## machine-learning 
 
+- [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [nlp-uoregon/trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
@@ -476,6 +478,7 @@
 
 ## others 
 
+- [PSIG-EHESS/PTMAnnuaires](https://github.com/PSIG-EHESS/PTMAnnuaires) - Documents de travail autour du chantier annuaires des propriétaires dans le cadre du consortium humanum Paris Time Machine
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) - Directory listing for Github Pages
 - [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
