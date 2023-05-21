@@ -126,6 +126,7 @@
 
 ## JavaScript 
 
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [D2KLab/sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A more handy way to use SPARQL data in your web app
 - [D2KLab/explorer](https://github.com/D2KLab/explorer) - Exploratory Search Engine for Linked Data (used by MeMAD, SILKNOW and Odeuropa among others)
 - [gouda-tijdmachine/gui-poc](https://github.com/gouda-tijdmachine/gui-poc) - Proof-of-concept van een GUI voor de Gouda Tijdmachine, gebaseerd op de brainstorms van het GTM kernteam.
@@ -353,7 +354,6 @@
 
 ## TypeScript 
 
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
