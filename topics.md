@@ -504,7 +504,7 @@
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
 - [OwnYourData/oydid](https://github.com/OwnYourData/oydid) - Own Your Decentralized IDentifier
 - [mapping-commons/sssom](https://github.com/mapping-commons/sssom) - Simple Standard for Sharing Ontology Mappings
-- [khaller93/graphdb-free](https://github.com/khaller93/graphdb-free) - Dockerfile for free version of Ontotext GraphDB.
+- [khaller93/graphdb-free](https://github.com/khaller93/graphdb-free) - Dockerfile for the free version of Ontotext GraphDB.
 - [delving/hub3](https://github.com/delving/hub3) - RDF discovery and publication platform
 - [anuzzolese/frodo](https://github.com/anuzzolese/frodo) - 
 - [semantic-web-company/ptlm_wsid](https://github.com/semantic-web-company/ptlm_wsid) - Usage of pre-trained language model to induce and disambiguate entity senses
