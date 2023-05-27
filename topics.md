@@ -479,6 +479,7 @@
 
 ## others 
 
+- [FIAF/FIAFcore](https://github.com/FIAF/FIAFcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [PSIG-EHESS/PTMAnnuaires](https://github.com/PSIG-EHESS/PTMAnnuaires) - Documents de travail autour du chantier annuaires des propriétaires dans le cadre du consortium humanum Paris Time Machine
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) - Directory listing for Github Pages
