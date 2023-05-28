@@ -126,7 +126,7 @@
 
 ## JavaScript 
 
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Unlighthouse scans your entire site using Google Lighthouse, with a modern UI, minimal config and smart sampling.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
 - [D2KLab/sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A more handy way to use SPARQL data in your web app
 - [D2KLab/explorer](https://github.com/D2KLab/explorer) - Exploratory Search Engine for Linked Data (used by MeMAD, SILKNOW and Odeuropa among others)
 - [gouda-tijdmachine/gui-poc](https://github.com/gouda-tijdmachine/gui-poc) - Proof-of-concept van een GUI voor de Gouda Tijdmachine, gebaseerd op de brainstorms van het GTM kernteam.
