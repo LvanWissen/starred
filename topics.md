@@ -481,6 +481,7 @@
 
 ## others 
 
+- [opencontext/arches-via-docker](https://github.com/opencontext/arches-via-docker) - Deployment of Arches (archesproject.org) via Docker for archaeology and related instruction
 - [kbrbe/beltrans-data-integration](https://github.com/kbrbe/beltrans-data-integration) - Creating a FAIR Linked Data corpus for the BELTRANS research project about Belgian book translations NL-FR and FR-NL between 1970 and 2020
 - [tropy/tropy-plugin-iiif](https://github.com/tropy/tropy-plugin-iiif) - Tropy plugin to import IIIF manifests
 - [FIAF/FIAFcore](https://github.com/FIAF/FIAFcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
