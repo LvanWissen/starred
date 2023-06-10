@@ -331,6 +331,7 @@
 
 ## Shell 
 
+- [opencontext/arches-via-docker](https://github.com/opencontext/arches-via-docker) - Deployment of Arches (archesproject.org) via Docker for archaeology and related instruction
 - [knaw-huc/loghi](https://github.com/knaw-huc/loghi) - 
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document
