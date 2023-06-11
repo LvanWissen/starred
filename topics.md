@@ -770,7 +770,7 @@
 ## unity 
 
 - [Amsterdam/3DAmsterdam](https://github.com/Amsterdam/3DAmsterdam) - Repository for the 3D Amsterdam Unity viewer project
-- [ElmarJ/Waterlooplein3D](https://github.com/ElmarJ/Waterlooplein3D) - Simple 3D reconstruction of the street pattern of the Amsterdam Waterlooplein neighborhood around 1880. https://waterlooplein3d.nl
+- [ElmarJ/Waterlooplein3D](https://github.com/ElmarJ/Waterlooplein3D) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000. https://waterlooplein3d.nl
 
 ## vue 
 
