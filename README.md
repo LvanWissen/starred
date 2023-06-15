@@ -279,7 +279,6 @@
 - [doccano/doccano](https://github.com/doccano/doccano) - Open source annotation tool for machine learning practitioners.
 - [Vertabelo/vertabelo-sqlalchemy](https://github.com/Vertabelo/vertabelo-sqlalchemy) - Converts a database model designed in Vertabelo (http://vertabelo.com) to SQLAlchemy (http://www.sqlalchemy.org/) mapping classes.
 - [CLARIAH/scholarly-web-annotation-server](https://github.com/CLARIAH/scholarly-web-annotation-server) - An experimental Python server for scholarly web annotations
-- [gjhiggins/RDFAlchemy](https://github.com/gjhiggins/RDFAlchemy) - RDFAlchemy is an abstraction layer, allowing Python developers to use familiar dot notation to access and update an RDF triplestore - arcology sandpit.
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 - [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
 - [mammothb/symspellpy](https://github.com/mammothb/symspellpy) - Python port of SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm
