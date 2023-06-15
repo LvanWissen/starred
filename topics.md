@@ -601,7 +601,6 @@
 - [owlcs/owlapi](https://github.com/owlcs/owlapi) - OWL API main repository
 - [nypl-spacetime/Leaflet.GeotagPhoto](https://github.com/nypl-spacetime/Leaflet.GeotagPhoto) - Leaflet plugin for photo geotagging
 - [Haran/BMDMSoundex](https://github.com/Haran/BMDMSoundex) - Beider-Morse + Daitch-Mokotoff Phonetic Matching (soundex) Algorithm
-- [gjhiggins/RDFAlchemy](https://github.com/gjhiggins/RDFAlchemy) - RDFAlchemy is an abstraction layer, allowing Python developers to use familiar dot notation to access and update an RDF triplestore - arcology sandpit.
 - [nemo-ufes/ontouml-lightweight-editor](https://github.com/nemo-ufes/ontouml-lightweight-editor) - The OntoUML lightweight editor (OLED) is an environment for the development, evaluation and implementation of domain ontologies using the UFO-based ontologically well-founded modeling language OntoUML
 - [LodLive/LodView](https://github.com/LodLive/LodView) - IRI dereferencer, RDF to HTML
 - [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
