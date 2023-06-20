@@ -136,7 +136,6 @@
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 - [dvmarinoff/Flux](https://github.com/dvmarinoff/Flux) - Indoor Cycling App for Structured Training
 - [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
-- [globalise-huygens/globalise-annotation-tool](https://github.com/globalise-huygens/globalise-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
 - [cltl/frame-annotation-tool](https://github.com/cltl/frame-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
 - [rsimon/openseadragon-wmts](https://github.com/rsimon/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
 - [gitrows/gitrows](https://github.com/gitrows/gitrows) - A lightweight module for using git as a database
