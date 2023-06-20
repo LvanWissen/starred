@@ -523,7 +523,6 @@
 - [linkml/schemasheets](https://github.com/linkml/schemasheets) - Structure your data in a FAIR way using google sheets or TSVs. These are then converted to LinkML, and from there other formats
 - [knaw-huc/annorepo](https://github.com/knaw-huc/annorepo) - Annotation Repository
 - [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
-- [globalise-huygens/globalise-annotation-tool](https://github.com/globalise-huygens/globalise-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
 - [INL/corpus-frontend](https://github.com/INL/corpus-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
