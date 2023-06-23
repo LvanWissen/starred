@@ -336,7 +336,7 @@
 
 ## java 
 
-- [Jurian/disembed](https://github.com/Jurian/disembed) - Create embeddings for RDF-graphs using the GloVe model
+- [Jurian/disambed](https://github.com/Jurian/disambed) - Create embeddings for RDF-graphs using the GloVe model
 - [dlcs/elucidate-server](https://github.com/dlcs/elucidate-server) - A W3C and OA compliant Web Annotation server
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
