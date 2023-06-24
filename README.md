@@ -75,6 +75,7 @@
 
 ## Go 
 
+- [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -217,6 +218,7 @@
 
 ## Perl 
 
+- [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
 
@@ -234,7 +236,7 @@
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [RUCAIBox/TextBox](https://github.com/RUCAIBox/TextBox) - TextBox 2.0 is a text generation library with pre-trained language models
-- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [nlp-uoregon/trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 - [natliblux/nautilusocr](https://github.com/natliblux/nautilusocr) - METS/ALTO OCR enhancing tool by the National Library of Luxembourg (BnL)
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
@@ -358,6 +360,7 @@
 
 ## TypeScript 
 
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
