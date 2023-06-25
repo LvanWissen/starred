@@ -350,6 +350,7 @@
 
 ## Svelte 
 
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [linked-solutions/rdfjs-svelte](https://github.com/linked-solutions/rdfjs-svelte) - Svelte components for RDFJS objects
 
 ## TeX 
@@ -360,6 +361,7 @@
 
 ## TypeScript 
 
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
