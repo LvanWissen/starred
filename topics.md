@@ -151,11 +151,11 @@
 
 ## aws 
 
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
 ## azure 
 
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
 ## bash 
 
@@ -234,10 +234,11 @@
 
 ## devops 
 
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
 ## django 
 
+- [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [archesproject/arches](https://github.com/archesproject/arches) - Arches is a web platform for creating, managing, & visualizing geospatial data.  Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations 
 
 ## docker 
@@ -484,6 +485,7 @@
 
 ## others 
 
+- [executablebooks/mystjs](https://github.com/executablebooks/mystjs) - Command line tools for working with MyST Markdown.
 - [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
@@ -661,6 +663,7 @@
 
 ## python 
 
+- [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [RUCAIBox/TextBox](https://github.com/RUCAIBox/TextBox) - TextBox 2.0 is a text generation library with pre-trained language models
 - [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) - Open Source research tool to search, browse, analyze and explore large document collections by Semantic Search Engine and Open Source Text Mining & Text Analytics platform (Integrates ETL for document
@@ -726,7 +729,7 @@
 
 ## security 
 
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 
