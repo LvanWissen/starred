@@ -78,7 +78,7 @@
 - [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [khaller93/graphdb-free](https://github.com/khaller93/graphdb-free) - Dockerfile for the free version of Ontotext GraphDB.
 - [delving/hub3](https://github.com/delving/hub3) - RDF discovery and publication platform
@@ -230,6 +230,7 @@
 
 ## Python 
 
+- [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [PSIG-EHESS/PTMAnnuaires](https://github.com/PSIG-EHESS/PTMAnnuaires) - Documents de travail autour du chantier annuaires des propriétaires dans le cadre du consortium humanum Paris Time Machine
@@ -363,6 +364,7 @@
 
 ## TypeScript 
 
+- [executablebooks/mystjs](https://github.com/executablebooks/mystjs) - Command line tools for working with MyST Markdown.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
