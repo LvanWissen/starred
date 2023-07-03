@@ -35,6 +35,7 @@
 - [docker](#docker)
 - [documentation](#documentation)
 - [electron](#electron)
+- [ember](#ember)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -258,6 +259,10 @@
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+
+## ember 
+
+- [smessie/FormGenerator](https://github.com/smessie/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
 
 ## firebase 
 
