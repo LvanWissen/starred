@@ -490,7 +490,7 @@
 
 ## others 
 
-- [executablebooks/mystjs](https://github.com/executablebooks/mystjs) - Command line tools for working with MyST Markdown.
+- [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
 - [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
