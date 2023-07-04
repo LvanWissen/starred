@@ -365,7 +365,7 @@
 
 ## TypeScript 
 
-- [executablebooks/mystjs](https://github.com/executablebooks/mystjs) - Command line tools for working with MyST Markdown.
+- [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
