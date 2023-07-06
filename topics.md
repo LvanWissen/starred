@@ -490,6 +490,7 @@
 
 ## others 
 
+- [evmizulin/any-json-cms](https://github.com/evmizulin/any-json-cms) - Any JSON CMS
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
 - [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
