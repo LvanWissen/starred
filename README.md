@@ -190,6 +190,7 @@
 
 ## Others 
 
+- [evmizulin/any-json-cms](https://github.com/evmizulin/any-json-cms) - Any JSON CMS
 - [FIAF/FIAFcore](https://github.com/FIAF/FIAFcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
 - [simonckemper/NL-HaNA_iiif_manifests](https://github.com/simonckemper/NL-HaNA_iiif_manifests) - Selection of iiif manifests from the National Archives of the Netherlands. Transcriptions and georeferences to be added soon
 - [frickdahl/montias-database-datasets](https://github.com/frickdahl/montias-database-datasets) - The datasets presented here are from The Montias Database of 17th Century Dutch Art Inventories (https://research.frick.org/montias). The datasets have not been modified or augmented.
