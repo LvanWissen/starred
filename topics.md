@@ -189,6 +189,7 @@
 
 ## data 
 
+- [mathiasrichter/shapiro](https://github.com/mathiasrichter/shapiro) - Modelling data with JSON-LD, Turtle, SHACL
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 
@@ -205,6 +206,7 @@
 
 ## data-structures 
 
+- [mathiasrichter/shapiro](https://github.com/mathiasrichter/shapiro) - Modelling data with JSON-LD, Turtle, SHACL
 - [JuliaGraphs/Graphs.jl](https://github.com/JuliaGraphs/Graphs.jl) - An optimized graphs package for the Julia programming language
 
 ## data-visualization 
