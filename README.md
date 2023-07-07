@@ -9,6 +9,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Cuda](#cuda)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -63,6 +64,10 @@
 - [Callidon/pyHDT](https://github.com/Callidon/pyHDT) - Read and query HDT documents with ease in Python
 - [Links2004/arduinoWebSockets](https://github.com/Links2004/arduinoWebSockets) - arduinoWebSockets
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
+
+## CSS 
+
+- [mathiasrichter/shapiro](https://github.com/mathiasrichter/shapiro) - Modelling data with JSON-LD, Turtle, SHACL
 
 ## Cuda 
 
