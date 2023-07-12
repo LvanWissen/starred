@@ -195,6 +195,7 @@
 
 ## Others 
 
+- [HajoRijgersberg/OM](https://github.com/HajoRijgersberg/OM) - Ontology of units of Measure
 - [evmizulin/any-json-cms](https://github.com/evmizulin/any-json-cms) - Any JSON CMS
 - [FIAF/FIAFcore](https://github.com/FIAF/FIAFcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
 - [simonckemper/NL-HaNA_iiif_manifests](https://github.com/simonckemper/NL-HaNA_iiif_manifests) - Selection of iiif manifests from the National Archives of the Netherlands. Transcriptions and georeferences to be added soon
@@ -323,7 +324,7 @@
 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -334,6 +335,7 @@
 
 ## Scala 
 
+- [silk-framework/silk](https://github.com/silk-framework/silk) - Silk Linked Data Integration Framework
 - [pelagios/recogito2](https://github.com/pelagios/recogito2) - Semantic Annotation Without the Pointy Brackets
 
 ## ShaderLab 
