@@ -398,7 +398,7 @@
 
 ## linux 
 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
 - [netbrain/zwift](https://github.com/netbrain/zwift) - Easily zwift on linux
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
@@ -421,7 +421,7 @@
 
 ## macos 
 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 
@@ -492,6 +492,7 @@
 
 ## others 
 
+- [silk-framework/silk](https://github.com/silk-framework/silk) - Silk Linked Data Integration Framework
 - [HajoRijgersberg/OM](https://github.com/HajoRijgersberg/OM) - Ontology of units of Measure
 - [evmizulin/any-json-cms](https://github.com/evmizulin/any-json-cms) - Any JSON CMS
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
@@ -729,7 +730,7 @@
 ## rust 
 
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a formally verified, post-quantum secure VPN that uses WireGuard to transport the actual data.
@@ -813,7 +814,7 @@
 
 ## windows 
 
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 
