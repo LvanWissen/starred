@@ -254,6 +254,7 @@
 
 ## documentation 
 
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 
 ## electron 
@@ -354,7 +355,7 @@
 ## javascript 
 
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 - [LDflex/LDflex](https://github.com/LDflex/LDflex) - A JavaScript DSL for querying Linked Data on the Web
@@ -781,7 +782,7 @@
 ## typescript 
 
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Headless CMS for all your technical content
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
