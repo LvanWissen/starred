@@ -195,6 +195,7 @@
 
 ## Others 
 
+- [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
 - [HajoRijgersberg/OM](https://github.com/HajoRijgersberg/OM) - Ontology of units of Measure
 - [evmizulin/any-json-cms](https://github.com/evmizulin/any-json-cms) - Any JSON CMS
 - [FIAF/FIAFcore](https://github.com/FIAF/FIAFcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
@@ -374,6 +375,7 @@
 
 ## TypeScript 
 
+- [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
