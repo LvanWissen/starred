@@ -133,6 +133,7 @@
 
 ## JavaScript 
 
+- [bluwy/vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server
 - [smessie/FormGenerator](https://github.com/smessie/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
 - [tropy/tropy-plugin-iiif](https://github.com/tropy/tropy-plugin-iiif) - Tropy plugin to import IIIF manifests
@@ -319,6 +320,7 @@
 
 ## Ruby 
 
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [OwnYourData/oydid](https://github.com/OwnYourData/oydid) - Own Your Decentralized IDentifier
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 
@@ -379,7 +381,7 @@
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content platform
+- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
