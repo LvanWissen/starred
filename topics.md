@@ -499,6 +499,8 @@
 
 ## others 
 
+- [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
+- [ugent-library/mmmonk-annotation-demo](https://github.com/ugent-library/mmmonk-annotation-demo) - 
 - [bluwy/vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server
 - [opengeospatial/ogc-geosparql](https://github.com/opengeospatial/ogc-geosparql) - Public Repository for the OGC GeoSPARQL Standards Working Group
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
