@@ -340,6 +340,7 @@
 
 ## Scala 
 
+- [henrietteharmse/uml2semantics](https://github.com/henrietteharmse/uml2semantics) - Translates UML class diagrams to OWL2
 - [silk-framework/silk](https://github.com/silk-framework/silk) - Silk Linked Data Integration Framework
 - [pelagios/recogito2](https://github.com/pelagios/recogito2) - Semantic Annotation Without the Pointy Brackets
 
