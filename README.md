@@ -110,6 +110,7 @@
 
 ## Java 
 
+- [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [culturesofknowledge/emdates](https://github.com/culturesofknowledge/emdates) - Early Modern Dates
 - [Jurian/disambed](https://github.com/Jurian/disambed) - Create embeddings for RDF-graphs using the GloVe model
