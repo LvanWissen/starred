@@ -244,6 +244,7 @@
 
 ## Python 
 
+- [knowledge-computing/mapkurator-system](https://github.com/knowledge-computing/mapkurator-system) - 
 - [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
