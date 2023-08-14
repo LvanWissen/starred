@@ -500,6 +500,7 @@
 
 ## others 
 
+- [universal-ner/universal-ner](https://github.com/universal-ner/universal-ner) - 
 - [knowledge-computing/mapkurator-system](https://github.com/knowledge-computing/mapkurator-system) - 
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
 - [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
