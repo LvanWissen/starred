@@ -245,6 +245,7 @@
 
 ## Python 
 
+- [universal-ner/universal-ner](https://github.com/universal-ner/universal-ner) - 
 - [knowledge-computing/mapkurator-system](https://github.com/knowledge-computing/mapkurator-system) - 
 - [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
