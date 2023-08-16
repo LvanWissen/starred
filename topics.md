@@ -40,6 +40,7 @@
 - [firefox](#firefox)
 - [flask](#flask)
 - [framework](#framework)
+- [gis](#gis)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -284,6 +285,10 @@
 ## framework 
 
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
+
+## gis 
+
+- [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
 
 ## git 
 
