@@ -80,6 +80,7 @@
 
 ## Go 
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [speedata/boxesandglue](https://github.com/speedata/boxesandglue) - PDF rendering library for Go using TeX algorithms.
