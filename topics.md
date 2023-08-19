@@ -96,6 +96,7 @@
 - [sql-server](#sql-server)
 - [svelte](#svelte)
 - [tensorflow](#tensorflow)
+- [terminal](#terminal)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
@@ -303,6 +304,7 @@
 
 ## go 
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
@@ -310,6 +312,7 @@
 
 ## golang 
 
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [mainflux/mainflux](https://github.com/mainflux/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
@@ -802,6 +805,10 @@
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
 - [dhlab-epfl/dhSegment](https://github.com/dhlab-epfl/dhSegment) - Generic framework for historical document processing
 - [solivr/tf-crnn](https://github.com/solivr/tf-crnn) - TensorFlow convolutional recurrent neural network (CRNN) for text recognition
+
+## terminal 
+
+- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 
 ## typescript 
 
