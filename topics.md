@@ -34,6 +34,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [education](#education)
 - [electron](#electron)
 - [ember](#ember)
 - [firebase](#firebase)
@@ -260,6 +261,10 @@
 
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source technical content management platform | Now in Public Beta
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
+
+## education 
+
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 
 ## electron 
 
@@ -755,6 +760,7 @@
 
 ## rust 
 
+- [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASIX, WASI and Emscripten
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
