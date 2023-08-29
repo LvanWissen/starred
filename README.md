@@ -201,7 +201,7 @@
 
 ## Others 
 
-- [OvertureMaps/data](https://github.com/OvertureMaps/data) - 
+- [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
 - [HajoRijgersberg/OM](https://github.com/HajoRijgersberg/OM) - Ontology of units of Measure
 - [evmizulin/any-json-cms](https://github.com/evmizulin/any-json-cms) - Any JSON CMS
@@ -246,6 +246,7 @@
 
 ## Python 
 
+- [microsoft/table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evalu
 - [universal-ner/universal-ner](https://github.com/universal-ner/universal-ner) - 
 - [knowledge-computing/mapkurator-system](https://github.com/knowledge-computing/mapkurator-system) - 
 - [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
