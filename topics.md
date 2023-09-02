@@ -279,7 +279,7 @@
 
 ## ember 
 
-- [smessie/FormGenerator](https://github.com/smessie/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
+- [SolidLabResearch/FormGenerator](https://github.com/SolidLabResearch/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
 
 ## firebase 
 
