@@ -137,7 +137,7 @@
 
 - [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
 - [bluwy/vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server
-- [smessie/FormGenerator](https://github.com/smessie/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
+- [SolidLabResearch/FormGenerator](https://github.com/SolidLabResearch/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
 - [tropy/tropy-plugin-iiif](https://github.com/tropy/tropy-plugin-iiif) - Tropy plugin to import IIIF manifests
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
