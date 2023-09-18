@@ -142,6 +142,7 @@
 
 ## artificial-intelligence 
 
+- [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips
 - [nlp-uoregon/trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 - [CrowdTruth/CrowdTruth-core](https://github.com/CrowdTruth/CrowdTruth-core) - CrowdTruth framework for crowdsourcing ground truth for training & evaluation of AI systems
 - [gandersen101/spaczz](https://github.com/gandersen101/spaczz) - Fuzzy matching and more functionality for spaCy.
@@ -433,6 +434,7 @@
 
 ## machine-learning 
 
+- [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
