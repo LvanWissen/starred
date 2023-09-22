@@ -567,7 +567,7 @@
 - [digitalutsc/arks-service](https://github.com/digitalutsc/arks-service) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
 - [qurator-spk/dinglehopper](https://github.com/qurator-spk/dinglehopper) - An OCR evaluation tool
 - [blake-regalia/graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript
-- [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
+- [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
 - [OwnYourData/oydid](https://github.com/OwnYourData/oydid) - Own Your Decentralized IDentifier
 - [mapping-commons/sssom](https://github.com/mapping-commons/sssom) - Simple Standard for Sharing Ontology Mappings
 - [khaller93/graphdb-free](https://github.com/khaller93/graphdb-free) - Dockerfile for the free version of Ontotext GraphDB.
