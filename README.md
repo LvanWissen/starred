@@ -265,7 +265,7 @@
 - [qurator-spk/dinglehopper](https://github.com/qurator-spk/dinglehopper) - An OCR evaluation tool
 - [rsommerfeld/trocr](https://github.com/rsommerfeld/trocr) - Powerful handwritten text recognition. A simple-to-use, unofficial implementation of the paper "TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models".
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
-- [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented finetuning for better embeddings on neural search
+- [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
 - [mapping-commons/sssom](https://github.com/mapping-commons/sssom) - Simple Standard for Sharing Ontology Mappings
 - [anuzzolese/frodo](https://github.com/anuzzolese/frodo) - 
 - [semantic-web-company/ptlm_wsid](https://github.com/semantic-web-company/ptlm_wsid) - Usage of pre-trained language model to induce and disambiguate entity senses
