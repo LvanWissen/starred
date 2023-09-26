@@ -390,7 +390,7 @@
 
 ## TypeScript 
 
-- [annotorious/annotorious-v3](https://github.com/annotorious/annotorious-v3) - Add annotation functionality to any web page with a few lines of JavaScript.
+- [annotorious/annotorious-v3](https://github.com/annotorious/annotorious-v3) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ugent-library/mmmonk-annotation-demo](https://github.com/ugent-library/mmmonk-annotation-demo) - 
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
