@@ -248,6 +248,7 @@
 
 ## Python 
 
+- [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 - [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Queries over Wikidata dumps
 - [Dans-labs/did-summarizer](https://github.com/Dans-labs/did-summarizer) - Linked Data summarizer driven by Decentralized Identifiers (DIDs)
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Schemas and Knowledge Graphs at Your Fingertips
