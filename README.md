@@ -137,6 +137,7 @@
 
 ## JavaScript 
 
+- [annotorious/annotorious](https://github.com/annotorious/annotorious) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
 - [bluwy/vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server
 - [SolidLabResearch/FormGenerator](https://github.com/SolidLabResearch/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
