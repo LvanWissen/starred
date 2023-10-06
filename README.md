@@ -102,6 +102,7 @@
 
 ## HTML 
 
+- [json-ld/yaml-ld](https://github.com/json-ld/yaml-ld) - CG specification for YAML-LD and UCR
 - [opengeospatial/ogc-geosparql](https://github.com/opengeospatial/ogc-geosparql) - Public Repository for the OGC GeoSPARQL Standards Working Group
 - [marijnkoolen/fuzzy-search](https://github.com/marijnkoolen/fuzzy-search) - Fuzzy search modules for searching lists of words in low quality OCR and HTR text.
 - [PRImA-Research-Lab/prima-page-converter](https://github.com/PRImA-Research-Lab/prima-page-converter) - Command line tool to convert page layout files to the latest PAGE XML format. It supports all previous versions of the PAGE format as well as ALTO XML, FineReader XML, and HOCR
