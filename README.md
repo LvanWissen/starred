@@ -395,6 +395,8 @@
 
 ## TypeScript 
 
+- [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
+- [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
 - [annotorious/annotorious-v3](https://github.com/annotorious/annotorious-v3) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ugent-library/mmmonk-annotation-demo](https://github.com/ugent-library/mmmonk-annotation-demo) - 
