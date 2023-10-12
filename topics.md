@@ -526,6 +526,7 @@
 
 ## others 
 
+- [geovistory/ontome](https://github.com/geovistory/ontome) - 
 - [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Queries over Wikidata dumps
 - [Dans-labs/did-summarizer](https://github.com/Dans-labs/did-summarizer) - Linked Data summarizer driven by Decentralized Identifiers (DIDs)
 - [annotorious/annotorious-v3](https://github.com/annotorious/annotorious-v3) - Add image annotation functionality to any web page with a few lines of JavaScript.
