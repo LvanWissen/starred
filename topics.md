@@ -185,6 +185,7 @@
 
 ## computer-vision 
 
+- [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps](https://github.com/RPetitpierre/Generic_Semantic_Segmentation_of_Historical_Maps) - 
 - [rsommerfeld/trocr](https://github.com/rsommerfeld/trocr) - Powerful handwritten text recognition. A simple-to-use, unofficial implementation of the paper "TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models".
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
@@ -230,6 +231,7 @@
 
 ## deep-learning 
 
+- [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -337,6 +339,7 @@
 
 ## hacktoberfest 
 
+- [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [annotorious/annotorious](https://github.com/annotorious/annotorious) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
@@ -438,6 +441,7 @@
 
 ## machine-learning 
 
+- [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
 - [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -526,6 +530,8 @@
 
 ## others 
 
+- [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
+- [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
 - [geovistory/ontome](https://github.com/geovistory/ontome) - 
 - [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Queries over Wikidata dumps
 - [Dans-labs/did-summarizer](https://github.com/Dans-labs/did-summarizer) - Linked Data summarizer driven by Decentralized Identifiers (DIDs)
@@ -759,6 +765,7 @@
 
 ## pytorch 
 
+- [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [RUCAIBox/TextBox](https://github.com/RUCAIBox/TextBox) - TextBox 2.0 is a text generation library with pre-trained language models
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
