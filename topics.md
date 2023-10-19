@@ -530,6 +530,7 @@
 
 ## others 
 
+- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
 - [geovistory/ontome](https://github.com/geovistory/ontome) - 
