@@ -93,6 +93,7 @@
 - [scikit-learn](#scikit-learn)
 - [security](#security)
 - [self-hosted](#self-hosted)
+- [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -813,6 +814,10 @@
 
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
+
+## serverless 
+
+- [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 
 ## shell 
 
