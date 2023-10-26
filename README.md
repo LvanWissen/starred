@@ -209,6 +209,7 @@
 
 ## Others 
 
+- [CBG-Centrum-voor-familiegeschiedenis/PiCo](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) - Linked Data opvolger voor de A2A standaard
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
 - [HajoRijgersberg/OM](https://github.com/HajoRijgersberg/OM) - Ontology of units of Measure
@@ -408,7 +409,7 @@
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
 - [annotorious/annotorious-v3](https://github.com/annotorious/annotorious-v3) - Add image annotation functionality to any web page with a few lines of JavaScript.
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [ugent-library/mmmonk-annotation-demo](https://github.com/ugent-library/mmmonk-annotation-demo) - 
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
