@@ -602,7 +602,7 @@
 - [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
 - [INL/corpus-frontend](https://github.com/INL/corpus-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Very fast SPARQL Engine, which can handle very large knowledge graphs like the complete Wikidata, offers context-sensitive autocompletion for SPARQL queries, and allows combination with text search. I
 - [knaw-huc/textrepo-client-python](https://github.com/knaw-huc/textrepo-client-python) - Python client for TextRepo
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
