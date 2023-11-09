@@ -248,7 +248,7 @@
 
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
-- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+SSL VPN tunnel services
+- [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 
 ## Prolog 
 
