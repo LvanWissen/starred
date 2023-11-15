@@ -106,6 +106,7 @@
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [json-ld/yaml-ld](https://github.com/json-ld/yaml-ld) - CG specification for YAML-LD and UCR
 - [opengeospatial/ogc-geosparql](https://github.com/opengeospatial/ogc-geosparql) - Public Repository for the OGC GeoSPARQL Standards Working Group
+- [ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O) - ICA Records in Contexts-Ontology (ICA RiC-O) GitHub repository web pages
 - [marijnkoolen/fuzzy-search](https://github.com/marijnkoolen/fuzzy-search) - Fuzzy search modules for searching lists of words in low quality OCR and HTR text.
 - [PRImA-Research-Lab/prima-page-converter](https://github.com/PRImA-Research-Lab/prima-page-converter) - Command line tool to convert page layout files to the latest PAGE XML format. It supports all previous versions of the PAGE format as well as ALTO XML, FineReader XML, and HOCR
 - [ktym/d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js
@@ -219,7 +220,6 @@
 - [FIAF/FIAFcore](https://github.com/FIAF/FIAFcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
 - [simonckemper/NL-HaNA_iiif_manifests](https://github.com/simonckemper/NL-HaNA_iiif_manifests) - Selection of iiif manifests from the National Archives of the Netherlands. Transcriptions and georeferences to be added soon
 - [frickdahl/montias-database-datasets](https://github.com/frickdahl/montias-database-datasets) - The datasets presented here are from The Montias Database of 17th Century Dutch Art Inventories (https://research.frick.org/montias). The datasets have not been modified or augmented.
-- [ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O) - ICA Records in Contexts-Ontology (ICA RiC-O) GitHub repository web pages
 - [GavinMendelGleason/why_terminusx](https://github.com/GavinMendelGleason/why_terminusx) - Why we made TerminusX
 - [google-research-datasets/wit](https://github.com/google-research-datasets/wit) - WIT (Wikipedia-based Image Text) Dataset is a large multimodal multilingual dataset comprising 37M+ image-text sets with 11M+ unique images across 100+ languages.
 - [allmaps/iiif-map-collections](https://github.com/allmaps/iiif-map-collections) - List of IIIF map collections
