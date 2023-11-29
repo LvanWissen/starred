@@ -487,6 +487,7 @@
 
 ## nextjs 
 
+- [Odeuropa/explorer](https://github.com/Odeuropa/explorer) - Exploratory Search Engine for Odeuropa
 - [D2KLab/explorer](https://github.com/D2KLab/explorer) - Exploratory Search Engine for Linked Data (used by MeMAD, SILKNOW and Odeuropa among others)
 
 ## nlp 
@@ -533,6 +534,7 @@
 
 ## others 
 
+- [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [netwerk-digitaal-erfgoed/lod-aggregator](https://github.com/netwerk-digitaal-erfgoed/lod-aggregator) - LOD aggregator - a generic toolset for harvesting and transforming LOD for ingesting into the Europeana platform
 - [interactive-instruments/ldproxy](https://github.com/interactive-instruments/ldproxy) - Share geospatial data via modern Web APIs
 - [CBG-Centrum-voor-familiegeschiedenis/PiCo](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) - Linked Data opvolger voor de A2A standaard
