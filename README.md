@@ -94,6 +94,7 @@
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
 - [sethvargo/ratchet](https://github.com/sethvargo/ratchet) - A tool for securing CI/CD workflows with version pinning.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
+- [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database
@@ -295,7 +296,6 @@
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [sodascience/awesome-citizen-science-nl](https://github.com/sodascience/awesome-citizen-science-nl) - A curated list of awesome Citizen Science Projects in the Netherlands
 - [githubharald/SimpleHTR](https://github.com/githubharald/SimpleHTR) - Handwritten Text Recognition (HTR) system implemented with TensorFlow.
-- [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
 - [dhlab-epfl/dhSegment](https://github.com/dhlab-epfl/dhSegment) - Generic framework for historical document processing
 - [robcast/python-iiif-annotation-tool](https://github.com/robcast/python-iiif-annotation-tool) - Tool to manipulate image annotations in IIIF manifests
 - [gandersen101/spaczz](https://github.com/gandersen101/spaczz) - Fuzzy matching and more functionality for spaCy.
