@@ -347,7 +347,6 @@
 ## hacktoberfest 
 
 - [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
-- [annotorious/annotorious](https://github.com/annotorious/annotorious) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
@@ -547,6 +546,7 @@
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
 - [geovistory/ontome](https://github.com/geovistory/ontome) - 
+- [annotorious/annotorious](https://github.com/annotorious/annotorious) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Queries over Wikidata dumps
 - [Dans-labs/did-summarizer](https://github.com/Dans-labs/did-summarizer) - Linked Data summarizer driven by Decentralized Identifiers (DIDs)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
