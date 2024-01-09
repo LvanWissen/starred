@@ -335,7 +335,7 @@
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
-- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## graphql 
@@ -377,7 +377,7 @@
 
 ## iot 
 
-- [absmach/mainflux](https://github.com/absmach/mainflux) - Industrial IoT Messaging and Device Management Platform
+- [absmach/magistrala](https://github.com/absmach/magistrala) - Industrial IoT Messaging and Device Management Platform
 - [kabbi/zigbee2mqtt-adapter](https://github.com/kabbi/zigbee2mqtt-adapter) - zigbee2mqtt adapter for WebThings gateway
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 
