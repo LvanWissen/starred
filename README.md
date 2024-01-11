@@ -371,7 +371,7 @@
 
 ## ShaderLab 
 
-- [ElmarJ/Waterlooplein3D](https://github.com/ElmarJ/Waterlooplein3D) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000. https://waterlooplein3d.nl
+- [ElmarJ/waterlooplein-timemachine](https://github.com/ElmarJ/waterlooplein-timemachine) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000. https://waterlooplein3d.nl
 
 ## Shell 
 
