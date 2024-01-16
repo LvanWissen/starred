@@ -239,6 +239,7 @@
 
 ## PHP 
 
+- [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
 - [digitalutsc/arks-service](https://github.com/digitalutsc/arks-service) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
 - [mmmenno/roar-samples](https://github.com/mmmenno/roar-samples) - personobservations, locationobservations and personreconstructions illustrating the use of the roar ontology
 - [nodegoat/nodegoat](https://github.com/nodegoat/nodegoat) - Web-based data management, network analysis & visualisation environment.
@@ -358,7 +359,7 @@
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data.
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [field33/plow](https://github.com/field33/plow) - Plow - The ontology package manager
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
