@@ -542,6 +542,7 @@
 
 ## others 
 
+- [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [netwerk-digitaal-erfgoed/lod-aggregator](https://github.com/netwerk-digitaal-erfgoed/lod-aggregator) - LOD aggregator - a generic toolset for harvesting and transforming LOD for ingesting into the Europeana platform
 - [interactive-instruments/ldproxy](https://github.com/interactive-instruments/ldproxy) - Share geospatial data via modern Web APIs
@@ -819,7 +820,7 @@
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [0x6b/libgsqlite](https://github.com/0x6b/libgsqlite) - A SQLite extension which loads a Google Sheet as a virtual table.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum secure VPN that uses WireGuard to transport the actual data.
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
 
 ## scikit-learn 
