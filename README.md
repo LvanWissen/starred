@@ -146,6 +146,7 @@
 
 ## JavaScript 
 
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs
 - [Odeuropa/explorer](https://github.com/Odeuropa/explorer) - Exploratory Search Engine for Odeuropa
 - [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
 - [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
@@ -239,6 +240,7 @@
 
 ## PHP 
 
+- [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
 - [digitalutsc/arks-service](https://github.com/digitalutsc/arks-service) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
 - [mmmenno/roar-samples](https://github.com/mmmenno/roar-samples) - personobservations, locationobservations and personreconstructions illustrating the use of the roar ontology
