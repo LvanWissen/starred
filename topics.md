@@ -542,6 +542,7 @@
 
 ## others 
 
+- [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [netwerk-digitaal-erfgoed/lod-aggregator](https://github.com/netwerk-digitaal-erfgoed/lod-aggregator) - LOD aggregator - a generic toolset for harvesting and transforming LOD for ingesting into the Europeana platform
@@ -885,6 +886,7 @@
 
 ## typescript 
 
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform | Now in Public Beta
