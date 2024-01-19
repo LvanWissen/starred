@@ -542,6 +542,7 @@
 
 ## others 
 
+- [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
 - [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
