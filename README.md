@@ -216,6 +216,7 @@
 
 ## Others 
 
+- [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
 - [CBG-Centrum-voor-familiegeschiedenis/PiCo](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) - Linked Data opvolger voor de A2A standaard
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
