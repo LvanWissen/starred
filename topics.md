@@ -325,6 +325,7 @@
 
 ## go 
 
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
@@ -426,6 +427,7 @@
 
 ## kubernetes 
 
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## language 
@@ -532,6 +534,7 @@
 
 ## open-source 
 
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - A workflow for reproducible and open scientific articles
 - [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
@@ -542,6 +545,7 @@
 
 ## others 
 
+- [rsimon/immarkus](https://github.com/rsimon/immarkus) - An image annotation environment for the MARKUS platform
 - [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
 - [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
@@ -817,6 +821,7 @@
 
 ## rust 
 
+- [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [tweedegolf/101-rs](https://github.com/tweedegolf/101-rs) - A Rust university course
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
