@@ -82,6 +82,7 @@
 
 ## Go 
 
+- [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [oxtyped/gpodder2go](https://github.com/oxtyped/gpodder2go) - gpodder2go is a simple self-hosted, golang, drop-in replacement for gpodder/mygpo server to handle podcast subscriptions management for gpodder clients
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
@@ -265,6 +266,7 @@
 
 ## Python 
 
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 - [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Queries over Wikidata dumps
