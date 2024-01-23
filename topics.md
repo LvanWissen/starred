@@ -443,6 +443,7 @@
 
 ## linux 
 
+- [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
@@ -545,6 +546,7 @@
 
 ## others 
 
+- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [rsimon/immarkus](https://github.com/rsimon/immarkus) - An image annotation environment for the MARKUS platform
 - [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
 - [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
