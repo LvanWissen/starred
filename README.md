@@ -35,7 +35,6 @@
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
-- [Vue](#vue)
 - [XSLT](#xslt)
 
 ## Arduino 
@@ -435,6 +434,7 @@
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
 - [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
 - [hypermedia-app/shaperone](https://github.com/hypermedia-app/shaperone) - Form UI elements driven by SHACL Shapes
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [INL/corpus-frontend](https://github.com/INL/corpus-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Smithsonian/dpo-voyager](https://github.com/Smithsonian/dpo-voyager) - DPO Voyager - 3D Explorer and Tool Suite
@@ -443,10 +443,6 @@
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-
-## Vue 
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 
 ## XSLT 
 
