@@ -551,6 +551,7 @@
 
 ## others 
 
+- [WangRongsheng/SAM-fine-tune](https://github.com/WangRongsheng/SAM-fine-tune) - 🌌 Fine tune specific SAM model on any task
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [rsimon/immarkus](https://github.com/rsimon/immarkus) - An image annotation environment for the MARKUS platform
 - [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
