@@ -551,6 +551,9 @@
 
 ## others 
 
+- [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
+- [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
+- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
 - [nlesc-sigs/nlp-sig](https://github.com/nlesc-sigs/nlp-sig) - Information related to the meetings of the Natural Language Processing SIG of the Netherlands eScience Center
 - [WangRongsheng/SAM-fine-tune](https://github.com/WangRongsheng/SAM-fine-tune) - 🌌 Fine tune specific SAM model on any task
