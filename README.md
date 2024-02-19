@@ -419,6 +419,7 @@
 
 ## TypeScript 
 
+- [danielbeeke/shacl-form](https://github.com/danielbeeke/shacl-form) - A TypeScript form builder that uses SHACL shapes as definition
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
