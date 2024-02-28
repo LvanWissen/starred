@@ -56,6 +56,7 @@
 
 ## C++ 
 
+- [ScanTailor-Advanced/scantailor-advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
 - [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Very fast SPARQL Engine, which can handle very large knowledge graphs like the complete Wikidata, offers context-sensitive autocompletion for SPARQL queries, and allows combination with text search. I
 - [bram2202/esp8266-dsmr](https://github.com/bram2202/esp8266-dsmr) - A ESP8266 based DSMR reader, posting onto MQTT
