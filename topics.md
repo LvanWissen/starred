@@ -17,6 +17,7 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [chatgpt](#chatgpt)
 - [cli](#cli)
 - [code](#code)
 - [compiler](#compiler)
@@ -175,6 +176,10 @@
 ## bash 
 
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
+
+## chatgpt 
+
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 
 ## cli 
 
