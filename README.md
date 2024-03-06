@@ -268,6 +268,7 @@
 
 ## Python 
 
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
 - [WangRongsheng/SAM-fine-tune](https://github.com/WangRongsheng/SAM-fine-tune) - 🌌 Fine tune specific SAM model on any task
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
