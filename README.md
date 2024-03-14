@@ -200,6 +200,7 @@
 
 ## Jupyter Notebook 
 
+- [melvinwevers/HisVis2](https://github.com/melvinwevers/HisVis2) - Work for Part 2 of HisVis Project
 - [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [kbrbe/beltrans-data-integration](https://github.com/kbrbe/beltrans-data-integration) - Creating a FAIR Linked Data corpus for the BELTRANS research project about Belgian book translations NL-FR and FR-NL between 1970 and 2020
