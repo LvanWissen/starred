@@ -27,7 +27,6 @@
 - [R](#r)
 - [Ruby](#ruby)
 - [Rust](#rust)
-- [SCSS](#scss)
 - [Scala](#scala)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
@@ -378,10 +377,6 @@
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
 
-## SCSS 
-
-- [metadatacenter/cedar-embeddable-editor](https://github.com/metadatacenter/cedar-embeddable-editor) - CEDAR Embeddable Editor WebComponent
-
 ## Scala 
 
 - [henrietteharmse/uml2semantics](https://github.com/henrietteharmse/uml2semantics) - Translates UML class diagrams to OWL2
@@ -428,6 +423,7 @@
 
 ## TypeScript 
 
+- [metadatacenter/cedar-embeddable-editor](https://github.com/metadatacenter/cedar-embeddable-editor) - CEDAR Embeddable Editor WebComponent
 - [danielbeeke/shacl-form](https://github.com/danielbeeke/shacl-form) - A TypeScript form builder that uses SHACL shapes as definition
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
