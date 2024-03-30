@@ -575,6 +575,7 @@
 
 ## others 
 
+- [chin-rcip/CRITERIA](https://github.com/chin-rcip/CRITERIA) - Cidoc cRm In Triples mERmaid dIagrAms
 - [melvinwevers/HisVis2](https://github.com/melvinwevers/HisVis2) - Work for Part 2 of HisVis Project
 - [ScanTailor-Advanced/scantailor-advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [metadatacenter/cedar-embeddable-editor](https://github.com/metadatacenter/cedar-embeddable-editor) - CEDAR Embeddable Editor WebComponent
