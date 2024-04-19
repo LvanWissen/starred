@@ -56,6 +56,7 @@
 - [iot](#iot)
 - [java](#java)
 - [javascript](#javascript)
+- [jekyll](#jekyll)
 - [js](#js)
 - [json](#json)
 - [julia](#julia)
@@ -415,6 +416,10 @@
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
 
+## jekyll 
+
+- [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
+
 ## js 
 
 - [gitrows/gitrows](https://github.com/gitrows/gitrows) - A lightweight module for using git as a database
@@ -574,6 +579,7 @@
 
 ## others 
 
+- [minicomp/wax_iiif](https://github.com/minicomp/wax_iiif) - Minimal IIIF level 0 generator (iiif_s3 minus the s3) 🐝
 - [chin-rcip/CRITERIA](https://github.com/chin-rcip/CRITERIA) - Cidoc cRm In Triples mERmaid dIagrAms
 - [melvinwevers/HisVis2](https://github.com/melvinwevers/HisVis2) - Work for Part 2 of HisVis Project
 - [ScanTailor-Advanced/scantailor-advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
