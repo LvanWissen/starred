@@ -361,6 +361,7 @@
 
 ## Ruby 
 
+- [minicomp/wax_iiif](https://github.com/minicomp/wax_iiif) - Minimal IIIF level 0 generator (iiif_s3 minus the s3) 🐝
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [OwnYourData/oydid](https://github.com/OwnYourData/oydid) - Own Your Decentralized IDentifier
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
@@ -382,6 +383,7 @@
 
 ## SCSS 
 
+- [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
 - [metadatacenter/cedar-embeddable-editor](https://github.com/metadatacenter/cedar-embeddable-editor) - CEDAR Embeddable Editor WebComponent
 
 ## Scala 
