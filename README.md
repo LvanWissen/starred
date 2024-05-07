@@ -285,7 +285,7 @@
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
-- [FIAF/FIAFcore](https://github.com/FIAF/FIAFcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
+- [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives, based primarily on the FIAF Cataloguing Manual.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) - Directory listing for Github Pages
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
