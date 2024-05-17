@@ -480,6 +480,7 @@
 
 ## machine-learning 
 
+- [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
@@ -605,7 +606,7 @@
 - [netwerk-digitaal-erfgoed/lod-aggregator](https://github.com/netwerk-digitaal-erfgoed/lod-aggregator) - LOD aggregator - a generic toolset for harvesting and transforming LOD for ingesting into the Europeana platform
 - [interactive-instruments/ldproxy](https://github.com/interactive-instruments/ldproxy) - Share geospatial data via modern Web APIs
 - [CBG-Centrum-voor-familiegeschiedenis/PiCo](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) - Linked Data opvolger voor de A2A standaard
-- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - Generative Gaussian Splatting for Efficient 3D Content Creation
+- [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
 - [geovistory/ontome](https://github.com/geovistory/ontome) - 
