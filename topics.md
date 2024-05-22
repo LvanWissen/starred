@@ -186,7 +186,8 @@
 
 ## cli 
 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 
@@ -480,6 +481,7 @@
 
 ## machine-learning 
 
+- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
@@ -539,6 +541,7 @@
 ## nextjs 
 
 - [Odeuropa/explorer](https://github.com/Odeuropa/explorer) - Exploratory Search Engine for Odeuropa
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [D2KLab/explorer](https://github.com/D2KLab/explorer) - Exploratory Search Engine for Linked Data (used by MeMAD, SILKNOW and Odeuropa among others)
 
 ## nlp 
@@ -586,6 +589,8 @@
 
 ## others 
 
+- [duckdb-wasm-examples/sveltekit-typescript](https://github.com/duckdb-wasm-examples/sveltekit-typescript) - Demo of duckdb-wasm in static sveltekit.
+- [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
 - [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
 - [minicomp/wax_iiif](https://github.com/minicomp/wax_iiif) - Minimal IIIF level 0 generator (iiif_s3 minus the s3) 🐝
 - [chin-rcip/CRITERIA](https://github.com/chin-rcip/CRITERIA) - Cidoc cRm In Triples mERmaid dIagrAms
@@ -861,6 +866,7 @@
 ## react 
 
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 
@@ -927,7 +933,7 @@
 - [ciscoheat/sveltekit-superforms](https://github.com/ciscoheat/sveltekit-superforms) - Making SvelteKit forms a pleasure to use!
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 
 ## tensorflow 
