@@ -124,6 +124,7 @@
 
 ## Java 
 
+- [sparna-git/xls2rdf](https://github.com/sparna-git/xls2rdf) - Create RDF data from Excel spreadsheets - edit SKOS vocabularies, knowledge graph instances, SHACL constraints, OWL ontologies in Excel files. Available as HTTP service, upload form, command-line, or 
 - [netwerk-digitaal-erfgoed/lod-aggregator](https://github.com/netwerk-digitaal-erfgoed/lod-aggregator) - LOD aggregator - a generic toolset for harvesting and transforming LOD for ingesting into the Europeana platform
 - [interactive-instruments/ldproxy](https://github.com/interactive-instruments/ldproxy) - Share geospatial data via modern Web APIs
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
