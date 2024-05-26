@@ -437,6 +437,7 @@
 
 ## TypeScript 
 
+- [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
 - [vemonet/json-ld-editor-react](https://github.com/vemonet/json-ld-editor-react) - 🧙‍♂️📝 JSON-LD web editor, with autocomplete based on the loaded ontologies concepts and properties
 - [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
 - [danielbeeke/shacl-form](https://github.com/danielbeeke/shacl-form) - A TypeScript form builder that uses SHACL shapes as definition
