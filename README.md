@@ -19,6 +19,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -44,6 +45,7 @@
 
 ## C 
 
+- [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
@@ -152,6 +154,9 @@
 
 ## JavaScript 
 
+- [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
+- [arkalab/tropiiify](https://github.com/arkalab/tropiiify) - Export IIIF collections from Tropy
+- [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
 - [zazuko/shacl-forms](https://github.com/zazuko/shacl-forms) - SHACL-generated forms
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs, configurable with SHACL
@@ -222,6 +227,10 @@
 ## Kotlin 
 
 - [knaw-huc/annorepo](https://github.com/knaw-huc/annorepo) - Annotation Repository
+
+## OCaml 
+
+- [nationalarchives/miiify](https://github.com/nationalarchives/miiify) - A web annotation server built with the same principles as Git
 
 ## Others 
 
@@ -438,6 +447,7 @@
 
 ## TypeScript 
 
+- [digirati-co-uk/iiif-canvas-panel](https://github.com/digirati-co-uk/iiif-canvas-panel) - Investigation into component granularity
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
 - [vemonet/json-ld-editor-react](https://github.com/vemonet/json-ld-editor-react) - 🧙‍♂️📝 JSON-LD web editor, with autocomplete based on the loaded ontologies concepts and properties
@@ -456,7 +466,7 @@
 - [ugent-library/mmmonk-annotation-demo](https://github.com/ugent-library/mmmonk-annotation-demo) - 
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [executablebooks/mystmd](https://github.com/executablebooks/mystmd) - Command line tools for working with MyST Markdown.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
