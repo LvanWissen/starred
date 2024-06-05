@@ -17,12 +17,16 @@
 - [aws](#aws)
 - [azure](#azure)
 - [bash](#bash)
+- [c](#c)
 - [chatgpt](#chatgpt)
+- [chrome](#chrome)
+- [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [code](#code)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [continuous-integration](#continuous-integration)
+- [cpp](#cpp)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -180,9 +184,21 @@
 
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
+## c 
+
+- [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
+
 ## chatgpt 
 
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+
+## chrome 
+
+- [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
+
+## chrome-extension 
+
+- [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
 
 ## cli 
 
@@ -210,6 +226,10 @@
 ## continuous-integration 
 
 - [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - A workflow for reproducible and open scientific articles
+
+## cpp 
+
+- [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 
 ## data 
 
@@ -328,6 +348,7 @@
 
 ## git 
 
+- [nationalarchives/miiify](https://github.com/nationalarchives/miiify) - A web annotation server built with the same principles as Git
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 
@@ -366,7 +387,7 @@
 
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [automatic-ripping-machine/automatic-ripping-machine](https://github.com/automatic-ripping-machine/automatic-ripping-machine) - Automatic Ripping Machine (ARM) Scripts
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
@@ -390,6 +411,7 @@
 
 ## image-processing 
 
+- [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 
 ## iot 
@@ -589,6 +611,8 @@
 
 ## others 
 
+- [digirati-co-uk/iiif-canvas-panel](https://github.com/digirati-co-uk/iiif-canvas-panel) - Investigation into component granularity
+- [arkalab/tropiiify](https://github.com/arkalab/tropiiify) - Export IIIF collections from Tropy
 - [zazuko/shacl-forms](https://github.com/zazuko/shacl-forms) - SHACL-generated forms
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
@@ -870,6 +894,8 @@
 
 ## react 
 
+- [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
+- [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
@@ -957,7 +983,7 @@
 
 - [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs, configurable with SHACL
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
-- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in WebGL2
+- [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
@@ -986,6 +1012,7 @@
 
 ## web 
 
+- [nationalarchives/miiify](https://github.com/nationalarchives/miiify) - A web annotation server built with the same principles as Git
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
