@@ -192,7 +192,7 @@
 - [Esri/terraformer-wkt-parser](https://github.com/Esri/terraformer-wkt-parser) - Well-Known Text parser for Terraformer
 - [kabbi/zigbee2mqtt-adapter](https://github.com/kabbi/zigbee2mqtt-adapter) - zigbee2mqtt adapter for WebThings gateway
 - [rzr/webthing-iotjs](https://github.com/rzr/webthing-iotjs) - IoT.js implementation of WebThing API (based on webthing-node)
-- [w3c/respec](https://github.com/w3c/respec) - A tool for creating technical documents and web standards
+- [speced/respec](https://github.com/speced/respec) - A tool for creating technical documents and web standards
 - [KBNLresearch/alto-editor](https://github.com/KBNLresearch/alto-editor) - Browser based post correction tool for Alto XML files
 - [nypl-spacetime/Leaflet.GeotagPhoto](https://github.com/nypl-spacetime/Leaflet.GeotagPhoto) - Leaflet plugin for photo geotagging
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
@@ -257,6 +257,7 @@
 
 ## PHP 
 
+- [collectiveaccess/providence](https://github.com/collectiveaccess/providence) - Cataloguing and data/media management application
 - [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
 - [digitalutsc/arks-service](https://github.com/digitalutsc/arks-service) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
@@ -447,6 +448,7 @@
 
 ## TypeScript 
 
+- [samvera-labs/clover-iiif](https://github.com/samvera-labs/clover-iiif) - Extensible IIIF front-end toolkit and Manifest viewer. Accessible. Composable. Open Source.
 - [digirati-co-uk/iiif-canvas-panel](https://github.com/digirati-co-uk/iiif-canvas-panel) - Investigation into component granularity
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
