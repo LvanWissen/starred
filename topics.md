@@ -611,6 +611,7 @@
 
 ## others 
 
+- [thegetty/lod-gateway](https://github.com/thegetty/lod-gateway) - This repository contains the code for the LOD Gateway project, used to convert the various Getty systems of record into their Linked.art JSON-LD representations.
 - [collectiveaccess/providence](https://github.com/collectiveaccess/providence) - Cataloguing and data/media management application
 - [digirati-co-uk/iiif-canvas-panel](https://github.com/digirati-co-uk/iiif-canvas-panel) - Investigation into component granularity
 - [arkalab/tropiiify](https://github.com/arkalab/tropiiify) - Export IIIF collections from Tropy
