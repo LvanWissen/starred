@@ -235,6 +235,7 @@
 
 ## Others 
 
+- [HarmTseard/WorldOfJanssonius](https://github.com/HarmTseard/WorldOfJanssonius) - The World of Janssonius is a pilot project to reconstruct the social world of the cartographer and publisher  Johannes Janssonius (1588-1664) by using Linked Open Data
 - [nlesc-sigs/nlp-sig](https://github.com/nlesc-sigs/nlp-sig) - Information related to the meetings of the Natural Language Processing SIG of the Netherlands eScience Center
 - [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
