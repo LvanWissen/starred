@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [zazuko/clownface](https://github.com/zazuko/clownface) - Simple but powerful graph traversing library for RDF
 - [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
 - [arkalab/tropiiify](https://github.com/arkalab/tropiiify) - Export IIIF collections from Tropy
 - [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
@@ -235,6 +236,7 @@
 
 ## Others 
 
+- [zazuko/knowledge-graph-forum](https://github.com/zazuko/knowledge-graph-forum) - Knowledge Graph Forum, Switzerland
 - [dcmi/openwemi](https://github.com/dcmi/openwemi) - OpenWEMI
 - [HarmTseard/WorldOfJanssonius](https://github.com/HarmTseard/WorldOfJanssonius) - The World of Janssonius is a pilot project to reconstruct the social world of the cartographer and publisher  Johannes Janssonius (1588-1664) by using Linked Open Data
 - [nlesc-sigs/nlp-sig](https://github.com/nlesc-sigs/nlp-sig) - Information related to the meetings of the Natural Language Processing SIG of the Netherlands eScience Center
