@@ -155,6 +155,7 @@
 
 ## JavaScript 
 
+- [rdf-ext/shacl-engine](https://github.com/rdf-ext/shacl-engine) - A fast RDF/JS SHACL engine
 - [zazuko/clownface](https://github.com/zazuko/clownface) - Simple but powerful graph traversing library for RDF
 - [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
 - [arkalab/tropiiify](https://github.com/arkalab/tropiiify) - Export IIIF collections from Tropy
