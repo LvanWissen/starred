@@ -617,6 +617,7 @@
 
 ## others 
 
+- [rdf-ext/shacl-engine](https://github.com/rdf-ext/shacl-engine) - A fast RDF/JS SHACL engine
 - [zazuko/clownface](https://github.com/zazuko/clownface) - Simple but powerful graph traversing library for RDF
 - [zazuko/knowledge-graph-forum](https://github.com/zazuko/knowledge-graph-forum) - Knowledge Graph Forum, Switzerland
 - [dcmi/openwemi](https://github.com/dcmi/openwemi) - OpenWEMI
