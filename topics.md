@@ -617,6 +617,8 @@
 
 ## others 
 
+- [netwerk-digitaal-erfgoed/rdanl](https://github.com/netwerk-digitaal-erfgoed/rdanl) - RDA toepassingsprofiel Nederlandse bibliografie
+- [uwlib-cams/MARC2RDA](https://github.com/uwlib-cams/MARC2RDA) - mapping between MARC21 and RDA-RDF
 - [rdf-ext/shacl-engine](https://github.com/rdf-ext/shacl-engine) - A fast RDF/JS SHACL engine
 - [zazuko/clownface](https://github.com/zazuko/clownface) - Simple but powerful graph traversing library for RDF
 - [zazuko/knowledge-graph-forum](https://github.com/zazuko/knowledge-graph-forum) - Knowledge Graph Forum, Switzerland
