@@ -6,6 +6,7 @@
 ## Contents
 
 - [Arduino](#arduino)
+- [Bikeshed](#bikeshed)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -42,6 +43,10 @@
 ## Arduino 
 
 - [bruhautomation/ESP-MQTT-JSON-Digital-LEDs](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - (OBSOLETE) ESP8266 MQTT JSON Digital LEDs for Home Assistant
+
+## Bikeshed 
+
+- [netwerk-digitaal-erfgoed/rdanl](https://github.com/netwerk-digitaal-erfgoed/rdanl) - RDA toepassingsprofiel Nederlandse bibliografie
 
 ## C 
 
@@ -493,6 +498,7 @@
 
 ## XSLT 
 
+- [uwlib-cams/MARC2RDA](https://github.com/uwlib-cams/MARC2RDA) - mapping between MARC21 and RDA-RDF
 - [mightymax/ead2rico](https://github.com/mightymax/ead2rico) - Conversion between EAD in Ric-O
 - [ivozandhuis/A2ALOD](https://github.com/ivozandhuis/A2ALOD) - Converting A2A XML format for genealogical data into RDF XML
 - [transpect/docx2tex](https://github.com/transpect/docx2tex) - Converts Microsoft Word docx to LaTeX
