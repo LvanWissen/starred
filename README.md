@@ -320,7 +320,7 @@
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [nlp-uoregon/trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 - [natliblux/nautilusocr](https://github.com/natliblux/nautilusocr) - METS/ALTO OCR enhancing tool by the National Library of Luxembourg (BnL)
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [qurator-spk/dinglehopper](https://github.com/qurator-spk/dinglehopper) - An OCR evaluation tool
 - [rsommerfeld/trocr](https://github.com/rsommerfeld/trocr) - Powerful handwritten text recognition. A simple-to-use, unofficial implementation of the paper "TrOCR: Transformer-based Optical Character Recognition with Pre-trained Models".
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -395,7 +395,7 @@
 ## Rust 
 
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
-- [tweedegolf/teach-rs](https://github.com/tweedegolf/teach-rs) - A modular, reusable university course for Rust
+- [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [TimelyDataflow/timely-dataflow](https://github.com/TimelyDataflow/timely-dataflow) - A modular implementation of timely dataflow in Rust
 - [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX, WASI and Emscripten
