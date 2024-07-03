@@ -617,6 +617,7 @@
 
 ## others 
 
+- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
 - [geo-smart/water-surf](https://github.com/geo-smart/water-surf) - Image dataset relalignment workflow with computer vision, plus automated river segmentation using Meta's SAM.
 - [netwerk-digitaal-erfgoed/rdanl](https://github.com/netwerk-digitaal-erfgoed/rdanl) - RDA toepassingsprofiel Nederlandse bibliografie
 - [uwlib-cams/MARC2RDA](https://github.com/uwlib-cams/MARC2RDA) - mapping between MARC21 and RDA-RDF
