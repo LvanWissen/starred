@@ -23,7 +23,9 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
+- [Pkl](#pkl)
 - [Prolog](#prolog)
 - [Python](#python)
 - [R](#r)
@@ -244,7 +246,6 @@
 ## Others 
 
 - [zazuko/knowledge-graph-forum](https://github.com/zazuko/knowledge-graph-forum) - Knowledge Graph Forum, Switzerland
-- [dcmi/openwemi](https://github.com/dcmi/openwemi) - OpenWEMI
 - [HarmTseard/WorldOfJanssonius](https://github.com/HarmTseard/WorldOfJanssonius) - The World of Janssonius is a pilot project to reconstruct the social world of the cartographer and publisher  Johannes Janssonius (1588-1664) by using Linked Open Data
 - [nlesc-sigs/nlp-sig](https://github.com/nlesc-sigs/nlp-sig) - Information related to the meetings of the Natural Language Processing SIG of the Netherlands eScience Center
 - [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
@@ -279,11 +280,19 @@
 - [Haran/BMDMSoundex](https://github.com/Haran/BMDMSoundex) - Beider-Morse + Daitch-Mokotoff Phonetic Matching (soundex) Algorithm
 - [mmmenno/asap](https://github.com/mmmenno/asap) - Amsterdam Street Ages Project
 
+## PLpgSQL 
+
+- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
+
 ## Perl 
 
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
+
+## Pkl 
+
+- [dcmi/openwemi](https://github.com/dcmi/openwemi) - OpenWEMI
 
 ## Prolog 
 
