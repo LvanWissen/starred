@@ -617,6 +617,7 @@
 
 ## others 
 
+- [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome external component for reading P1 data from electricity meters
 - [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
 - [geo-smart/water-surf](https://github.com/geo-smart/water-surf) - Image dataset relalignment workflow with computer vision, plus automated river segmentation using Meta's SAM.
 - [netwerk-digitaal-erfgoed/rdanl](https://github.com/netwerk-digitaal-erfgoed/rdanl) - RDA toepassingsprofiel Nederlandse bibliografie
