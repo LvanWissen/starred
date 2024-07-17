@@ -619,6 +619,7 @@
 
 ## others 
 
+- [mug-jp/maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - Temporal Control plugin for MapLibre GL JS
 - [yrochat/Zola-Character-Network-Dataset](https://github.com/yrochat/Zola-Character-Network-Dataset) - 
 - [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome external component for reading P1 data from electricity meters
 - [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
