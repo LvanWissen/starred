@@ -270,6 +270,7 @@
 
 ## PHP 
 
+- [sinanatra/NestedDataTypes](https://github.com/sinanatra/NestedDataTypes) - Nested Data Types is a module for Omeka S which allows users to choose a specific resource class as datatype, and inner properties.
 - [collectiveaccess/providence](https://github.com/collectiveaccess/providence) - Cataloguing and data/media management application
 - [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
