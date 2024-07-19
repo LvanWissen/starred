@@ -619,6 +619,7 @@
 
 ## others 
 
+- [sinanatra/NestedDataTypes](https://github.com/sinanatra/NestedDataTypes) - Nested Data Types is a module for Omeka S which allows users to choose a specific resource class as datatype, and inner properties.
 - [mug-jp/maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - Temporal Control plugin for MapLibre GL JS
 - [yrochat/Zola-Character-Network-Dataset](https://github.com/yrochat/Zola-Character-Network-Dataset) - 
 - [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome external component for reading P1 data from electricity meters
