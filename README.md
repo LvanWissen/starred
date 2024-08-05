@@ -474,6 +474,7 @@
 
 ## TypeScript 
 
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [mug-jp/maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - Temporal Control plugin for MapLibre GL JS
 - [samvera-labs/clover-iiif](https://github.com/samvera-labs/clover-iiif) - Extensible IIIF front-end toolkit and Manifest viewer. Accessible. Composable. Open Source.
 - [digirati-co-uk/iiif-canvas-panel](https://github.com/digirati-co-uk/iiif-canvas-panel) - Investigation into component granularity
