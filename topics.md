@@ -619,6 +619,7 @@
 
 ## others 
 
+- [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [facebookresearch/segment-anything-2](https://github.com/facebookresearch/segment-anything-2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [sinanatra/NestedDataTypes](https://github.com/sinanatra/NestedDataTypes) - Nested Data Types is a module for Omeka S which allows users to choose a specific resource class as datatype, and inner properties.
