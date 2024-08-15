@@ -162,6 +162,7 @@
 
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
+- [henrietteharmse/uml2semantics](https://github.com/henrietteharmse/uml2semantics) - Translates UML class diagrams to OWL2
 - [nlp-uoregon/trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 - [CrowdTruth/CrowdTruth-core](https://github.com/CrowdTruth/CrowdTruth-core) - CrowdTruth framework for crowdsourcing ground truth for training & evaluation of AI systems
 - [gandersen101/spaczz](https://github.com/gandersen101/spaczz) - Fuzzy matching and more functionality for spaCy.
@@ -685,7 +686,6 @@
 - [knowledge-computing/mapkurator-system](https://github.com/knowledge-computing/mapkurator-system) - 
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
-- [henrietteharmse/uml2semantics](https://github.com/henrietteharmse/uml2semantics) - Translates UML class diagrams to OWL2
 - [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
 - [ugent-library/mmmonk-annotation-demo](https://github.com/ugent-library/mmmonk-annotation-demo) - 
 - [bluwy/vite-plugin-iso-import](https://github.com/bluwy/vite-plugin-iso-import) - Import modules isomorphically in the client or server
