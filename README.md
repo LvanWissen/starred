@@ -409,6 +409,7 @@
 
 ## Rust 
 
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -435,7 +436,7 @@
 
 ## ShaderLab 
 
-- [ElmarJ/waterlooplein-timemachine](https://github.com/ElmarJ/waterlooplein-timemachine) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000. https://waterlooplein3d.nl
+- [ElmarJ/waterlooplein-timemachine](https://github.com/ElmarJ/waterlooplein-timemachine) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000.
 
 ## Shell 
 
