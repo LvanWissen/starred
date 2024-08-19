@@ -112,6 +112,7 @@
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [testing](#testing)
@@ -624,6 +625,7 @@
 
 ## others 
 
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [jptmoore/maniiifest](https://github.com/jptmoore/maniiifest) - Typesafe IIIF presentation v3 manifest and collection parsing without external dependencies
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
@@ -1000,6 +1002,10 @@
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
 
+## tailwindcss 
+
+- [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+
 ## tensorflow 
 
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
@@ -1034,7 +1040,7 @@
 ## unity 
 
 - [Amsterdam/3DAmsterdam](https://github.com/Amsterdam/3DAmsterdam) - Repository for the 3D Amsterdam Unity viewer project
-- [ElmarJ/waterlooplein-timemachine](https://github.com/ElmarJ/waterlooplein-timemachine) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000. https://waterlooplein3d.nl
+- [ElmarJ/waterlooplein-timemachine](https://github.com/ElmarJ/waterlooplein-timemachine) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000.
 
 ## vue 
 
