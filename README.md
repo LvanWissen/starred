@@ -459,6 +459,7 @@
 
 ## Svelte 
 
+- [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 - [duckdb-wasm-examples/sveltekit-typescript](https://github.com/duckdb-wasm-examples/sveltekit-typescript) - Demo of duckdb-wasm in static sveltekit.
 - [dimfeld/svelte-maplibre](https://github.com/dimfeld/svelte-maplibre) - Svelte bindings for the MapLibre mapping library
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - A complete design system and component solution, built on Tailwind.
