@@ -223,7 +223,7 @@
 - [geo-smart/water-surf](https://github.com/geo-smart/water-surf) - Image dataset relalignment workflow with computer vision, plus automated river segmentation using Meta's SAM.
 - [melvinwevers/HisVis2](https://github.com/melvinwevers/HisVis2) - Work for Part 2 of HisVis Project
 - [nlesc-sigs/nlp-sig](https://github.com/nlesc-sigs/nlp-sig) - Information related to the meetings of the Natural Language Processing SIG of the Netherlands eScience Center
-- [Living-with-machines/MapReader](https://github.com/Living-with-machines/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
+- [maps-as-data/MapReader](https://github.com/maps-as-data/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [kbrbe/beltrans-data-integration](https://github.com/kbrbe/beltrans-data-integration) - Creating a FAIR Linked Data corpus for the BELTRANS research project about Belgian book translations NL-FR and FR-NL between 1970 and 2020
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
@@ -410,6 +410,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
