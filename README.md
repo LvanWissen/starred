@@ -479,6 +479,7 @@
 
 ## TypeScript 
 
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [jptmoore/maniiifest](https://github.com/jptmoore/maniiifest) - Typesafe IIIF presentation v3 manifest and collection parsing without external dependencies
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
