@@ -40,6 +40,7 @@
 - [TeX](#tex)
 - [Twig](#twig)
 - [TypeScript](#typescript)
+- [Vue](#vue)
 - [XSLT](#xslt)
 
 ## Arduino 
@@ -520,6 +521,10 @@
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+
+## Vue 
+
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
 ## XSLT 
 
