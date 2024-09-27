@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [docuracy/Locolligo](https://github.com/docuracy/Locolligo) - Locolligo is a single-page, browser-based javascript application to facilitate the formatting, linking, and geolocation of datasets, with a particular focus on Cultural Heritage.
 - [rdf-ext/shacl-engine](https://github.com/rdf-ext/shacl-engine) - A fast RDF/JS SHACL engine
 - [zazuko/clownface](https://github.com/zazuko/clownface) - Simple but powerful graph traversing library for RDF
 - [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
@@ -254,6 +255,7 @@
 
 ## Others 
 
+- [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
 - [yrochat/Zola-Character-Network-Dataset](https://github.com/yrochat/Zola-Character-Network-Dataset) - 
 - [zazuko/knowledge-graph-forum](https://github.com/zazuko/knowledge-graph-forum) - Knowledge Graph Forum, Switzerland
 - [HarmTseard/WorldOfJanssonius](https://github.com/HarmTseard/WorldOfJanssonius) - The World of Janssonius is a pilot project to reconstruct the social world of the cartographer and publisher  Johannes Janssonius (1588-1664) by using Linked Open Data
@@ -311,6 +313,8 @@
 
 ## Python 
 
+- [maps-as-data/MapTextPipeline](https://github.com/maps-as-data/MapTextPipeline) - SOTA baseline in  ICDAR 2024 Competition on Historical Map Text Detection, Recognition, and Linking.
+- [ViTAE-Transformer/DeepSolo](https://github.com/ViTAE-Transformer/DeepSolo) - The official repo for [CVPR'23] "DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting" & [ArXiv'23] "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilin
 - [thegetty/lod-gateway](https://github.com/thegetty/lod-gateway) - This repository contains the code for the LOD Gateway project, used to convert the various Getty systems of record into their Linked.art JSON-LD representations.
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
