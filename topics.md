@@ -372,6 +372,7 @@
 
 ## flask 
 
+- [craws/OpenAtlas](https://github.com/craws/OpenAtlas) - OpenAtlas is an open source, web based database system for complex archaeological, historical and prosopographical data.
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 
 ## flutter 
@@ -674,6 +675,8 @@
 
 ## others 
 
+- [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
+- [maps-as-data/mapreader-autumn-workshop-2024](https://github.com/maps-as-data/mapreader-autumn-workshop-2024) - A repo for the MapReader Autumn 2024 workshop
 - [docuracy/Locolligo](https://github.com/docuracy/Locolligo) - Locolligo is a single-page, browser-based javascript application to facilitate the formatting, linking, and geolocation of datasets, with a particular focus on Cultural Heritage.
 - [maps-as-data/MapTextPipeline](https://github.com/maps-as-data/MapTextPipeline) - SOTA baseline in  ICDAR 2024 Competition on Historical Map Text Detection, Recognition, and Linking.
 - [ViTAE-Transformer/DeepSolo](https://github.com/ViTAE-Transformer/DeepSolo) - The official repo for [CVPR'23] "DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting" & [ArXiv'23] "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilin
@@ -917,6 +920,7 @@
 
 ## postgresql 
 
+- [craws/OpenAtlas](https://github.com/craws/OpenAtlas) - OpenAtlas is an open source, web based database system for complex archaeological, historical and prosopographical data.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
@@ -957,6 +961,7 @@
 
 ## python3 
 
+- [craws/OpenAtlas](https://github.com/craws/OpenAtlas) - OpenAtlas is an open source, web based database system for complex archaeological, historical and prosopographical data.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [dhlab-epfl/dhSegment](https://github.com/dhlab-epfl/dhSegment) - Generic framework for historical document processing
