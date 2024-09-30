@@ -1092,7 +1092,7 @@
 
 ## typescript 
 
-- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs, configurable with SHACL
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual SPARQL query builder for knowledge graphs in the browser, configurable with SHACL
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
