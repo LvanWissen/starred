@@ -176,7 +176,7 @@
 - [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
 - [zazuko/shacl-forms](https://github.com/zazuko/shacl-forms) - SHACL-generated forms
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
-- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : Typescript visual SPARQL query builder for knowledge graphs, configurable with SHACL
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual SPARQL query builder for knowledge graphs in the browser, configurable with SHACL
 - [Odeuropa/explorer](https://github.com/Odeuropa/explorer) - Exploratory Search Engine for Odeuropa
 - [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
 - [plantuml/plantuml.js](https://github.com/plantuml/plantuml.js) - PlantUML that runs completely on javascript without needing java/servers
