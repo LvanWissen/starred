@@ -126,7 +126,6 @@
 ## HTML 
 
 - [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
-- [CBG-Centrum-voor-familiegeschiedenis/PiCo](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) - Linked Data opvolger voor de A2A standaard
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [json-ld/yaml-ld](https://github.com/json-ld/yaml-ld) - CG specification for YAML-LD and UCR
 - [opengeospatial/ogc-geosparql](https://github.com/opengeospatial/ogc-geosparql) - Public Repository for the OGC GeoSPARQL Standards Working Group
@@ -262,6 +261,7 @@
 - [zazuko/knowledge-graph-forum](https://github.com/zazuko/knowledge-graph-forum) - Knowledge Graph Forum, Switzerland
 - [HarmTseard/WorldOfJanssonius](https://github.com/HarmTseard/WorldOfJanssonius) - The World of Janssonius is a pilot project to reconstruct the social world of the cartographer and publisher  Johannes Janssonius (1588-1664) by using Linked Open Data
 - [stephenmcconnachie/starred](https://github.com/stephenmcconnachie/starred) - 
+- [CBG-Centrum-voor-familiegeschiedenis/PiCo](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) - Linked Data opvolger voor de A2A standaard
 - [tesseract-ocr/tessdata_best](https://github.com/tesseract-ocr/tessdata_best) - Best (most accurate) trained LSTM models.
 - [HajoRijgersberg/OM](https://github.com/HajoRijgersberg/OM) - Ontology of units of Measure
 - [evmizulin/any-json-cms](https://github.com/evmizulin/any-json-cms) - Any JSON CMS
