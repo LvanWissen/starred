@@ -676,6 +676,7 @@
 
 ## others 
 
+- [fonske/Brink-flair-modbus](https://github.com/fonske/Brink-flair-modbus) - Modbus RTU communication with Brink Flair to use in home assistant / esphome
 - [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
 - [maps-as-data/mapreader-autumn-workshop-2024](https://github.com/maps-as-data/mapreader-autumn-workshop-2024) - A repo for the MapReader Autumn 2024 workshop
 - [docuracy/Locolligo](https://github.com/docuracy/Locolligo) - Locolligo is a single-page, browser-based javascript application to facilitate the formatting, linking, and geolocation of datasets, with a particular focus on Cultural Heritage.
