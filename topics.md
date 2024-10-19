@@ -317,6 +317,7 @@
 
 ## deno 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 
 ## deployment 
@@ -417,6 +418,7 @@
 
 ## golang 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [oxtyped/gpodder2go](https://github.com/oxtyped/gpodder2go) - gpodder2go is a simple self-hosted, golang, drop-in replacement for gpodder/mygpo server to handle podcast subscriptions management for gpodder clients
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -479,6 +481,7 @@
 
 ## javascript 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace) - ArchivesSpace, the archives management tool
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
@@ -689,7 +692,7 @@
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
-- [sinanatra/NestedDataTypes](https://github.com/sinanatra/NestedDataTypes) - Nested Data Types is a module for Omeka S which allows users to choose a specific resource class as datatype, and inner properties.
+- [sinanatra/NestedDataType](https://github.com/sinanatra/NestedDataType) - Nested Data Type is a module for Omeka S which allows users to choose a specific resource class as datatype, and inner properties.
 - [mug-jp/maplibre-gl-temporal-control](https://github.com/mug-jp/maplibre-gl-temporal-control) - Temporal Control plugin for MapLibre GL JS
 - [yrochat/Zola-Character-Network-Dataset](https://github.com/yrochat/Zola-Character-Network-Dataset) - 
 - [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome custom component for reading P1 data from (Swedish) electricity meters
@@ -1011,6 +1014,7 @@
 
 ## rust 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [trifectatechfoundation/teach-rs](https://github.com/trifectatechfoundation/teach-rs) - A modular, reusable university course for Rust
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
@@ -1094,6 +1098,7 @@
 
 ## typescript 
 
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual SPARQL query builder for knowledge graphs in the browser, configurable with SHACL
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
