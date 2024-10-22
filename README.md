@@ -163,7 +163,7 @@
 - [LodLive/LodView](https://github.com/LodLive/LodView) - IRI dereferencer, RDF to HTML
 - [SmartDataAnalytics/Sparqlify](https://github.com/SmartDataAnalytics/Sparqlify) - Sparql -&gt; SQL Rewriter enabling virtual RDB -&gt; RDF mappings
 - [dbamman/book-nlp](https://github.com/dbamman/book-nlp) - Natural language processing pipeline for book-length documents (archival Java version; for current Python version, see: https://github.com/booknlp/booknlp)
-- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
+- [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [xiaoling/figer](https://github.com/xiaoling/figer) - Fine-Grained Entity Recognizer
 
 ## JavaScript 
