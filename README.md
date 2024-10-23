@@ -66,7 +66,7 @@
 
 ## C++ 
 
-- [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome custom component for reading P1 data from (Swedish) electricity meters
+- [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome external component for reading P1 data from (Swedish) electricity meters
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ScanTailor-Advanced/scantailor-advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
