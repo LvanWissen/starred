@@ -799,7 +799,7 @@
 - [jrvosse/amalgame](https://github.com/jrvosse/amalgame) - Amalgame: a SKOS vocabulary alignment tool
 - [mmmenno/roar-samples](https://github.com/mmmenno/roar-samples) - personobservations, locationobservations and personreconstructions illustrating the use of the roar ontology
 - [lah7/Ambiant-MATE-Colours](https://github.com/lah7/Ambiant-MATE-Colours) - Script to produce colourful versions of Ambiant-MATE and Radiant-MATE
-- [dvmarinoff/Flux](https://github.com/dvmarinoff/Flux) - Indoor Cycling App for Structured Training
+- [dvmarinoff/Auuki](https://github.com/dvmarinoff/Auuki) - Indoor Cycling App for Structured Training
 - [linkml/schemasheets](https://github.com/linkml/schemasheets) - Structure your data in a FAIR way using google sheets or TSVs. These are then converted to LinkML, and from there other formats
 - [knaw-huc/annorepo](https://github.com/knaw-huc/annorepo) - Annotation Repository
 - [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
@@ -1102,7 +1102,7 @@
 ## typescript 
 
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual SPARQL query builder for knowledge graphs in the browser, configurable with SHACL
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL
 - [melt-ui/melt-ui](https://github.com/melt-ui/melt-ui) - A set of headless, accessible component builders for Svelte.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
