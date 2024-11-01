@@ -682,6 +682,7 @@
 
 ## others 
 
+- [google-research/inksight](https://github.com/google-research/inksight) - 
 - [fonske/Brink-flair-modbus](https://github.com/fonske/Brink-flair-modbus) - Modbus RTU communication with Brink Flair to use in home assistant / esphome
 - [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
 - [maps-as-data/mapreader-autumn-workshop-2024](https://github.com/maps-as-data/mapreader-autumn-workshop-2024) - A repo for the MapReader Autumn 2024 workshop
