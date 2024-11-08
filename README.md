@@ -419,6 +419,7 @@
 
 ## Ruby 
 
+- [thepeergroup/aspen](https://github.com/thepeergroup/aspen) - Aspen is a markup language for turning text into graph data (via Cypher for Neo4j).
 - [archivesspace/archivesspace](https://github.com/archivesspace/archivesspace) - ArchivesSpace, the archives management tool
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hosted alternative to Google Location History (Google Maps Timeline)
 - [minicomp/wax_iiif](https://github.com/minicomp/wax_iiif) - Minimal IIIF level 0 generator (iiif_s3 minus the s3) 🐝
