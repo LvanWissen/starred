@@ -682,6 +682,7 @@
 
 ## others 
 
+- [thepeergroup/aspen](https://github.com/thepeergroup/aspen) - Aspen is a markup language for turning text into graph data (via Cypher for Neo4j).
 - [google-research/inksight](https://github.com/google-research/inksight) - 
 - [fonske/Brink-flair-modbus](https://github.com/fonske/Brink-flair-modbus) - Modbus RTU communication with Brink Flair to use in home assistant / esphome
 - [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
