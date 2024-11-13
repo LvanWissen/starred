@@ -682,6 +682,7 @@
 
 ## others 
 
+- [mightymax/mijnclub.nu](https://github.com/mightymax/mijnclub.nu) - HackaLoD 2024 project
 - [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate HTML documentation from a JSON schema
 - [thepeergroup/aspen](https://github.com/thepeergroup/aspen) - Aspen is a markup language for turning text into graph data (via Cypher for Neo4j).
 - [google-research/inksight](https://github.com/google-research/inksight) - 
