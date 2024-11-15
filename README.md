@@ -168,6 +168,7 @@
 
 ## JavaScript 
 
+- [thegetty/quire](https://github.com/thegetty/quire) - A multi-package repository for the Quire multiformat publishing framework
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [docuracy/Locolligo](https://github.com/docuracy/Locolligo) - Locolligo is a single-page, browser-based javascript application to facilitate the formatting, linking, and geolocation of datasets, with a particular focus on Cultural Heritage.
 - [rdf-ext/shacl-engine](https://github.com/rdf-ext/shacl-engine) - A fast RDF/JS SHACL engine
@@ -319,6 +320,7 @@
 
 ## Python 
 
+- [squidgetx/arklet](https://github.com/squidgetx/arklet) - ARK minter, binder, resolver with custom detailing for the Frick Art Museum
 - [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate HTML documentation from a JSON schema
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
 - [craws/OpenAtlas](https://github.com/craws/OpenAtlas) - OpenAtlas is an open source, web based database system for complex archaeological, historical and prosopographical data.
