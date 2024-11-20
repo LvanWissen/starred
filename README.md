@@ -126,6 +126,7 @@
 
 ## HTML 
 
+- [timathom/marc2linkedart](https://github.com/timathom/marc2linkedart) - Specifications to convert MARC 21 records to Linked Art JSON-LD
 - [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [json-ld/yaml-ld](https://github.com/json-ld/yaml-ld) - CG specification for YAML-LD and UCR
@@ -502,6 +503,7 @@
 
 ## TypeScript 
 
+- [netwerk-digitaal-erfgoed/ld-workbench](https://github.com/netwerk-digitaal-erfgoed/ld-workbench) - A CLI tool for transforming large RDF datasets using pure SPARQL.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [jptmoore/maniiifest](https://github.com/jptmoore/maniiifest) - Typesafe IIIF presentation v3 parsing without external dependencies
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
