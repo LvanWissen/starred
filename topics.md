@@ -682,6 +682,8 @@
 
 ## others 
 
+- [netwerk-digitaal-erfgoed/ld-workbench](https://github.com/netwerk-digitaal-erfgoed/ld-workbench) - A CLI tool for transforming large RDF datasets using pure SPARQL.
+- [timathom/marc2linkedart](https://github.com/timathom/marc2linkedart) - Specifications to convert MARC 21 records to Linked Art JSON-LD
 - [thegetty/quire](https://github.com/thegetty/quire) - A multi-package repository for the Quire multiformat publishing framework
 - [squidgetx/arklet](https://github.com/squidgetx/arklet) - ARK minter, binder, resolver with custom detailing for the Frick Art Museum
 - [mightymax/mijnclub.nu](https://github.com/mightymax/mijnclub.nu) - HackaLoD 2024 project
