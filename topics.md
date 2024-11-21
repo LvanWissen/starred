@@ -745,7 +745,7 @@
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
 - [klembot/twinejs](https://github.com/klembot/twinejs) - Twine, a tool for telling interactive, nonlinear stories
 - [netwerk-digitaal-erfgoed/lod-aggregator](https://github.com/netwerk-digitaal-erfgoed/lod-aggregator) - LOD aggregator - a generic toolset for harvesting and transforming LOD for ingesting into the Europeana platform
-- [interactive-instruments/ldproxy](https://github.com/interactive-instruments/ldproxy) - Share geospatial data via modern Web APIs
+- [ldproxy/ldproxy](https://github.com/ldproxy/ldproxy) - Share geospatial data via modern Web APIs
 - [CBG-Centrum-voor-familiegeschiedenis/PiCo](https://github.com/CBG-Centrum-voor-familiegeschiedenis/PiCo) - Linked Data opvolger voor de A2A standaard
 - [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
