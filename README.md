@@ -321,6 +321,7 @@
 
 ## Python 
 
+- [JayQueue/MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - MyWhoosh2Garmin
 - [squidgetx/arklet](https://github.com/squidgetx/arklet) - ARK minter, binder, resolver with custom detailing for the Frick Art Museum
 - [coveooss/json-schema-for-humans](https://github.com/coveooss/json-schema-for-humans) - Quickly generate HTML documentation from a JSON schema
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
