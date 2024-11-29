@@ -228,6 +228,7 @@
 
 ## Jupyter Notebook 
 
+- [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [google-research/inksight](https://github.com/google-research/inksight) - 
 - [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
 - [maps-as-data/mapreader-autumn-workshop-2024](https://github.com/maps-as-data/mapreader-autumn-workshop-2024) - A repo for the MapReader Autumn 2024 workshop
