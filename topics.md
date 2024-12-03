@@ -699,7 +699,6 @@
 - [maps-as-data/MapTextPipeline](https://github.com/maps-as-data/MapTextPipeline) - SOTA baseline in  ICDAR 2024 Competition on Historical Map Text Detection, Recognition, and Linking.
 - [ViTAE-Transformer/DeepSolo](https://github.com/ViTAE-Transformer/DeepSolo) - The official repo for [CVPR'23] "DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting" & [ArXiv'23] "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilin
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [jptmoore/maniiifest](https://github.com/jptmoore/maniiifest) - Typesafe IIIF presentation v3 parsing without external dependencies
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
@@ -951,6 +950,7 @@
 
 ## python 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
