@@ -682,6 +682,7 @@
 
 ## others 
 
+- [netwerk-digitaal-erfgoed/heritageflix](https://github.com/netwerk-digitaal-erfgoed/heritageflix) - Heritageflix: a prototype for browsing heritage
 - [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [JayQueue/MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - MyWhoosh2Garmin
 - [netwerk-digitaal-erfgoed/ld-workbench](https://github.com/netwerk-digitaal-erfgoed/ld-workbench) - A CLI tool for transforming large RDF datasets using pure SPARQL.
