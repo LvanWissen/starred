@@ -128,6 +128,7 @@
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
 - [unity](#unity)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -854,7 +855,6 @@
 - [franzlst/surfrdf](https://github.com/franzlst/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [mightymax/ead2rico](https://github.com/mightymax/ead2rico) - Conversion between EAD in Ric-O
 - [ktym/d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js
-- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [hufman/flask_rdf](https://github.com/hufman/flask_rdf) - A Flask decorator to output RDF using content negotiation.
 - [RDFstar/RDFstarTools](https://github.com/RDFstar/RDFstarTools) - A collection of tools and Java libraries to process RDF* data and SPARQL* queries.
 - [cltl/SoNar2Naf](https://github.com/cltl/SoNar2Naf) - Converter from Folia to NAF
@@ -1130,6 +1130,13 @@
 
 - [Amsterdam/3DAmsterdam](https://github.com/Amsterdam/3DAmsterdam) - Repository for the 3D Amsterdam Unity viewer project
 - [ElmarJ/waterlooplein-timemachine](https://github.com/ElmarJ/waterlooplein-timemachine) - 3D time machine reconstruction of the of the Amsterdam Waterlooplein neighborhood between 1800 and 2000.
+
+## vpn 
+
+- [rosenpass/rosenpass](https://github.com/rosenpass/rosenpass) - Rosenpass is a post-quantum-secure VPN that uses WireGuard to transport the actual data.
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
+- [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
+- [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
 ## vue 
 
