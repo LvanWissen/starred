@@ -683,6 +683,7 @@
 
 ## others 
 
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [netwerk-digitaal-erfgoed/heritageflix](https://github.com/netwerk-digitaal-erfgoed/heritageflix) - Heritageflix: a prototype for browsing heritage
 - [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [JayQueue/MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - MyWhoosh2Garmin
