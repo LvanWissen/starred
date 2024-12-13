@@ -21,6 +21,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lua](#lua)
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
@@ -255,6 +256,10 @@
 ## Kotlin 
 
 - [knaw-huc/annorepo](https://github.com/knaw-huc/annorepo) - Annotation Repository
+
+## Lua 
+
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## OCaml 
 
