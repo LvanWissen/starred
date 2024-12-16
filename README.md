@@ -267,6 +267,7 @@
 
 ## Others 
 
+- [DuskWasHere/dusk-obsidian-vault](https://github.com/DuskWasHere/dusk-obsidian-vault) - Structured System for PARA & Zettelkasten Frameworks.  A versatile knowledge management vault combining PARA’s action-oriented structure with Zettelkasten’s idea-centric approach. Includes dynamic nav
 - [fonske/Brink-flair-modbus](https://github.com/fonske/Brink-flair-modbus) - Modbus RTU communication with Brink Flair to use in home assistant / esphome
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
 - [yrochat/Zola-Character-Network-Dataset](https://github.com/yrochat/Zola-Character-Network-Dataset) - 
