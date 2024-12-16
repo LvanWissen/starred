@@ -685,6 +685,7 @@
 
 ## others 
 
+- [DuskWasHere/dusk-obsidian-vault](https://github.com/DuskWasHere/dusk-obsidian-vault) - Structured System for PARA & Zettelkasten Frameworks.  A versatile knowledge management vault combining PARA’s action-oriented structure with Zettelkasten’s idea-centric approach. Includes dynamic nav
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [netwerk-digitaal-erfgoed/heritageflix](https://github.com/netwerk-digitaal-erfgoed/heritageflix) - Heritageflix: a prototype for browsing heritage
 - [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
