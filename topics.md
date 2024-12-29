@@ -847,7 +847,7 @@
 - [OpenSKOS/OpenSKOS](https://github.com/OpenSKOS/OpenSKOS) - Provide RESTful access to SKOS vocabularies
 - [data-futures/tm-persons](https://github.com/data-futures/tm-persons) - time machine persons data pilot
 - [recogito/recogito-js](https://github.com/recogito/recogito-js) - A JavaScript library for text annotation
-- [jankaszel/recogito-web-annotation-adapter](https://github.com/jankaszel/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
+- [snvfk1n/recogito-web-annotation-adapter](https://github.com/snvfk1n/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
 - [PRImA-Research-Lab/prima-page-converter](https://github.com/PRImA-Research-Lab/prima-page-converter) - Command line tool to convert page layout files to the latest PAGE XML format. It supports all previous versions of the PAGE format as well as ALTO XML, FineReader XML, and HOCR
 - [SwissDataScienceCenter/calamus](https://github.com/SwissDataScienceCenter/calamus) - A JSON-LD Serialization Libary for Python
 - [CLARIAH/wp4-links](https://github.com/CLARIAH/wp4-links) - Code for linking all Dutch civil registries
