@@ -204,7 +204,7 @@
 - [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 3
 - [LinkedDataFragments/Server.js](https://github.com/LinkedDataFragments/Server.js) - A Triple Pattern Fragments server for Node.js
 - [recogito/recogito-js](https://github.com/recogito/recogito-js) - A JavaScript library for text annotation
-- [jankaszel/recogito-web-annotation-adapter](https://github.com/jankaszel/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
+- [snvfk1n/recogito-web-annotation-adapter](https://github.com/snvfk1n/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
 - [LDflex/LDflex](https://github.com/LDflex/LDflex) - A JavaScript DSL for querying Linked Data on the Web
 - [annotorious/annotorious-openseadragon](https://github.com/annotorious/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
