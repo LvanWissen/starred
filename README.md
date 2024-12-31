@@ -133,7 +133,6 @@
 - [json-ld/yaml-ld](https://github.com/json-ld/yaml-ld) - CG specification for YAML-LD and UCR
 - [opengeospatial/ogc-geosparql](https://github.com/opengeospatial/ogc-geosparql) - Public Repository for the OGC GeoSPARQL Standards Working Group
 - [ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O) - ICA Records in Contexts-Ontology (ICA RiC-O) GitHub repository web pages
-- [marijnkoolen/fuzzy-search](https://github.com/marijnkoolen/fuzzy-search) - Fuzzy search modules for searching lists of words in low quality OCR and HTR text.
 - [PRImA-Research-Lab/prima-page-converter](https://github.com/PRImA-Research-Lab/prima-page-converter) - Command line tool to convert page layout files to the latest PAGE XML format. It supports all previous versions of the PAGE format as well as ALTO XML, FineReader XML, and HOCR
 - [ktym/d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js
 - [cltl/SoNar2Naf](https://github.com/cltl/SoNar2Naf) - Converter from Folia to NAF
@@ -385,6 +384,7 @@
 - [dhlab-epfl/dhSegment](https://github.com/dhlab-epfl/dhSegment) - Generic framework for historical document processing
 - [robcast/python-iiif-annotation-tool](https://github.com/robcast/python-iiif-annotation-tool) - Tool to manipulate image annotations in IIIF manifests
 - [gandersen101/spaczz](https://github.com/gandersen101/spaczz) - Fuzzy matching and more functionality for spaCy.
+- [marijnkoolen/fuzzy-search](https://github.com/marijnkoolen/fuzzy-search) - Fuzzy search modules for searching lists of words in low quality OCR and HTR text.
 - [tmsmolnar/cth-uva](https://github.com/tmsmolnar/cth-uva) - Coding the Humanities individual project @ Universiteit van Amsterdam
 - [rob-metalinkage/django-rdf-io](https://github.com/rob-metalinkage/django-rdf-io) - Simple RDF serialiser/deserialiser to support synching a django model with an external triple-store
 - [SwissDataScienceCenter/calamus](https://github.com/SwissDataScienceCenter/calamus) - A JSON-LD Serialization Libary for Python
