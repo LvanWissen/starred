@@ -485,7 +485,7 @@
 - [time-machine-project/requests-for-comments](https://github.com/time-machine-project/requests-for-comments) - The main repository for Time Machine Requests for Comments drafts and releases
 - [aptalca/docker-webserver](https://github.com/aptalca/docker-webserver) - Nginx Server with letsencrypt support
 - [tenforce/docker-virtuoso](https://github.com/tenforce/docker-virtuoso) - Virtuoso Docker image
-- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment
+- [dnschneid/crouton](https://github.com/dnschneid/crouton) - Chromium OS Universal Chroot Environment (EOL)
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 
 ## Standard ML 
