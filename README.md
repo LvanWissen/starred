@@ -265,6 +265,7 @@
 
 ## Others 
 
+- [w3c-cg/awesome-semantic-shapes](https://github.com/w3c-cg/awesome-semantic-shapes) - A curated list of RDF Shape resources
 - [DuskWasHere/dusk-obsidian-vault](https://github.com/DuskWasHere/dusk-obsidian-vault) - Structured System for PARA & Zettelkasten Frameworks.  A versatile knowledge management vault combining PARA’s action-oriented structure with Zettelkasten’s idea-centric approach. Includes dynamic nav
 - [fonske/Brink-flair-modbus](https://github.com/fonske/Brink-flair-modbus) - Modbus RTU communication with Brink Flair to use in home assistant / esphome
 - [mclaeysb/FerrarGIS](https://github.com/mclaeysb/FerrarGIS) - Using QGIS to apply a 1777 style to today's OpenStreetMap data.
