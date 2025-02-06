@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Cuda](#cuda)
+- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -25,7 +26,6 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
-- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Pkl](#pkl)
 - [Prolog](#prolog)
@@ -88,6 +88,10 @@
 ## Cuda 
 
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
+
+## DIGITAL Command Language 
+
+- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
 
 ## Dart 
 
@@ -309,10 +313,6 @@
 - [Haran/BMDMSoundex](https://github.com/Haran/BMDMSoundex) - Beider-Morse + Daitch-Mokotoff Phonetic Matching (soundex) Algorithm
 - [mmmenno/asap](https://github.com/mmmenno/asap) - Amsterdam Street Ages Project
 
-## PLpgSQL 
-
-- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
-
 ## Perl 
 
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
@@ -517,6 +517,7 @@
 
 ## TypeScript 
 
+- [Language-Mapping/language-map](https://github.com/Language-Mapping/language-map) - Front-end codebase for Language Mapping web map
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 - [structs-nl/zoekintranscripties](https://github.com/structs-nl/zoekintranscripties) - 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
