@@ -173,6 +173,7 @@
 
 ## JavaScript 
 
+- [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Made with Svelte.
 - [thegetty/quire](https://github.com/thegetty/quire) - A multi-package repository for the Quire multiformat publishing framework
