@@ -698,6 +698,7 @@
 
 ## others 
 
+- [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [jonatasemidio/multilanguage-readme-pattern](https://github.com/jonatasemidio/multilanguage-readme-pattern) - Just another way to enable more than one language in our readme files
 - [structs-nl/zoekintranscripties](https://github.com/structs-nl/zoekintranscripties) - 
