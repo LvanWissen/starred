@@ -331,6 +331,7 @@
 
 ## Python 
 
+- [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [JayQueue/MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - MyWhoosh2Garmin
 - [squidgetx/arklet](https://github.com/squidgetx/arklet) - ARK minter, binder, resolver with custom detailing for the Frick Art Museum
