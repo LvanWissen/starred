@@ -331,6 +331,7 @@
 
 ## Python 
 
+- [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [JayQueue/MyWhoosh2Garmin](https://github.com/JayQueue/MyWhoosh2Garmin) - MyWhoosh2Garmin
@@ -500,6 +501,7 @@
 
 ## Svelte 
 
+- [svar-widgets/core](https://github.com/svar-widgets/core) - SVAR Core library is a collection of essential UI components written with Svelte.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
 - [duckdb-wasm-examples/sveltekit-typescript](https://github.com/duckdb-wasm-examples/sveltekit-typescript) - Demo of duckdb-wasm in static sveltekit.
@@ -519,6 +521,7 @@
 
 ## TypeScript 
 
+- [tu-delft-heritage/collective-access-data](https://github.com/tu-delft-heritage/collective-access-data) - Collective Access to IIIF
 - [Language-Mapping/language-map](https://github.com/Language-Mapping/language-map) - Front-end codebase for Language Mapping web map
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 - [structs-nl/zoekintranscripties](https://github.com/structs-nl/zoekintranscripties) - 
