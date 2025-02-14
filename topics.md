@@ -701,6 +701,8 @@
 
 ## others 
 
+- [tu-delft-heritage/collective-access-data](https://github.com/tu-delft-heritage/collective-access-data) - Collective Access to IIIF
+- [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
 - [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
 - [jonatasemidio/multilanguage-readme-pattern](https://github.com/jonatasemidio/multilanguage-readme-pattern) - Just another way to enable more than one language in our readme files
@@ -1113,6 +1115,7 @@
 
 ## svelte 
 
+- [svar-widgets/core](https://github.com/svar-widgets/core) - SVAR Core library is a collection of essential UI components written with Svelte.
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Made with Svelte.
