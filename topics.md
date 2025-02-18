@@ -300,6 +300,7 @@
 
 ## data-visualization 
 
+- [sparna-git/rdf2gephi](https://github.com/sparna-git/rdf2gephi) - A converter from RDF knowledge graph to Gephi project files
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.
 - [keplergl/kepler.gl](https://github.com/keplergl/kepler.gl) - Kepler.gl is a powerful open source geospatial analysis tool for large-scale data sets.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
@@ -386,6 +387,7 @@
 ## flask 
 
 - [craws/OpenAtlas](https://github.com/craws/OpenAtlas) - OpenAtlas is an open source, web based database system for complex archaeological, historical and prosopographical data.
+- [RDFLib/pyLDAPI](https://github.com/RDFLib/pyLDAPI) - A very small module to add Linked Data API functionality to a Python FastAPI or Flask installation
 - [flasgger/flasgger](https://github.com/flasgger/flasgger) - Easy OpenAPI specs and Swagger UI for your Flask API
 
 ## flutter 
@@ -889,7 +891,6 @@
 - [mmmenno/cc2lod](https://github.com/mmmenno/cc2lod) - Scripts generating the LOD version of Cinema Context
 - [rlzijdeman/ecartico-sparql](https://github.com/rlzijdeman/ecartico-sparql) - Queries from the UVA Create Ecartico 2020 data sprint
 - [pelagios/recogito2](https://github.com/pelagios/recogito2) - Semantic Annotation Without the Pointy Brackets
-- [RDFLib/pyLDAPI](https://github.com/RDFLib/pyLDAPI) - A very small module to add Linked Data API functionality to a Python Flask installation
 - [linked-art/linked.art](https://github.com/linked-art/linked.art) - Development of a specification for linked data in museums, using existing ontologies and frameworks to build usable, understandable APIs
 - [edwardanderson/emojiconclass](https://github.com/edwardanderson/emojiconclass) - Emojiconclass maps emojis to Iconclass concepts to help make indexing, accessing and understanding artworks more visual and fun.
 - [go-iiif/go-iiif](https://github.com/go-iiif/go-iiif) - Go package to implement the IIIF Image API.
