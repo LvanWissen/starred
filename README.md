@@ -12,7 +12,6 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Cuda](#cuda)
-- [DIGITAL Command Language](#digital-command-language)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -26,6 +25,7 @@
 - [OCaml](#ocaml)
 - [Others](#others)
 - [PHP](#php)
+- [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Pkl](#pkl)
 - [Prolog](#prolog)
@@ -89,10 +89,6 @@
 
 - [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp) - Instant neural graphics primitives: lightning fast NeRF and more
 
-## DIGITAL Command Language 
-
-- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
-
 ## Dart 
 
 - [mateusz-bak/openreads](https://github.com/mateusz-bak/openreads) - A mobile books tracker written in Flutter that respects your privacy.
@@ -145,6 +141,7 @@
 
 ## Java 
 
+- [sparna-git/rdf2gephi](https://github.com/sparna-git/rdf2gephi) - A converter from RDF knowledge graph to Gephi project files
 - [sparna-git/xls2rdf](https://github.com/sparna-git/xls2rdf) - Create RDF data from Excel spreadsheets - edit SKOS vocabularies, knowledge graph instances, SHACL constraints, OWL ontologies in Excel files. Available as HTTP service, upload form, command-line, or 
 - [netwerk-digitaal-erfgoed/lod-aggregator](https://github.com/netwerk-digitaal-erfgoed/lod-aggregator) - LOD aggregator - a generic toolset for harvesting and transforming LOD for ingesting into the Europeana platform
 - [ldproxy/ldproxy](https://github.com/ldproxy/ldproxy) - Share geospatial data via modern Web APIs
@@ -314,6 +311,10 @@
 - [Haran/BMDMSoundex](https://github.com/Haran/BMDMSoundex) - Beider-Morse + Daitch-Mokotoff Phonetic Matching (soundex) Algorithm
 - [mmmenno/asap](https://github.com/mmmenno/asap) - Amsterdam Street Ages Project
 
+## PLpgSQL 
+
+- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
+
 ## Perl 
 
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
@@ -401,7 +402,7 @@
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
 - [CLARIAH/brwsr](https://github.com/CLARIAH/brwsr) - Lightweight Linked Data Browser
 - [archesproject/arches](https://github.com/archesproject/arches) - Arches is a web platform for creating, managing, & visualizing geospatial data.  Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations 
-- [RDFLib/pyLDAPI](https://github.com/RDFLib/pyLDAPI) - A very small module to add Linked Data API functionality to a Python Flask installation
+- [RDFLib/pyLDAPI](https://github.com/RDFLib/pyLDAPI) - A very small module to add Linked Data API functionality to a Python FastAPI or Flask installation
 - [solivr/tf-crnn](https://github.com/solivr/tf-crnn) - TensorFlow convolutional recurrent neural network (CRNN) for text recognition
 - [linked-art/linked.art](https://github.com/linked-art/linked.art) - Development of a specification for linked data in museums, using existing ontologies and frameworks to build usable, understandable APIs
 - [edwardanderson/emojiconclass](https://github.com/edwardanderson/emojiconclass) - Emojiconclass maps emojis to Iconclass concepts to help make indexing, accessing and understanding artworks more visual and fun.
