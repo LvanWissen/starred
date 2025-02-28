@@ -522,6 +522,7 @@
 
 ## TypeScript 
 
+- [svecosystem/formsnap](https://github.com/svecosystem/formsnap) - Functional, accessible, and powerful form components for Svelte. 🫰
 - [tu-delft-heritage/collective-access-data](https://github.com/tu-delft-heritage/collective-access-data) - Collective Access to IIIF
 - [Language-Mapping/language-map](https://github.com/Language-Mapping/language-map) - Front-end codebase for Language Mapping web map
 - [huntabyte/bits-ui](https://github.com/huntabyte/bits-ui) - The headless components for Svelte.
