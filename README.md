@@ -342,7 +342,7 @@
 - [craws/OpenAtlas](https://github.com/craws/OpenAtlas) - OpenAtlas is an open source, web based database system for complex archaeological, historical and prosopographical data.
 - [maps-as-data/MapTextPipeline](https://github.com/maps-as-data/MapTextPipeline) - SOTA baseline in  ICDAR 2024 Competition on Historical Map Text Detection, Recognition, and Linking.
 - [ViTAE-Transformer/DeepSolo](https://github.com/ViTAE-Transformer/DeepSolo) - The official repo for [CVPR'23] "DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting" & [ArXiv'23] "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilin
-- [thegetty/lod-gateway](https://github.com/thegetty/lod-gateway) - This repository contains the code for the LOD Gateway project, used to convert the various Getty systems of record into their Linked.art JSON-LD representations.
+- [thegetty/lod-gateway](https://github.com/thegetty/lod-gateway) - This repository contains the source code for the LOD Gateway – a fast and reliable Linked Open Data (LOD) document store with integrated graph expansion and associated graph storage and graph query fe
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [chin-rcip/CRITERIA](https://github.com/chin-rcip/CRITERIA) - Cidoc cRm In Triples mERmaid dIagrAms
