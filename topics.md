@@ -747,7 +747,7 @@
 - [zazuko/knowledge-graph-forum](https://github.com/zazuko/knowledge-graph-forum) - Knowledge Graph Forum, Switzerland
 - [dcmi/openwemi](https://github.com/dcmi/openwemi) - OpenWEMI
 - [HarmTseard/WorldOfJanssonius](https://github.com/HarmTseard/WorldOfJanssonius) - The World of Janssonius is a pilot project to reconstruct the social world of the cartographer and publisher  Johannes Janssonius (1588-1664) by using Linked Open Data
-- [thegetty/lod-gateway](https://github.com/thegetty/lod-gateway) - This repository contains the code for the LOD Gateway project, used to convert the various Getty systems of record into their Linked.art JSON-LD representations.
+- [thegetty/lod-gateway](https://github.com/thegetty/lod-gateway) - This repository contains the source code for the LOD Gateway – a fast and reliable Linked Open Data (LOD) document store with integrated graph expansion and associated graph storage and graph query fe
 - [collectiveaccess/providence](https://github.com/collectiveaccess/providence) - Cataloguing and data/media management application
 - [digirati-co-uk/iiif-canvas-panel](https://github.com/digirati-co-uk/iiif-canvas-panel) - Investigation into component granularity
 - [arkalab/tropiiify](https://github.com/arkalab/tropiiify) - Export IIIF collections from Tropy
