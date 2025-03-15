@@ -268,6 +268,7 @@
 
 ## Others 
 
+- [thegetty/Ogee](https://github.com/thegetty/Ogee) - Ogee Arches is a package designed for the Arches platform that implements the Linked.art data model, provides a complete vocabulary to support that data model and is fully documented with reusable doc
 - [jonatasemidio/multilanguage-readme-pattern](https://github.com/jonatasemidio/multilanguage-readme-pattern) - Just another way to enable more than one language in our readme files
 - [w3c-cg/awesome-semantic-shapes](https://github.com/w3c-cg/awesome-semantic-shapes) - A curated list of RDF Shape resources
 - [DuskWasHere/dusk-obsidian-vault](https://github.com/DuskWasHere/dusk-obsidian-vault) - Structured System for PARA & Zettelkasten Frameworks.  A versatile knowledge management vault combining PARA’s action-oriented structure with Zettelkasten’s idea-centric approach. Includes dynamic nav
@@ -331,6 +332,7 @@
 
 ## Python 
 
+- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
