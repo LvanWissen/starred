@@ -350,6 +350,7 @@
 
 ## docker 
 
+- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [netbrain/zwift](https://github.com/netbrain/zwift) - Easily zwift on linux
@@ -713,6 +714,7 @@
 
 ## others 
 
+- [thegetty/Ogee](https://github.com/thegetty/Ogee) - Ogee Arches is a package designed for the Arches platform that implements the Linked.art data model, provides a complete vocabulary to support that data model and is fully documented with reusable doc
 - [tu-delft-heritage/collective-access-data](https://github.com/tu-delft-heritage/collective-access-data) - Collective Access to IIIF
 - [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
 - [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
@@ -989,6 +991,7 @@
 
 ## python 
 
+- [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
