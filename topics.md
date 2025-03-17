@@ -111,6 +111,7 @@
 - [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [reactjs](#reactjs)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
 - [ruby](#ruby)
@@ -346,6 +347,7 @@
 
 ## django 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [archesproject/arches](https://github.com/archesproject/arches) - Arches is a web platform for creating, managing, & visualizing geospatial data.  Arches was inspired by the needs of the Cultural Heritage community, particularly the widespread need of organizations 
 
@@ -360,6 +362,7 @@
 
 ## documentation 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
@@ -1058,6 +1061,10 @@
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 - [google/react-schemaorg](https://github.com/google/react-schemaorg) - Type-checked Schema.org JSON-LD for React
 
+## reactjs 
+
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
+
 ## reinforcement-learning 
 
 - [microsoft/TextWorld](https://github.com/microsoft/TextWorld) - ​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.
@@ -1096,6 +1103,7 @@
 
 ## self-hosted 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [Freika/dawarich](https://github.com/Freika/dawarich) - Self-hostable alternative to Google Location History (Google Maps Timeline)
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
