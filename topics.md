@@ -733,6 +733,7 @@
 
 ## others 
 
+- [swiss-art-research-net/aaao](https://github.com/swiss-art-research-net/aaao) - Art and Architectural Argumentation Ontology
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
 - [thegetty/Ogee](https://github.com/thegetty/Ogee) - Ogee Arches is a package designed for the Arches platform that implements the Linked.art data model, provides a complete vocabulary to support that data model and is fully documented with reusable doc
 - [tu-delft-heritage/collective-access-data](https://github.com/tu-delft-heritage/collective-access-data) - Collective Access to IIIF
