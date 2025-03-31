@@ -733,6 +733,7 @@
 
 ## others 
 
+- [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
 - [swiss-art-research-net/aaao](https://github.com/swiss-art-research-net/aaao) - Art and Architectural Argumentation Ontology
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
 - [thegetty/Ogee](https://github.com/thegetty/Ogee) - Ogee Arches is a package designed for the Arches platform that implements the Linked.art data model, provides a complete vocabulary to support that data model and is fully documented with reusable doc
