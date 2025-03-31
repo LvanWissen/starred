@@ -531,6 +531,7 @@
 
 ## TypeScript 
 
+- [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
 - [ciscoheat/eslint-plugin-dci-lint](https://github.com/ciscoheat/eslint-plugin-dci-lint) - DCI linting for Typescript and ESLint
 - [lucasgelfond/webgpu-sam2](https://github.com/lucasgelfond/webgpu-sam2) - Segment Anything 2, 100% in the browser (with WebGPU!)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
