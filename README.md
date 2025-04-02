@@ -243,6 +243,7 @@
 - [geo-smart/water-surf](https://github.com/geo-smart/water-surf) - Image dataset relalignment workflow with computer vision, plus automated river segmentation using Meta's SAM.
 - [melvinwevers/HisVis2](https://github.com/melvinwevers/HisVis2) - Work for Part 2 of HisVis Project
 - [nlesc-sigs/nlp-sig](https://github.com/nlesc-sigs/nlp-sig) - Information related to the meetings of the Natural Language Processing SIG of the Netherlands eScience Center
+- [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Queries over Wikidata dumps
 - [onnx/tensorflow-onnx](https://github.com/onnx/tensorflow-onnx) - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX
 - [kbrbe/beltrans-data-integration](https://github.com/kbrbe/beltrans-data-integration) - Creating a FAIR Linked Data corpus for the BELTRANS research project about Belgian book translations NL-FR and FR-NL between 1970 and 2020
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
@@ -363,7 +364,6 @@
 - [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [maps-as-data/MapReader](https://github.com/maps-as-data/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
-- [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Queries over Wikidata dumps
 - [Dans-labs/did-summarizer](https://github.com/Dans-labs/did-summarizer) - Linked Data summarizer driven by Decentralized Identifiers (DIDs)
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
 - [microsoft/table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evalu
