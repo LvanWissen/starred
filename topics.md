@@ -462,6 +462,7 @@
 
 ## graphql 
 
+- [netwerk-digitaal-erfgoed/network-of-terms](https://github.com/netwerk-digitaal-erfgoed/network-of-terms) - Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)
 - [comunica/comunica](https://github.com/comunica/comunica) - 📬 A knowledge graph querying framework for JavaScript
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
@@ -722,6 +723,7 @@
 
 ## open-data 
 
+- [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - Components (API and crawler) for the NDE Dataset Register
 - [TriplyDB/YALC](https://github.com/TriplyDB/YALC) - 🕸 YALC: Yet Another LOD Cloud (registry of Linked Open Datasets).
 
 ## open-source 
@@ -740,6 +742,7 @@
 
 ## others 
 
+- [inuits/elody-common](https://github.com/inuits/elody-common) - 
 - [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [codeforkjeff/conciliator](https://github.com/codeforkjeff/conciliator) - OpenRefine reconciliation services for VIAF, ORCID, and Open Library + framework for creating more.
 - [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
@@ -918,7 +921,6 @@
 - [PRImA-Research-Lab/prima-page-converter](https://github.com/PRImA-Research-Lab/prima-page-converter) - Command line tool to convert page layout files to the latest PAGE XML format. It supports all previous versions of the PAGE format as well as ALTO XML, FineReader XML, and HOCR
 - [SwissDataScienceCenter/calamus](https://github.com/SwissDataScienceCenter/calamus) - A JSON-LD Serialization Libary for Python
 - [CLARIAH/wp4-links](https://github.com/CLARIAH/wp4-links) - Code for linking all Dutch civil registries
-- [netwerk-digitaal-erfgoed/project-organisations-datasets](https://github.com/netwerk-digitaal-erfgoed/project-organisations-datasets) - Repository for project "Organisations and datasets in the network"
 - [inveniosoftware/invenio-app-ils](https://github.com/inveniosoftware/invenio-app-ils) - Integrated Library System (ILS) flavour of Invenio.
 - [time-machine-project/requests-for-comments](https://github.com/time-machine-project/requests-for-comments) - The main repository for Time Machine Requests for Comments drafts and releases
 - [annotorious/annotorious-openseadragon](https://github.com/annotorious/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
