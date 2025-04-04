@@ -156,7 +156,6 @@
 - [sszuev/rdf-protege](https://github.com/sszuev/rdf-protege) - (RDF) Protege Desktop
 - [CLARIAH/burgerLinker](https://github.com/CLARIAH/burgerLinker) - Command line tool for linking civil registries
 - [cantaloupe-project/cantaloupe](https://github.com/cantaloupe-project/cantaloupe) - High-performance dynamic image server in Java
-- [netwerk-digitaal-erfgoed/project-organisations-datasets](https://github.com/netwerk-digitaal-erfgoed/project-organisations-datasets) - Repository for project "Organisations and datasets in the network"
 - [RDFstar/RDFstarTools](https://github.com/RDFstar/RDFstarTools) - A collection of tools and Java libraries to process RDF* data and SPARQL* queries.
 - [stkenny/grefine-rdf-extension](https://github.com/stkenny/grefine-rdf-extension) - An extension to OpenRefine that enables graphical mapping of OpenRefine project data to an RDF skeleton and then exporting it in RDF format
 - [dice-group/FOX](https://github.com/dice-group/FOX) - Federated Knowledge Extraction Framework
@@ -496,6 +495,7 @@
 
 ## Shell 
 
+- [inuits/elody-common](https://github.com/inuits/elody-common) - 
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [opencontext/arches-via-docker](https://github.com/opencontext/arches-via-docker) - Deployment of Arches (archesproject.org) via Docker for archaeology and related instruction
 - [knaw-huc/loghi](https://github.com/knaw-huc/loghi) - 
@@ -537,6 +537,8 @@
 
 ## TypeScript 
 
+- [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - Components (API and crawler) for the NDE Dataset Register
+- [netwerk-digitaal-erfgoed/network-of-terms](https://github.com/netwerk-digitaal-erfgoed/network-of-terms) - Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)
 - [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
 - [ciscoheat/eslint-plugin-dci-lint](https://github.com/ciscoheat/eslint-plugin-dci-lint) - DCI linting for Typescript and ESLint
 - [lucasgelfond/webgpu-sam2](https://github.com/lucasgelfond/webgpu-sam2) - Segment Anything 2, 100% in the browser (with WebGPU!)
