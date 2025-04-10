@@ -41,6 +41,7 @@
 - [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
+- [design](#design)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -247,7 +248,6 @@
 ## cli 
 
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 
@@ -346,6 +346,10 @@
 ## deployment 
 
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
+
+## design 
+
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 
 ## devops 
 
@@ -1198,6 +1202,7 @@
 
 - [huntabyte/shadcn-svelte](https://github.com/huntabyte/shadcn-svelte) - shadcn/ui, but for Svelte. ✨
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
 
 ## tensorflow 
 
