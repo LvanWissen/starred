@@ -102,6 +102,7 @@
 - [open-source](#open-source)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [perl](#perl)
 - [php](#php)
@@ -1003,6 +1004,10 @@
 - [mikekestemont/wuerzb15](https://github.com/mikekestemont/wuerzb15) - Advanced Stylometry Course, Wuerzburg (December 2015)
 - [bev-a-tron/MyFlaskTutorial](https://github.com/bev-a-tron/MyFlaskTutorial) - A Flask Tutorial for people who don't know any web programming.  Actually, it would be helpful to know static HTML, also Python.
 - [cltl/SpaCy-to-NAF](https://github.com/cltl/SpaCy-to-NAF) - spaCy-to-naf converter
+
+## p2p 
+
+- [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
 
 ## package-manager 
 
