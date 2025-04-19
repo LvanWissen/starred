@@ -171,7 +171,6 @@
 
 ## JavaScript 
 
-- [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
 - [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
@@ -340,6 +339,7 @@
 ## Python 
 
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+- [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [gitonthescene/csv-reconcile](https://github.com/gitonthescene/csv-reconcile) - A reconciliation service for OpenRefine serving data from a given CSV file.
 - [iterative/datachain](https://github.com/iterative/datachain) - ETL, Analytics, Versioning for Unstructured Data
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
