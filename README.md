@@ -142,6 +142,7 @@
 
 ## Java 
 
+- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [codeforkjeff/conciliator](https://github.com/codeforkjeff/conciliator) - OpenRefine reconciliation services for VIAF, ORCID, and Open Library + framework for creating more.
 - [sparna-git/rdf2gephi](https://github.com/sparna-git/rdf2gephi) - A converter from RDF knowledge graph to Gephi project files
 - [sparna-git/xls2rdf](https://github.com/sparna-git/xls2rdf) - Create RDF data from Excel spreadsheets - edit SKOS vocabularies, knowledge graph instances, SHACL constraints, OWL ontologies in Excel files. Available as HTTP service, upload form, command-line, or 
