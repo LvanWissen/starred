@@ -240,6 +240,7 @@
 - [ChaoningZhang/MobileSAM](https://github.com/ChaoningZhang/MobileSAM) - This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond!
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
 - [geo-smart/water-surf](https://github.com/geo-smart/water-surf) - Image dataset relalignment workflow with computer vision, plus automated river segmentation using Meta's SAM.
+- [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [melvinwevers/HisVis2](https://github.com/melvinwevers/HisVis2) - Work for Part 2 of HisVis Project
 - [nlesc-sigs/nlp-sig](https://github.com/nlesc-sigs/nlp-sig) - Information related to the meetings of the Natural Language Processing SIG of the Netherlands eScience Center
 - [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Developer-friendly queries over RDF triples
@@ -357,7 +358,6 @@
 - [ViTAE-Transformer/DeepSolo](https://github.com/ViTAE-Transformer/DeepSolo) - The official repo for [CVPR'23] "DeepSolo: Let Transformer Decoder with Explicit Points Solo for Text Spotting" & [ArXiv'23] "DeepSolo++: Let Transformer Decoder with Explicit Points Solo for Multilin
 - [thegetty/lod-gateway](https://github.com/thegetty/lod-gateway) - This repository contains the source code for the LOD Gateway – a fast and reliable Linked Open Data (LOD) document store with integrated graph expansion and associated graph storage and graph query fe
 - [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
-- [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [chin-rcip/CRITERIA](https://github.com/chin-rcip/CRITERIA) - Cidoc cRm In Triples mERmaid dIagrAms
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
