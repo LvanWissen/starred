@@ -55,6 +55,7 @@
 
 ## C 
 
+- [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
