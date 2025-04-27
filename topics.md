@@ -321,6 +321,7 @@
 
 ## database 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [3dcitydb/3dcitydb](https://github.com/3dcitydb/3dcitydb) - 3D City Database - The Open Source CityGML Database
@@ -331,7 +332,7 @@
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [gitrows/gitrows](https://github.com/gitrows/gitrows) - A lightweight module for using git as a database
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
 
 ## deep-learning 
@@ -732,7 +733,7 @@
 
 ## nosql 
 
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 
 ## numpy 
 
@@ -752,7 +753,7 @@
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [showyourwork/showyourwork](https://github.com/showyourwork/showyourwork) - A workflow for reproducible and open scientific articles
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed database with a collaboration model
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative database designed for building, sharing, versioning, and reasoning on structured data.
 
 ## osint 
 
@@ -1037,6 +1038,7 @@
 
 ## postgresql 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - ParadeDB is a modern Elasticsearch alternative built on Postgres. Built for real-time, update-heavy workloads.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [3dcitydb/3dcitydb](https://github.com/3dcitydb/3dcitydb) - 3D City Database - The Open Source CityGML Database
@@ -1140,6 +1142,7 @@
 
 ## rust 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - ⚡ Insanely fast, 🌟 Feature-rich searching. lnx is the adaptable, typo tollerant deployment of the tantivy search engine.
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
@@ -1174,6 +1177,7 @@
 
 ## serverless 
 
+- [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Pyramids of map tiles in a single file on static storage
 
 ## shell 
