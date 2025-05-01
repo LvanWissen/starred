@@ -564,7 +564,7 @@
 - [structs-nl/zoekintranscripties](https://github.com/structs-nl/zoekintranscripties) - 
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - 🛹 Typescript tools for advanced processing of SVG path data.
-- [netwerk-digitaal-erfgoed/ld-workbench](https://github.com/netwerk-digitaal-erfgoed/ld-workbench) - A CLI tool for transforming large RDF datasets using pure SPARQL.
+- [netwerk-digitaal-erfgoed/ld-workbench](https://github.com/netwerk-digitaal-erfgoed/ld-workbench) - A CLI tool for transforming large RDF datasets using pure SPARQL
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [jptmoore/maniiifest](https://github.com/jptmoore/maniiifest) - Typesafe IIIF presentation v3 parsing without external dependencies
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
