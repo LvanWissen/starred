@@ -767,8 +767,9 @@
 
 ## others 
 
+- [acdh-oeaw/rdfproxy](https://github.com/acdh-oeaw/rdfproxy) - Python library for building REST APIs on top of SPARQL endpoints
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
-- [lockbook/lockbook](https://github.com/lockbook/lockbook) - The private note-taking platform.
+- [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
 - [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [netwerk-digitaal-erfgoed/anno-demo](https://github.com/netwerk-digitaal-erfgoed/anno-demo) - Demonstrator of a annotation server service for heritage.
 - [inuits/elody-common](https://github.com/inuits/elody-common) - 
