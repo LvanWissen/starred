@@ -173,7 +173,7 @@
 
 ## JavaScript 
 
-- [GrayFrost/sveaflet](https://github.com/GrayFrost/sveaflet) - Svelte components for Leaflet. Full documents. Easily Use.
+- [GrayFrost/sveaflet](https://github.com/GrayFrost/sveaflet) - Svelte components for Leaflet. Full documents. Easily Use. Svelte 5 supported!
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
 - [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
@@ -494,7 +494,6 @@
 ## SCSS 
 
 - [minicomp/wax](https://github.com/minicomp/wax) - Jekyll based framework for minimal exhibitions with IIIF 🐝
-- [metadatacenter/cedar-embeddable-editor](https://github.com/metadatacenter/cedar-embeddable-editor) - CEDAR Embeddable Editor WebComponent
 
 ## Scala 
 
@@ -580,6 +579,7 @@
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component for editing/viewing RDF data that conform to SHACL shapes
 - [vemonet/json-ld-editor-react](https://github.com/vemonet/json-ld-editor-react) - 🧙‍♂️📝 JSON-LD web editor, with autocomplete based on the loaded ontologies concepts and properties
 - [zazuko/Yasgui](https://github.com/zazuko/Yasgui) - Yet Another Sparql GUI
+- [metadatacenter/cedar-embeddable-editor](https://github.com/metadatacenter/cedar-embeddable-editor) - CEDAR Embeddable Editor WebComponent
 - [danielbeeke/shacl-form](https://github.com/danielbeeke/shacl-form) - A TypeScript form builder that uses SHACL shapes as definition
 - [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
 - [placemark/placemark](https://github.com/placemark/placemark) - A flexible web-based editor, converter, visualization tool, for geospatial data
