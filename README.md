@@ -139,7 +139,7 @@
 - [ktym/d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js
 - [cltl/SoNar2Naf](https://github.com/cltl/SoNar2Naf) - Converter from Folia to NAF
 - [georgd/EB-Garamond](https://github.com/georgd/EB-Garamond) - Digitization of the Garamond shown on the Egenolff-Berner specimen
-- [PolarNotion/turntable](https://github.com/PolarNotion/turntable) - A Responsive JQuery Slider
+- [GoBoldlyForward/turntable](https://github.com/GoBoldlyForward/turntable) - A Responsive JQuery Slider
 
 ## Java 
 
