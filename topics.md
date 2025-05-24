@@ -1010,7 +1010,7 @@
 - [bstewart/stm](https://github.com/bstewart/stm) - An R Package for the Structural Topic Model
 - [luispedro/BuildingMachineLearningSystemsWithPython](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython) - Source Code for the book Building Machine Learning Systems with Python
 - [Urinx/Books](https://github.com/Urinx/Books) - 无它术，唯勤读书而多为之，自工
-- [PolarNotion/turntable](https://github.com/PolarNotion/turntable) - A Responsive JQuery Slider
+- [GoBoldlyForward/turntable](https://github.com/GoBoldlyForward/turntable) - A Responsive JQuery Slider
 - [KBNLresearch/scansion-generator](https://github.com/KBNLresearch/scansion-generator) - Command-line tool that generates a scansion for modern Dutch metric poetry.
 - [williamleif/histwords](https://github.com/williamleif/histwords) - Collection of tools for building diachronic/historical word vectors
 - [cltl/SimpleTagger](https://github.com/cltl/SimpleTagger) - 
