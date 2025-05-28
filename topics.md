@@ -148,6 +148,7 @@
 
 ## 3d 
 
+- [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
 - [Amsterdam/3DAmsterdam](https://github.com/Amsterdam/3DAmsterdam) - Repository for the 3D Amsterdam Unity viewer project
 
@@ -489,6 +490,7 @@
 
 ## hacktoberfest 
 
+- [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
@@ -926,7 +928,7 @@
 - [linkml/schemasheets](https://github.com/linkml/schemasheets) - Structure your data in a FAIR way using google sheets or TSVs. These are then converted to LinkML, and from there other formats
 - [knaw-huc/annorepo](https://github.com/knaw-huc/annorepo) - Annotation Repository
 - [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
-- [instituutnederlandsetaal/corpus-frontend](https://github.com/instituutnederlandsetaal/corpus-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
+- [instituutnederlandsetaal/blacklab-frontend](https://github.com/instituutnederlandsetaal/blacklab-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Very fast SPARQL Engine, which can handle very large knowledge graphs like the complete Wikidata, offers context-sensitive autocompletion for SPARQL queries, and allows combination with text search. I
@@ -1227,6 +1229,7 @@
 
 ## svelte 
 
+- [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [GrayFrost/sveaflet](https://github.com/GrayFrost/sveaflet) - Svelte components for Leaflet. Full documents. Easily Use. Svelte 5 supported!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
