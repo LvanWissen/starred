@@ -346,6 +346,7 @@
 
 ## Python 
 
+- [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [glenrobson/iiif-archive](https://github.com/glenrobson/iiif-archive) - Creates a backup of a IIIF Manifest with images
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [daniel-j-h/zindex](https://github.com/daniel-j-h/zindex) - A very fast cloud-native static spatial index for 2D points based on a Z-Order space filling curve and BIGMIN search space pruning
@@ -555,12 +556,13 @@
 
 ## TypeScript 
 
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A Minimalist, Open-Source Task and Project Management Tool
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
 - [canopy-iiif/canopy-iiif](https://github.com/canopy-iiif/canopy-iiif) - a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions
 - [jamesmisson/iiif-timeline](https://github.com/jamesmisson/iiif-timeline) - 
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI
 - [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - Components (API and crawler) for the NDE Dataset Register
 - [netwerk-digitaal-erfgoed/network-of-terms](https://github.com/netwerk-digitaal-erfgoed/network-of-terms) - Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)
 - [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
