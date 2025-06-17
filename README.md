@@ -346,6 +346,7 @@
 
 ## Python 
 
+- [GhentCDH/taulu](https://github.com/GhentCDH/taulu) - Taulu is a Python package designed to segment tabular data in scanned or photographed documents.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [glenrobson/iiif-archive](https://github.com/glenrobson/iiif-archive) - Creates a backup of a IIIF Manifest with images
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
@@ -556,7 +557,7 @@
 
 ## TypeScript 
 
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - A Minimalist, Open-Source Task and Project Management Tool
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
 - [canopy-iiif/canopy-iiif](https://github.com/canopy-iiif/canopy-iiif) - a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions
 - [jamesmisson/iiif-timeline](https://github.com/jamesmisson/iiif-timeline) - 
