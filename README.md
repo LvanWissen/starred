@@ -169,7 +169,7 @@
 - [owlcs/owlapi](https://github.com/owlcs/owlapi) - OWL API main repository
 - [nemo-ufes/ontouml-lightweight-editor](https://github.com/nemo-ufes/ontouml-lightweight-editor) - The OntoUML lightweight editor (OLED) is an environment for the development, evaluation and implementation of domain ontologies using the UFO-based ontologically well-founded modeling language OntoUML
 - [LodLive/LodView](https://github.com/LodLive/LodView) - IRI dereferencer, RDF to HTML
-- [SmartDataAnalytics/Sparqlify](https://github.com/SmartDataAnalytics/Sparqlify) - Sparql -&gt; SQL Rewriter enabling virtual RDB -&gt; RDF mappings
+- [Scaseco/Sparqlify](https://github.com/Scaseco/Sparqlify) - Sparql -&gt; SQL Rewriter enabling virtual RDB -&gt; RDF mappings
 - [dbamman/book-nlp](https://github.com/dbamman/book-nlp) - Natural language processing pipeline for book-length documents (archival Java version; for current Python version, see: https://github.com/booknlp/booknlp)
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
 - [xiaoling/figer](https://github.com/xiaoling/figer) - Fine-Grained Entity Recognizer
@@ -346,12 +346,14 @@
 
 ## Python 
 
+- [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
 - [GhentCDH/taulu](https://github.com/GhentCDH/taulu) - Taulu is a Python package designed to segment tabular data in scanned or photographed documents.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
 - [glenrobson/iiif-archive](https://github.com/glenrobson/iiif-archive) - Creates a backup of a IIIF Manifest with images
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Versioning and ML Experiments
 - [daniel-j-h/zindex](https://github.com/daniel-j-h/zindex) - A very fast cloud-native static spatial index for 2D points based on a Z-Order space filling curve and BIGMIN search space pruning
 - [acdh-oeaw/rdfproxy](https://github.com/acdh-oeaw/rdfproxy) - Python library for building REST APIs on top of SPARQL endpoints
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [gitonthescene/csv-reconcile](https://github.com/gitonthescene/csv-reconcile) - A reconciliation service for OpenRefine serving data from a given CSV file.
 - [iterative/datachain](https://github.com/iterative/datachain) - ETL, Analytics, Versioning for Unstructured Data
@@ -474,7 +476,6 @@
 ## Rust 
 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - An insanely fast search engine for scaling to the stars 🌠
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
