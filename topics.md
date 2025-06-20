@@ -779,6 +779,7 @@
 
 ## others 
 
+- [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
 - [GhentCDH/taulu](https://github.com/GhentCDH/taulu) - Taulu is a Python package designed to segment tabular data in scanned or photographed documents.
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
 - [canopy-iiif/canopy-iiif](https://github.com/canopy-iiif/canopy-iiif) - a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions
@@ -1016,7 +1017,7 @@
 - [DenisCarriere/geocoder](https://github.com/DenisCarriere/geocoder) - :earth_asia: Python Geocoder
 - [mmmenno/asap](https://github.com/mmmenno/asap) - Amsterdam Street Ages Project
 - [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
-- [SmartDataAnalytics/Sparqlify](https://github.com/SmartDataAnalytics/Sparqlify) - Sparql -&gt; SQL Rewriter enabling virtual RDB -&gt; RDF mappings
+- [Scaseco/Sparqlify](https://github.com/Scaseco/Sparqlify) - Sparql -&gt; SQL Rewriter enabling virtual RDB -&gt; RDF mappings
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [georgd/EB-Garamond](https://github.com/georgd/EB-Garamond) - Digitization of the Garamond shown on the Egenolff-Berner specimen
 - [agoldst/dfr-browser](https://github.com/agoldst/dfr-browser) - Take a MALLET to disciplinary history
