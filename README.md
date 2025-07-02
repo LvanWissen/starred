@@ -176,6 +176,7 @@
 
 ## JavaScript 
 
+- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [GrayFrost/sveaflet](https://github.com/GrayFrost/sveaflet) - Svelte components for Leaflet. Full documents. Easily Use. Svelte 5 supported!
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
@@ -375,7 +376,7 @@
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
 - [WangRongsheng/SAM-fine-tune](https://github.com/WangRongsheng/SAM-fine-tune) - 🌌 Fine tune specific SAM model on any task
-- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [maps-as-data/MapReader](https://github.com/maps-as-data/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
@@ -558,7 +559,6 @@
 
 ## TypeScript 
 
-- [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
 - [canopy-iiif/canopy-iiif](https://github.com/canopy-iiif/canopy-iiif) - a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions
 - [jamesmisson/iiif-timeline](https://github.com/jamesmisson/iiif-timeline) - 
