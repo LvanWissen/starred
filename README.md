@@ -218,7 +218,7 @@
 - [recogito/recogito-js](https://github.com/recogito/recogito-js) - A JavaScript library for text annotation
 - [snvfk1n/recogito-web-annotation-adapter](https://github.com/snvfk1n/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
 - [LDflex/LDflex](https://github.com/LDflex/LDflex) - A JavaScript DSL for querying Linked Data on the Web
-- [annotorious/annotorious-openseadragon](https://github.com/annotorious/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
+- [annotorious/annotorious-v2-openseadragon](https://github.com/annotorious/annotorious-v2-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [mauvilsa/nw-page-editor](https://github.com/mauvilsa/nw-page-editor) - Simple app for visual editing of Page XML files
 - [glenrobson/SimpleAnnotationServer](https://github.com/glenrobson/SimpleAnnotationServer) - A simple IIIF and Mirador compatible Annotation Server
@@ -555,7 +555,7 @@
 
 ## Twig 
 
-- [geovistory/ontome](https://github.com/geovistory/ontome) - 
+- [lod4hss-apps/ontome](https://github.com/lod4hss-apps/ontome) - 
 
 ## TypeScript 
 
