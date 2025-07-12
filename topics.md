@@ -879,7 +879,7 @@
 - [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
-- [geovistory/ontome](https://github.com/geovistory/ontome) - 
+- [lod4hss-apps/ontome](https://github.com/lod4hss-apps/ontome) - 
 - [annotorious/annotorious](https://github.com/annotorious/annotorious) - Add image annotation functionality to any web page with a few lines of JavaScript.
 - [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Developer-friendly queries over RDF triples
 - [Dans-labs/did-summarizer](https://github.com/Dans-labs/did-summarizer) - Linked Data summarizer driven by Decentralized Identifiers (DIDs)
@@ -975,7 +975,7 @@
 - [CLARIAH/wp4-links](https://github.com/CLARIAH/wp4-links) - Code for linking all Dutch civil registries
 - [inveniosoftware/invenio-app-ils](https://github.com/inveniosoftware/invenio-app-ils) - Integrated Library System (ILS) flavour of Invenio.
 - [time-machine-project/requests-for-comments](https://github.com/time-machine-project/requests-for-comments) - The main repository for Time Machine Requests for Comments drafts and releases
-- [annotorious/annotorious-openseadragon](https://github.com/annotorious/annotorious-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
+- [annotorious/annotorious-v2-openseadragon](https://github.com/annotorious/annotorious-v2-openseadragon) - An OpenSeadragon plugin for annotating high-res zoomable  images
 - [tomdionysus/foaas](https://github.com/tomdionysus/foaas) - FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.
 - [franzlst/surfrdf](https://github.com/franzlst/surfrdf) - SuRF: a python Object RDF Mapper (ORM).
 - [mightymax/ead2rico](https://github.com/mightymax/ead2rico) - Conversion between EAD in Ric-O
