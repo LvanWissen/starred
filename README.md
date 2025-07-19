@@ -231,7 +231,7 @@
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [agoldst/dfr-browser](https://github.com/agoldst/dfr-browser) - Take a MALLET to disciplinary history
 - [raphv/gexf-js](https://github.com/raphv/gexf-js) - A JavaScript GEXF viewer
-- [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+- [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
 
 ## Julia 
