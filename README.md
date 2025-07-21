@@ -559,6 +559,7 @@
 
 ## TypeScript 
 
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
 - [canopy-iiif/canopy-iiif](https://github.com/canopy-iiif/canopy-iiif) - a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions
