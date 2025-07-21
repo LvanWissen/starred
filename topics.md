@@ -50,6 +50,7 @@
 - [education](#education)
 - [electron](#electron)
 - [ember](#ember)
+- [eslint](#eslint)
 - [firebase](#firebase)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -420,6 +421,10 @@
 
 - [SolidLabResearch/FormGenerator](https://github.com/SolidLabResearch/FormGenerator) - A form generator app with Solid - Google Forms but the Solid way
 
+## eslint 
+
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
+
 ## firebase 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
@@ -748,6 +753,7 @@
 
 ## nodejs 
 
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management with hierarchical organization, multi-language support, and Telegram integration. Built with React & Express.js
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
