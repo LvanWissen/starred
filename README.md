@@ -201,7 +201,7 @@
 - [digitalbazaar/jsonld.js](https://github.com/digitalbazaar/jsonld.js) - A JSON-LD Processor and API implementation in JavaScript
 - [tropy/tropy-plugin-iiif](https://github.com/tropy/tropy-plugin-iiif) - Tropy plugin to import IIIF manifests
 - [tropy/tropy](https://github.com/tropy/tropy) - Research photo management
-- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Scan your entire site with Google Lighthouse in 2 minutes (on average). Open source, fully configurable with minimal setup.
+- [harlan-zw/unlighthouse](https://github.com/harlan-zw/unlighthouse) - Google Lighthouse for your entire site.
 - [D2KLab/sparql-transformer](https://github.com/D2KLab/sparql-transformer) - A more handy way to use SPARQL data in your web app
 - [D2KLab/explorer](https://github.com/D2KLab/explorer) - Exploratory Search Engine for Linked Data (used by MeMAD, SILKNOW and Odeuropa among others)
 - [gouda-tijdmachine/gui-poc](https://github.com/gouda-tijdmachine/gui-poc) - Proof-of-concept van een GUI voor de Gouda Tijdmachine, gebaseerd op de brainstorms van het GTM kernteam.
