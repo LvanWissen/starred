@@ -799,6 +799,7 @@
 
 ## others 
 
+- [bigskysoftware/_hyperscript](https://github.com/bigskysoftware/_hyperscript) - a small scripting language for the web
 - [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
 - [GhentCDH/taulu](https://github.com/GhentCDH/taulu) - Taulu is a Python package designed to segment tabular data in scanned or photographed documents.
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
