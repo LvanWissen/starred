@@ -562,6 +562,7 @@
 
 ## TypeScript 
 
+- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
