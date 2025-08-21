@@ -382,7 +382,7 @@
 - [Rijgersberg/GEITje](https://github.com/Rijgersberg/GEITje) - GEITje 7B: een groot open Nederlands taalmodel
 - [WangRongsheng/SAM-fine-tune](https://github.com/WangRongsheng/SAM-fine-tune) - 🌌 Fine tune specific SAM model on any task
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly Python. Deploy as scripts, pipelines, endpoints, and apps. All from an AI-native
 - [dreamgaussian/dreamgaussian](https://github.com/dreamgaussian/dreamgaussian) - [ICLR 2024 Oral] Generative Gaussian Splatting for Efficient 3D Content Creation
 - [maps-as-data/MapReader](https://github.com/maps-as-data/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
 - [linkml/linkml](https://github.com/linkml/linkml) - Linked Open Data Modeling Language
