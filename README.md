@@ -246,6 +246,7 @@
 
 ## Jupyter Notebook 
 
+- [TurkuNLP/DIGHT25](https://github.com/TurkuNLP/DIGHT25) - Materials for the DIGHT25 summer school
 - [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [google-research/inksight](https://github.com/google-research/inksight) - 
 - [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
