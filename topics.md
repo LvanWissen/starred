@@ -820,6 +820,7 @@
 
 ## others 
 
+- [glp500/Globalise-Document-Segmentation](https://github.com/glp500/Globalise-Document-Segmentation) - 
 - [TurkuNLP/DIGHT25](https://github.com/TurkuNLP/DIGHT25) - Materials for the DIGHT25 summer school
 - [nixiesearch/nixiesearch](https://github.com/nixiesearch/nixiesearch) - Hybrid search engine, combining best features of text and semantic search worlds
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
