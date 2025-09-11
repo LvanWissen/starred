@@ -247,6 +247,7 @@
 
 ## Jupyter Notebook 
 
+- [wjbmattingly/llm-lod-recipes](https://github.com/wjbmattingly/llm-lod-recipes) - A set of recipes for working LOD and LLMs.
 - [stanford-oval/spinach](https://github.com/stanford-oval/spinach) - SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions
 - [glp500/Globalise-Document-Segmentation](https://github.com/glp500/Globalise-Document-Segmentation) - 
 - [TurkuNLP/DIGHT25](https://github.com/TurkuNLP/DIGHT25) - Materials for the DIGHT25 summer school
@@ -289,6 +290,7 @@
 
 ## Others 
 
+- [britishlibrary/peripleo](https://github.com/britishlibrary/peripleo) - Example configuration of Peripleo geodata mapping software, developed for the BL's "Locating a National Collection" project - fork this!
 - [netwerk-digitaal-erfgoed/anno-demo](https://github.com/netwerk-digitaal-erfgoed/anno-demo) - Demonstrator of a annotation server service for heritage.
 - [swiss-art-research-net/aaao](https://github.com/swiss-art-research-net/aaao) - Art and Architectural Argumentation Ontology
 - [thegetty/Ogee](https://github.com/thegetty/Ogee) - Ogee Arches is a package designed for the Arches platform that implements the Linked.art data model, provides a complete vocabulary to support that data model and is fully documented with reusable doc
