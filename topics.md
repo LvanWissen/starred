@@ -820,6 +820,8 @@
 
 ## others 
 
+- [britishlibrary/peripleo](https://github.com/britishlibrary/peripleo) - Example configuration of Peripleo geodata mapping software, developed for the BL's "Locating a National Collection" project - fork this!
+- [wjbmattingly/llm-lod-recipes](https://github.com/wjbmattingly/llm-lod-recipes) - A set of recipes for working LOD and LLMs.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
 - [ufal/nametag3](https://github.com/ufal/nametag3) - NameTag3: Named Entity Tagger
 - [stanford-oval/spinach](https://github.com/stanford-oval/spinach) - SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions
