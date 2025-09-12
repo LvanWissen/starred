@@ -359,6 +359,7 @@
 
 ## Python 
 
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [ufal/nametag3](https://github.com/ufal/nametag3) - NameTag3: Named Entity Tagger
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
