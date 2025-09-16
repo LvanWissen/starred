@@ -821,6 +821,7 @@
 
 ## others 
 
+- [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
 - [britishlibrary/peripleo](https://github.com/britishlibrary/peripleo) - Example configuration of Peripleo geodata mapping software, developed for the BL's "Locating a National Collection" project - fork this!
 - [wjbmattingly/llm-lod-recipes](https://github.com/wjbmattingly/llm-lod-recipes) - A set of recipes for working LOD and LLMs.
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a c
