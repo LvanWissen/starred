@@ -583,6 +583,7 @@
 
 ## javascript 
 
+- [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - 🛹 Typescript tools for advanced processing of SVG path data.
@@ -821,6 +822,8 @@
 
 ## others 
 
+- [structs-nl/search-sandbox](https://github.com/structs-nl/search-sandbox) - 
+- [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
 - [britishlibrary/peripleo](https://github.com/britishlibrary/peripleo) - Example configuration of Peripleo geodata mapping software, developed for the BL's "Locating a National Collection" project - fork this!
 - [wjbmattingly/llm-lod-recipes](https://github.com/wjbmattingly/llm-lod-recipes) - A set of recipes for working LOD and LLMs.
