@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [panphora/overtype](https://github.com/panphora/overtype) - The markdown editor that's just a textarea https://overtype.dev
@@ -190,7 +191,7 @@
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
 - [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, improved security, mobile support + 100s of improvements. Framework-agnostic, open source &
 - [thegetty/quire](https://github.com/thegetty/quire) - A multi-package repository for the Quire multiformat publishing framework
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [docuracy/Locolligo](https://github.com/docuracy/Locolligo) - Locolligo is a single-page, browser-based javascript application to facilitate the formatting, linking, and geolocation of datasets, with a particular focus on Cultural Heritage.
