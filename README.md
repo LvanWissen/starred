@@ -75,7 +75,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [ScanTailor-Advanced/scantailor-advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
-- [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Very fast SPARQL Engine, which can handle very large knowledge graphs like the complete Wikidata, offers context-sensitive autocompletion for SPARQL queries, and allows combination with text search. I
+- [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Graph database implementing the RDF and SPARQL standards. Very fast and scales to hundreds of billions of triples on a single commodity machine.
 - [bram2202/esp8266-dsmr](https://github.com/bram2202/esp8266-dsmr) - A ESP8266 based DSMR reader, posting onto MQTT
 - [supersjimmie/IthoEcoFanRFT](https://github.com/supersjimmie/IthoEcoFanRFT) - Control the Itho Daalderop Eco Fan RFT using a microcontroller and CC1101 chip. The original code is fully tested using a STK500 and ATMega328P, this fork is modified for use with an Arduino or ESP826
 - [fliphess/esp8266_p1meter](https://github.com/fliphess/esp8266_p1meter) - dsmr 4.2 P1 meter to mqtt using esp8266 nodemcu
