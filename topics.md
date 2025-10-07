@@ -1011,7 +1011,7 @@
 - [instituutnederlandsetaal/blacklab-frontend](https://github.com/instituutnederlandsetaal/blacklab-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
-- [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Very fast SPARQL Engine, which can handle very large knowledge graphs like the complete Wikidata, offers context-sensitive autocompletion for SPARQL queries, and allows combination with text search. I
+- [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Graph database implementing the RDF and SPARQL standards. Very fast and scales to hundreds of billions of triples on a single commodity machine.
 - [knaw-huc/textrepo-client-python](https://github.com/knaw-huc/textrepo-client-python) - Python client for TextRepo
 - [jokteur/python_communism](https://github.com/jokteur/python_communism) - A module for initiating the communist revolution in each of our python modules
 - [cltl/frame-annotation-tool](https://github.com/cltl/frame-annotation-tool) - Annotation tool in JavaScript and Node.js for annotation of frames in Dutch documents.
