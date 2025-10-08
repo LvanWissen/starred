@@ -836,6 +836,7 @@
 
 ## others 
 
+- [bmmeijers/mapedge](https://github.com/bmmeijers/mapedge) - MapEdge: Semi-automatically generate Georeference Annotations for a series of map sheets
 - [structs-nl/search-sandbox](https://github.com/structs-nl/search-sandbox) - 
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
