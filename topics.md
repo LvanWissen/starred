@@ -570,6 +570,7 @@
 
 ## image-processing 
 
+- [samvera/serverless-iiif](https://github.com/samvera/serverless-iiif) - IIIF Image API 2.1 & 3.0 server in an AWS Serverless Application
 - [ruven/iipsrv](https://github.com/ruven/iipsrv) - iipsrv is an advanced high-performance feature-rich image server for web-based streamed viewing and zooming of ultra high-resolution images.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
