@@ -329,7 +329,7 @@
 - [kgeographer/geojson-t](https://github.com/kgeographer/geojson-t) - Experimental temporal extension to the GeoJSON standard
 - [johnBradley501/FPO](https://github.com/johnBradley501/FPO) - Factoid Prosopography Ontology
 - [Urinx/Books](https://github.com/Urinx/Books) - 无它术，唯勤读书而多为之，自工
-- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver Classic proxy for automating Firefox through Marionette
 
 ## PHP 
 
