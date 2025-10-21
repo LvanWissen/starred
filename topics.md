@@ -817,7 +817,7 @@
 
 ## open-data 
 
-- [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - Components (API and crawler) for the NDE Dataset Register
+- [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - API, crawler and browser components for the NDE Dataset Register
 - [TriplyDB/YALC](https://github.com/TriplyDB/YALC) - 🕸 YALC: Yet Another LOD Cloud (registry of Linked Open Datasets).
 
 ## open-source 
