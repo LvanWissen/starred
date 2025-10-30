@@ -70,7 +70,7 @@
 
 ## C++ 
 
-- [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
+- [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [ruven/iipsrv](https://github.com/ruven/iipsrv) - iipsrv is an advanced high-performance feature-rich image server for web-based streamed viewing and zooming of ultra high-resolution images.
 - [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome external component for reading P1 data from (Swedish) electricity meters
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
