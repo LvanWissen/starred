@@ -839,6 +839,7 @@
 
 ## others 
 
+- [jolietjakeblues/geooptijd](https://github.com/jolietjakeblues/geooptijd) - Geooptijd de opvolger van erfgeo ideeën
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
 - [bmmeijers/mapedge](https://github.com/bmmeijers/mapedge) - MapEdge: Semi-automatically generate Georeference Annotations for a series of map sheets
 - [structs-nl/search-sandbox](https://github.com/structs-nl/search-sandbox) - 
