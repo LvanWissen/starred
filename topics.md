@@ -845,6 +845,7 @@
 
 ## others 
 
+- [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [jolietjakeblues/geooptijd](https://github.com/jolietjakeblues/geooptijd) - Geooptijd de opvolger van erfgeo ideeën
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
