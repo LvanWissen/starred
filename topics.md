@@ -872,7 +872,7 @@
 - [OCFL/spec](https://github.com/OCFL/spec) - The Oxford Common File Layout (OCFL) specifications and website
 - [daniel-j-h/zindex](https://github.com/daniel-j-h/zindex) - A very fast cloud-native static spatial index for 2D points based on a Z-Order space filling curve and BIGMIN search space pruning
 - [acdh-oeaw/rdfproxy](https://github.com/acdh-oeaw/rdfproxy) - Python library for building REST APIs on top of SPARQL endpoints
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [netwerk-digitaal-erfgoed/anno-demo](https://github.com/netwerk-digitaal-erfgoed/anno-demo) - Demonstrator of a annotation server service for heritage.
 - [inuits/elody-common](https://github.com/inuits/elody-common) - 
