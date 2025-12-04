@@ -123,7 +123,7 @@
 - [h2non/imaginary](https://github.com/h2non/imaginary) - Fast, simple, scalable, Docker-ready HTTP microservice for high-level image processing
 - [boxesandglue/boxesandglue](https://github.com/boxesandglue/boxesandglue) - PDF rendering library for Go using TeX algorithms.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [khaller93/graphdb-free](https://github.com/khaller93/graphdb-free) - Dockerfile for the free version of Ontotext GraphDB.
 - [delving/hub3](https://github.com/delving/hub3) - RDF discovery and publication platform
 - [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
