@@ -604,7 +604,7 @@
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-based VPN and proxy for remote access to anything anywhere
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - API, crawler and browser components for the NDE Dataset Register
 - [netwerk-digitaal-erfgoed/network-of-terms](https://github.com/netwerk-digitaal-erfgoed/network-of-terms) - Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)
