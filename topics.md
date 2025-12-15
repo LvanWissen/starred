@@ -171,6 +171,7 @@
 - [felixrieseberg/clippy](https://github.com/felixrieseberg/clippy) - 📎 Clippy, now with some AI
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Analytics, Versioning and ETL for multimodal data: video, audio, PDFs, images
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [knodle/knodle](https://github.com/knodle/knodle) - A PyTorch-based open-source framework that provides methods for improving the weakly annotated data and allows researchers to efficiently develop and compare their own methods.
 - [CrowdTruth/CrowdTruth-core](https://github.com/CrowdTruth/CrowdTruth-core) - CrowdTruth framework for crowdsourcing ground truth for training & evaluation of AI systems
 - [gandersen101/spaczz](https://github.com/gandersen101/spaczz) - Fuzzy matching and more functionality for spaCy.
@@ -209,6 +210,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
 - [henrietteharmse/uml2semantics](https://github.com/henrietteharmse/uml2semantics) - Translates UML class diagrams to OWL2
+- [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
 - [nlp-uoregon/trankit](https://github.com/nlp-uoregon/trankit) - Trankit is a Light-Weight Transformer-based Python Toolkit for Multilingual Natural Language Processing
 - [CrowdTruth/CrowdTruth-core](https://github.com/CrowdTruth/CrowdTruth-core) - CrowdTruth framework for crowdsourcing ground truth for training & evaluation of AI systems
 - [gandersen101/spaczz](https://github.com/gandersen101/spaczz) - Fuzzy matching and more functionality for spaCy.
