@@ -885,7 +885,7 @@
 - [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
 - [GhentCDH/taulu](https://github.com/GhentCDH/taulu) - Taulu is a Python package designed to segment tabular data in scanned or photographed documents.
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
-- [canopy-iiif/canopy-iiif](https://github.com/canopy-iiif/canopy-iiif) - a IIIF sourced site generator for digital collections, humanities, and exhibitions
+- [canopy-iiif/app](https://github.com/canopy-iiif/app) - Source for Canopy IIIF, documentation, and the @canopy-iiif/app package. Start new Canopy digital projects from the https://github.com/canopy-iiif/template
 - [jamesmisson/iiif-timeline](https://github.com/jamesmisson/iiif-timeline) - 
 - [glenrobson/iiif-archive](https://github.com/glenrobson/iiif-archive) - Creates a backup of a IIIF Manifest with images
 - [OCFL/spec](https://github.com/OCFL/spec) - The Oxford Common File Layout (OCFL) specifications and website
