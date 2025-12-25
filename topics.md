@@ -155,6 +155,7 @@
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
+- [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
 - [xml](#xml)
@@ -327,6 +328,7 @@
 
 ## data 
 
+- [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
 - [mathiasrichter/shapiro](https://github.com/mathiasrichter/shapiro) - Modelling data with JSON-LD, Turtle, SHACL
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
@@ -1417,6 +1419,7 @@
 
 ## typescript 
 
+- [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [ciscoheat/eslint-plugin-dci-lint](https://github.com/ciscoheat/eslint-plugin-dci-lint) - DCI linting for Typescript and ESLint
 - [Language-Mapping/language-map](https://github.com/Language-Mapping/language-map) - Front-end codebase for Language Mapping web map
@@ -1478,6 +1481,10 @@
 - [nationalarchives/miiify](https://github.com/nationalarchives/miiify) - A web annotation server built with the same principles as Git
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
 - [EmbarkStudios/wg-ui](https://github.com/EmbarkStudios/wg-ui) - WireGuard Web UI for self-serve client configurations, with optional auth.
+
+## webapp 
+
+- [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
 
 ## webpack 
 
