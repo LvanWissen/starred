@@ -120,6 +120,7 @@
 - [privacy](#privacy)
 - [productivity](#productivity)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -868,6 +869,7 @@
 
 ## others 
 
+- [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
 - [FelixFrizzy/WOKIE](https://github.com/FelixFrizzy/WOKIE) - Well-translated Ontologies for Knowledge Management in  International Environments
 - [IIIF-Commons/presentation-3-types](https://github.com/IIIF-Commons/presentation-3-types) - A set of Typescript types that describe the format of the IIIF Presentation 3.0 specification as accurately as possible. (JS/Typescript)
@@ -894,7 +896,7 @@
 - [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
 - [GhentCDH/taulu](https://github.com/GhentCDH/taulu) - Taulu is a Python package designed to segment tabular data in scanned or photographed documents.
 - [nationalarchives/annosearch](https://github.com/nationalarchives/annosearch) - W3C web annotation search using the IIIF content search API
-- [canopy-iiif/app](https://github.com/canopy-iiif/app) - Source for Canopy IIIF, documentation, and the @canopy-iiif/app package. Start new Canopy digital projects from the https://github.com/canopy-iiif/template
+- [canopy-iiif/app](https://github.com/canopy-iiif/app) - Source for Canopy IIIF, documentation, and the @canopy-iiif/app package.
 - [jamesmisson/iiif-timeline](https://github.com/jamesmisson/iiif-timeline) - 
 - [glenrobson/iiif-archive](https://github.com/glenrobson/iiif-archive) - Creates a backup of a IIIF Manifest with images
 - [OCFL/spec](https://github.com/OCFL/spec) - The Oxford Common File Layout (OCFL) specifications and website
@@ -1199,6 +1201,10 @@
 ## project-management 
 
 - [chrisvel/tududi](https://github.com/chrisvel/tududi) - Self-hosted task management that combines the simplicity of personal with the power of professional project organization. Built for individuals and teams who value privacy, control, and efficiency.
+
+## prompt-engineering 
+
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 
 ## python 
 
