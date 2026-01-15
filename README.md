@@ -258,12 +258,12 @@
 
 ## Jupyter Notebook 
 
+- [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [wjbmattingly/llm-lod-recipes](https://github.com/wjbmattingly/llm-lod-recipes) - A set of recipes for working LOD and LLMs.
 - [stanford-oval/spinach](https://github.com/stanford-oval/spinach) - SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions
 - [glp500/Globalise-Document-Segmentation](https://github.com/glp500/Globalise-Document-Segmentation) - 
 - [TurkuNLP/DIGHT25](https://github.com/TurkuNLP/DIGHT25) - Materials for the DIGHT25 summer school
-- [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [google-research/inksight](https://github.com/google-research/inksight) - 
 - [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
 - [maps-as-data/mapreader-autumn-workshop-2024](https://github.com/maps-as-data/mapreader-autumn-workshop-2024) - A repo for the MapReader Autumn 2024 workshop
@@ -506,6 +506,7 @@
 
 ## Rust 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
@@ -596,7 +597,6 @@
 - [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
 - [IIIF-Commons/presentation-3-types](https://github.com/IIIF-Commons/presentation-3-types) - A set of Typescript types that describe the format of the IIIF Presentation 3.0 specification as accurately as possible. (JS/Typescript)
 - [view-a-LOD/Valeros](https://github.com/view-a-LOD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
 - [samvera/serverless-iiif](https://github.com/samvera/serverless-iiif) - IIIF Image API 2.1 & 3.0 server in an AWS Serverless Application
 - [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
