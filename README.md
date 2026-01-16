@@ -506,7 +506,6 @@
 
 ## Rust 
 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
@@ -570,9 +569,11 @@
 
 ## Svelte 
 
+- [ANovokmet/svelte-gantt](https://github.com/ANovokmet/svelte-gantt) - :calendar: Interactive JavaScript Gantt chart/resource booking component
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [friendofsvelte/mermaid](https://github.com/friendofsvelte/mermaid) - Svelte Mermaid Renderer
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
+- [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - API, crawler and browser components for the NDE Dataset Register
 - [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
 - [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte 5 wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
 - [SikandarJODD/form-builder](https://github.com/SikandarJODD/form-builder) - Svelte Form Builder include various Input fields validated using ZOD + Superforms
@@ -597,6 +598,7 @@
 - [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
 - [IIIF-Commons/presentation-3-types](https://github.com/IIIF-Commons/presentation-3-types) - A set of Typescript types that describe the format of the IIIF Presentation 3.0 specification as accurately as possible. (JS/Typescript)
 - [view-a-LOD/Valeros](https://github.com/view-a-LOD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
 - [samvera/serverless-iiif](https://github.com/samvera/serverless-iiif) - IIIF Image API 2.1 & 3.0 server in an AWS Serverless Application
 - [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
@@ -611,7 +613,6 @@
 - [HumanSignal/label-studio](https://github.com/HumanSignal/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
 - [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
-- [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - API, crawler and browser components for the NDE Dataset Register
 - [netwerk-digitaal-erfgoed/network-of-terms](https://github.com/netwerk-digitaal-erfgoed/network-of-terms) - Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)
 - [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
 - [ciscoheat/eslint-plugin-dci-lint](https://github.com/ciscoheat/eslint-plugin-dci-lint) - DCI linting for Typescript and ESLint
