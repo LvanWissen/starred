@@ -167,7 +167,7 @@
 - [ldproxy/ldproxy](https://github.com/ldproxy/ldproxy) - Share geospatial data via modern Web APIs
 - [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [sparna-git/skos-play](https://github.com/sparna-git/skos-play) - SKOS-Play allows to print SKOS files in HTML or PDF. It also embeds xls2rdf to generate RDF from Excel.
-- [kermitt2/grobid](https://github.com/kermitt2/grobid) - A machine learning software for extracting information from scholarly documents
+- [grobidOrg/grobid](https://github.com/grobidOrg/grobid) - A machine learning software for extracting information from scholarly documents
 - [culturesofknowledge/emdates](https://github.com/culturesofknowledge/emdates) - Early Modern Dates
 - [Jurian/disambed](https://github.com/Jurian/disambed) - Create embeddings for RDF-graphs using the GloVe model
 - [dlcs/elucidate-server](https://github.com/dlcs/elucidate-server) - A W3C and OA compliant Web Annotation server
@@ -199,7 +199,7 @@
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
 - [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [thegetty/quire](https://github.com/thegetty/quire) - A multi-package repository for the Quire multiformat publishing framework
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [docuracy/Locolligo](https://github.com/docuracy/Locolligo) - Locolligo is a single-page, browser-based javascript application to facilitate the formatting, linking, and geolocation of datasets, with a particular focus on Cultural Heritage.
