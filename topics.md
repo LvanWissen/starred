@@ -328,6 +328,7 @@
 
 ## cpp 
 
+- [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 
 ## cryptography 
@@ -1222,6 +1223,7 @@
 
 ## python 
 
+- [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [almarklein/timetagger](https://github.com/almarklein/timetagger) - Tag your time, get the insight
