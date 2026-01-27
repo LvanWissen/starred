@@ -39,7 +39,6 @@
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
 - [Standard ML](#standard-ml)
-- [SurrealQL](#surrealql)
 - [Svelte](#svelte)
 - [TeX](#tex)
 - [Twig](#twig)
@@ -569,10 +568,6 @@
 
 - [GoldenCheetah/GoldenCheetah](https://github.com/GoldenCheetah/GoldenCheetah) - Performance Software for Cyclists, Runners, Triathletes and Coaches
 
-## SurrealQL 
-
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-
 ## Svelte 
 
 - [ANovokmet/svelte-gantt](https://github.com/ANovokmet/svelte-gantt) - :calendar: Interactive JavaScript Gantt chart/resource booking component
@@ -669,6 +664,7 @@
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
 - [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
 - [hypermedia-app/shaperone](https://github.com/hypermedia-app/shaperone) - Form UI elements driven by SHACL Shapes
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [instituutnederlandsetaal/blacklab-frontend](https://github.com/instituutnederlandsetaal/blacklab-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [CommunitySolidServer/CommunitySolidServer](https://github.com/CommunitySolidServer/CommunitySolidServer) - An open and modular implementation of the Solid specifications
