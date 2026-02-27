@@ -373,6 +373,7 @@
 
 ## Python 
 
+- [veleda/data-engineering-to-knowledge-engineering](https://github.com/veleda/data-engineering-to-knowledge-engineering) - Demo repository for tutorials on Substack. From data engineering to knowledge engineering in the blink of an eye.
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
 - [FelixFrizzy/WOKIE](https://github.com/FelixFrizzy/WOKIE) - Well-translated Ontologies for Knowledge Management in  International Environments
@@ -508,6 +509,7 @@
 
 ## Rust 
 
+- [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit.
