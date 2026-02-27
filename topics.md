@@ -895,6 +895,8 @@
 
 ## others 
 
+- [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
+- [veleda/data-engineering-to-knowledge-engineering](https://github.com/veleda/data-engineering-to-knowledge-engineering) - Demo repository for tutorials on Substack. From data engineering to knowledge engineering in the blink of an eye.
 - [rsimon/liiive](https://github.com/rsimon/liiive) - A tool for real-time collaborative IIIF image annotation.
 - [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
