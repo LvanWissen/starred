@@ -105,7 +105,7 @@
 
 ## Dockerfile 
 
-- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [tiredofit/db-backup](https://github.com/tiredofit/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [WebThingsIO/gateway-docker](https://github.com/WebThingsIO/gateway-docker) - Legacy docker image for WebThings Gateway - now moved to main gateway repo at https://github.com/WebThingsIO/gateway
 
 ## Go 
