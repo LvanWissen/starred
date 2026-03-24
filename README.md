@@ -189,6 +189,7 @@
 
 ## JavaScript 
 
+- [rdf-ext/grapoi](https://github.com/rdf-ext/grapoi) - Universal RDF/JS graph traverser
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
@@ -258,6 +259,7 @@
 
 ## Jupyter Notebook 
 
+- [veleda/data-engineering-to-knowledge-engineering](https://github.com/veleda/data-engineering-to-knowledge-engineering) - Demo repository for tutorials on Substack. From data engineering to knowledge engineering in the blink of an eye.
 - [LAHTeR/document_segmentation](https://github.com/LAHTeR/document_segmentation) - Tool for segmenting and classifying document boundaries.
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [wjbmattingly/llm-lod-recipes](https://github.com/wjbmattingly/llm-lod-recipes) - A set of recipes for working LOD and LLMs.
@@ -371,7 +373,6 @@
 
 ## Python 
 
-- [veleda/data-engineering-to-knowledge-engineering](https://github.com/veleda/data-engineering-to-knowledge-engineering) - Demo repository for tutorials on Substack. From data engineering to knowledge engineering in the blink of an eye.
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
 - [FelixFrizzy/WOKIE](https://github.com/FelixFrizzy/WOKIE) - Well-translated Ontologies for Knowledge Management in  International Environments
