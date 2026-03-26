@@ -18,6 +18,7 @@
 - [awesome-list](#awesome-list)
 - [aws](#aws)
 - [azure](#azure)
+- [backend](#backend)
 - [bash](#bash)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
@@ -48,6 +49,7 @@
 - [design](#design)
 - [developer-tools](#developer-tools)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -249,6 +251,10 @@
 
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
+## backend 
+
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
+
 ## bash 
 
 - [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
@@ -427,6 +433,13 @@
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 
+## distributed-systems 
+
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
+- [absmach/supermq](https://github.com/absmach/supermq) - Event-driven Infrastructure for Modern Cloud
+
 ## django 
 
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -549,6 +562,7 @@
 
 ## golang 
 
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [oxtyped/gpodder2go](https://github.com/oxtyped/gpodder2go) - gpodder2go is a simple self-hosted, golang, drop-in replacement for gpodder/mygpo server to handle podcast subscriptions management for gpodder clients
@@ -639,6 +653,7 @@
 
 ## javascript 
 
+- [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
