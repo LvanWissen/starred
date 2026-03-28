@@ -907,6 +907,7 @@
 
 ## others 
 
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [rdf-ext/grapoi](https://github.com/rdf-ext/grapoi) - Universal RDF/JS graph traverser
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
 - [veleda/data-engineering-to-knowledge-engineering](https://github.com/veleda/data-engineering-to-knowledge-engineering) - Demo repository for tutorials on Substack. From data engineering to knowledge engineering in the blink of an eye.
