@@ -598,6 +598,7 @@
 
 ## TypeScript 
 
+- [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [rsimon/liiive](https://github.com/rsimon/liiive) - A tool for real-time collaborative IIIF image annotation.
