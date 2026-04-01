@@ -379,6 +379,7 @@
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
 - [FelixFrizzy/WOKIE](https://github.com/FelixFrizzy/WOKIE) - Well-translated Ontologies for Knowledge Management in  International Environments
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [ufal/nametag3](https://github.com/ufal/nametag3) - NameTag3: Named Entity Tagger
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
@@ -510,6 +511,7 @@
 
 ## Rust 
 
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real t
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
