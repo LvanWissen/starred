@@ -511,7 +511,7 @@
 
 ## Rust 
 
-- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real t
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex.
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
