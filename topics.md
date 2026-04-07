@@ -439,7 +439,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
+- [absmach/magistrala](https://github.com/absmach/magistrala) - IoT Platform Framework
 
 ## django 
 
@@ -574,7 +574,7 @@
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [mautrix/signal](https://github.com/mautrix/signal) - A Matrix-Signal puppeting bridge
-- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
+- [absmach/magistrala](https://github.com/absmach/magistrala) - IoT Platform Framework
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
 ## graphql 
@@ -643,7 +643,7 @@
 ## iot 
 
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
-- [absmach/supermq](https://github.com/absmach/supermq) - IoT Platform Framework
+- [absmach/magistrala](https://github.com/absmach/magistrala) - IoT Platform Framework
 - [kabbi/zigbee2mqtt-adapter](https://github.com/kabbi/zigbee2mqtt-adapter) - zigbee2mqtt adapter for WebThings gateway
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 
