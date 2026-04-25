@@ -158,6 +158,7 @@
 
 ## Java 
 
+- [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [structs-nl/search-sandbox](https://github.com/structs-nl/search-sandbox) - 
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
