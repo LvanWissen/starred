@@ -392,7 +392,7 @@
 - [daniel-j-h/zindex](https://github.com/daniel-j-h/zindex) - A very fast cloud-native static spatial index for 2D points based on a Z-Order space filling curve and BIGMIN search space pruning
 - [acdh-oeaw/rdfproxy](https://github.com/acdh-oeaw/rdfproxy) - Python library for building REST APIs on top of SPARQL endpoints
 - [gitonthescene/csv-reconcile](https://github.com/gitonthescene/csv-reconcile) - A reconciliation service for OpenRefine serving data from a given CSV file.
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data context layer for unstructured data - images, video, sensor data, text and PDFs
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
