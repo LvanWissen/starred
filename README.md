@@ -192,6 +192,7 @@
 
 ## JavaScript 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [rdf-ext/grapoi](https://github.com/rdf-ext/grapoi) - Universal RDF/JS graph traverser
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
