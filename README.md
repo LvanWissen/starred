@@ -395,7 +395,7 @@
 - [daniel-j-h/zindex](https://github.com/daniel-j-h/zindex) - A very fast cloud-native static spatial index for 2D points based on a Z-Order space filling curve and BIGMIN search space pruning
 - [acdh-oeaw/rdfproxy](https://github.com/acdh-oeaw/rdfproxy) - Python library for building REST APIs on top of SPARQL endpoints
 - [gitonthescene/csv-reconcile](https://github.com/gitonthescene/csv-reconcile) - A reconciliation service for OpenRefine serving data from a given CSV file.
-- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - Data Memory: the operational data context layer for AI agents - typed, versioned datasets over images, video, docs and tables
+- [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
@@ -584,7 +584,7 @@
 - [friendofsvelte/mermaid](https://github.com/friendofsvelte/mermaid) - Svelte Mermaid Renderer
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
 - [wobsoriano/svelte-sonner](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte. A port of @emilkowalski's sonner.
-- [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte 5 wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
+- [MIERUNE/svelte-maplibre-gl](https://github.com/MIERUNE/svelte-maplibre-gl) - Svelte wrapper for 🗺 MapLibre GL JS — Build interactive web maps effortlessly with Svelte’s reactive and declarative power 🚀
 - [SikandarJODD/form-builder](https://github.com/SikandarJODD/form-builder) - Svelte Form Builder include various Input fields validated using ZOD + Superforms
 - [svar-widgets/core](https://github.com/svar-widgets/core) - SVAR Core library is a collection of essential UI components written with Svelte.
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
