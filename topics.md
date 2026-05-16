@@ -77,7 +77,6 @@
 - [golang](#golang)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
-- [haskell](#haskell)
 - [home-assistant](#home-assistant)
 - [html](#html)
 - [http](#http)
@@ -624,10 +623,6 @@
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [WebThingsIO/gateway](https://github.com/WebThingsIO/gateway) - WebThings Gateway - a self-hosted web application for monitoring and controlling a building over the web
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
-
-## haskell 
-
-- [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 
 ## home-assistant 
 
