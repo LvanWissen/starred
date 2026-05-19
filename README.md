@@ -237,7 +237,7 @@
 - [rsimon/openseadragon-wmts](https://github.com/rsimon/openseadragon-wmts) - Adds support for WMTS maps to OpenSeadragon
 - [gitrows/gitrows](https://github.com/gitrows/gitrows) - A lightweight module for using git as a database
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
-- [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 3
+- [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 4
 - [LinkedDataFragments/Server.js](https://github.com/LinkedDataFragments/Server.js) - A Triple Pattern Fragments server for Node.js
 - [recogito/recogito-js](https://github.com/recogito/recogito-js) - **deprecated**
 - [snvfk1n/recogito-web-annotation-adapter](https://github.com/snvfk1n/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
@@ -610,7 +610,7 @@
 - [rsimon/liiive](https://github.com/rsimon/liiive) - A tool for real-time collaborative IIIF image annotation.
 - [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
 - [IIIF-Commons/presentation-3-types](https://github.com/IIIF-Commons/presentation-3-types) - A set of Typescript types that describe the format of the IIIF Presentation 3.0 specification as accurately as possible. (JS/Typescript)
-- [view-a-LOD/Valeros](https://github.com/view-a-LOD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
+- [Valeros-LD/Valeros](https://github.com/Valeros-LD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [samvera/serverless-iiif](https://github.com/samvera/serverless-iiif) - IIIF Image API 2.1 & 3.0 server in an AWS Serverless Application
 - [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
