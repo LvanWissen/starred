@@ -939,7 +939,7 @@
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
 - [FelixFrizzy/WOKIE](https://github.com/FelixFrizzy/WOKIE) - Well-translated Ontologies for Knowledge Management in  International Environments
 - [IIIF-Commons/presentation-3-types](https://github.com/IIIF-Commons/presentation-3-types) - A set of Typescript types that describe the format of the IIIF Presentation 3.0 specification as accurately as possible. (JS/Typescript)
-- [view-a-LOD/Valeros](https://github.com/view-a-LOD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
+- [Valeros-LD/Valeros](https://github.com/Valeros-LD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [jolietjakeblues/geooptijd](https://github.com/jolietjakeblues/geooptijd) - Geooptijd de opvolger van erfgeo ideeën
@@ -1129,7 +1129,7 @@
 - [GavinMendelGleason/why_terminusx](https://github.com/GavinMendelGleason/why_terminusx) - Why we made TerminusX
 - [AlaSQL/alasql](https://github.com/AlaSQL/alasql) - AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Ex
 - [allmaps/iiif-map-collections](https://github.com/allmaps/iiif-map-collections) - List of IIIF map collections
-- [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 3
+- [dbmdz/mirador-textoverlay](https://github.com/dbmdz/mirador-textoverlay) - Text Overlay plugin for Mirador 4
 - [robcast/python-iiif-annotation-tool](https://github.com/robcast/python-iiif-annotation-tool) - Tool to manipulate image annotations in IIIF manifests
 - [CLARIAH/burgerLinker](https://github.com/CLARIAH/burgerLinker) - Command line tool for linking civil registries
 - [nodegoat/nodegoat](https://github.com/nodegoat/nodegoat) - Web-based data management, network analysis & visualisation environment.
