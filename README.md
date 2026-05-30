@@ -155,7 +155,6 @@
 - [ktym/d3sparql](https://github.com/ktym/d3sparql) - JavaScript library for executing SPARQL query and transforming resulted JSON for visualization in D3.js
 - [cltl/SoNar2Naf](https://github.com/cltl/SoNar2Naf) - Converter from Folia to NAF
 - [georgd/EB-Garamond](https://github.com/georgd/EB-Garamond) - Digitization of the Garamond shown on the Egenolff-Berner specimen
-- [GoBoldlyForward/turntable](https://github.com/GoBoldlyForward/turntable) - A Responsive JQuery Slider
 
 ## Java 
 
@@ -254,6 +253,7 @@
 - [nypl-spacetime/Leaflet.GeotagPhoto](https://github.com/nypl-spacetime/Leaflet.GeotagPhoto) - Leaflet plugin for photo geotagging
 - [ProjectMirador/mirador](https://github.com/ProjectMirador/mirador) - An open-source, web-based 'multi-up' viewer that supports zoom-pan-rotate functionality, ability to display/compare simple images, and images with annotations.
 - [agoldst/dfr-browser](https://github.com/agoldst/dfr-browser) - Take a MALLET to disciplinary history
+- [GoBoldlyForward/turntable](https://github.com/GoBoldlyForward/turntable) - A Responsive JQuery Slider
 - [raphv/gexf-js](https://github.com/raphv/gexf-js) - A JavaScript GEXF viewer
 - [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 - [angular/angular.js](https://github.com/angular/angular.js) - AngularJS - HTML enhanced for web apps!
