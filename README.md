@@ -143,6 +143,7 @@
 
 ## HTML 
 
+- [Deep-Keep-Group/keepright-spec](https://github.com/Deep-Keep-Group/keepright-spec) - This is where the spec lives
 - [OCFL/spec](https://github.com/OCFL/spec) - The Oxford Common File Layout (OCFL) specifications and website
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [timathom/marc2linkedart](https://github.com/timathom/marc2linkedart) - Specifications to convert MARC 21 records to Linked Art JSON-LD
