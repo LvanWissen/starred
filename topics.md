@@ -927,6 +927,9 @@
 
 ## others 
 
+- [Xue-Xia/MapSAM2](https://github.com/Xue-Xia/MapSAM2) - 
+- [Aikon-platform/aiiinotate](https://github.com/Aikon-platform/aiiinotate) - Lightweight and fast IIIF annotation server compatible with Mirador 4
+- [dbmdz/wolpi](https://github.com/dbmdz/wolpi) - Wolpi: A fast and extensible IIIF Image Server
 - [Deep-Keep-Group/keepright-spec](https://github.com/Deep-Keep-Group/keepright-spec) - This is where the spec lives
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
