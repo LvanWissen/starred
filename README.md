@@ -159,6 +159,7 @@
 
 ## Java 
 
+- [dbmdz/wolpi](https://github.com/dbmdz/wolpi) - Wolpi: A fast and extensible IIIF Image Server
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [structs-nl/search-sandbox](https://github.com/structs-nl/search-sandbox) - 
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
@@ -192,6 +193,7 @@
 
 ## JavaScript 
 
+- [Aikon-platform/aiiinotate](https://github.com/Aikon-platform/aiiinotate) - Lightweight and fast IIIF annotation server compatible with Mirador 4
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [rdf-ext/grapoi](https://github.com/rdf-ext/grapoi) - Universal RDF/JS graph traverser
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
@@ -379,6 +381,7 @@
 
 ## Python 
 
+- [Xue-Xia/MapSAM2](https://github.com/Xue-Xia/MapSAM2) - 
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [iiif-prezi/iiif-prezi3](https://github.com/iiif-prezi/iiif-prezi3) - IIIF Presentation API 3 Python Library
