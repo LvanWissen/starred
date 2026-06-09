@@ -932,7 +932,7 @@
 - [dbmdz/wolpi](https://github.com/dbmdz/wolpi) - Wolpi: A fast and extensible IIIF Image Server
 - [Deep-Keep-Group/keepright-spec](https://github.com/Deep-Keep-Group/keepright-spec) - This is where the spec lives
 - [versity/versitygw](https://github.com/versity/versitygw) - A simple to deploy but feature rich S3 object storage server for your filesystem
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [rdf-ext/grapoi](https://github.com/rdf-ext/grapoi) - Universal RDF/JS graph traverser
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
