@@ -217,7 +217,7 @@
 - [zazuko/clownface](https://github.com/zazuko/clownface) - Simple but powerful graph traversing library for RDF
 - [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
 - [arkalab/tropiiify](https://github.com/arkalab/tropiiify) - Export IIIF collections from Tropy
-- [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Styleguidist Docs: https://samvera-labs.github.io/ramp/
+- [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Storybook Docs: https://samvera-labs.github.io/ramp/
 - [zazuko/shacl-forms](https://github.com/zazuko/shacl-forms) - SHACL-generated forms
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [Odeuropa/explorer](https://github.com/Odeuropa/explorer) - Exploratory Search Engine for Odeuropa
