@@ -313,7 +313,7 @@
 ## cli 
 
 - [peak/s5cmd](https://github.com/peak/s5cmd) - Parallel S3 and local filesystem execution tool.
-- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
+- [freedmand/semantra-python](https://github.com/freedmand/semantra-python) - Multi-tool for semantic search
 - [LibreCat/Catmandu](https://github.com/LibreCat/Catmandu) - Catmandu - a data processing toolkit
 - [decentralized-identity/github-did](https://github.com/decentralized-identity/github-did) - Decentralized Identity with Github
 
@@ -780,7 +780,7 @@
 - [treeverse/dvc](https://github.com/treeverse/dvc) - 🦉 Data Versioning and ML Experiments
 - [lucasgelfond/webgpu-sam2](https://github.com/lucasgelfond/webgpu-sam2) - Segment Anything 2, 100% in the browser (with WebGPU!)
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
-- [freedmand/semantra](https://github.com/freedmand/semantra) - Multi-tool for semantic search
+- [freedmand/semantra-python](https://github.com/freedmand/semantra-python) - Multi-tool for semantic search
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [maps-as-data/MapReader](https://github.com/maps-as-data/MapReader) - A computer vision pipeline for exploring and analyzing images at scale
