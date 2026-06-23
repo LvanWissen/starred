@@ -940,6 +940,7 @@
 
 ## others 
 
+- [Flamingo-tech/Open-AIR](https://github.com/Flamingo-tech/Open-AIR) - Open source system for home ventilation and control via HA
 - [Xue-Xia/MapSAM2](https://github.com/Xue-Xia/MapSAM2) - 
 - [Aikon-platform/aiiinotate](https://github.com/Aikon-platform/aiiinotate) - Lightweight and fast IIIF annotation server compatible with Mirador 4
 - [dbmdz/wolpi](https://github.com/dbmdz/wolpi) - Wolpi: A fast and extensible IIIF Image Server
