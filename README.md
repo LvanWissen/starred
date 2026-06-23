@@ -313,6 +313,7 @@
 
 ## Others 
 
+- [Flamingo-tech/Open-AIR](https://github.com/Flamingo-tech/Open-AIR) - Open source system for home ventilation and control via HA
 - [jolietjakeblues/geooptijd](https://github.com/jolietjakeblues/geooptijd) - Geooptijd de opvolger van erfgeo ideeën
 - [bmmeijers/mapedge](https://github.com/bmmeijers/mapedge) - MapEdge: Semi-automatically generate Georeference Annotations for a series of map sheets
 - [britishlibrary/peripleo](https://github.com/britishlibrary/peripleo) - Example configuration of Peripleo geodata mapping software, developed for the BL's "Locating a National Collection" project - fork this!
