@@ -963,7 +963,7 @@
 - [jolietjakeblues/geooptijd](https://github.com/jolietjakeblues/geooptijd) - Geooptijd de opvolger van erfgeo ideeën
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
 - [bmmeijers/mapedge](https://github.com/bmmeijers/mapedge) - MapEdge: Semi-automatically generate Georeference Annotations for a series of map sheets
-- [structs-nl/search-sandbox](https://github.com/structs-nl/search-sandbox) - 
+- [structs-nl/Enlight](https://github.com/structs-nl/Enlight) - 
 - [codemirror/dev](https://github.com/codemirror/dev) - Development repository for the CodeMirror editor project
 - [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
 - [britishlibrary/peripleo](https://github.com/britishlibrary/peripleo) - Example configuration of Peripleo geodata mapping software, developed for the BL's "Locating a National Collection" project - fork this!
