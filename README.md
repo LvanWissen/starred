@@ -588,6 +588,7 @@
 
 ## Svelte 
 
+- [allmaps/rotterdam-tijdmachine](https://github.com/allmaps/rotterdam-tijdmachine) - Rotterdam Tijdmachine
 - [ANovokmet/svelte-gantt](https://github.com/ANovokmet/svelte-gantt) - :calendar: Interactive JavaScript Gantt chart/resource booking component
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [friendofsvelte/mermaid](https://github.com/friendofsvelte/mermaid) - Svelte Mermaid Renderer
@@ -612,6 +613,7 @@
 
 ## TypeScript 
 
+- [TREEcg/extract-cbd-shape](https://github.com/TREEcg/extract-cbd-shape) - Get all RDF triples/quads related to an entity based on CBD and a SHACL shape
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
