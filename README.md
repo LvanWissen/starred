@@ -588,7 +588,7 @@
 
 ## Svelte 
 
-- [allmaps/rotterdam-tijdmachine](https://github.com/allmaps/rotterdam-tijdmachine) - Rotterdam Tijdmachine
+- [allmaps/rotterdamtimemachine](https://github.com/allmaps/rotterdamtimemachine) - Rotterdam Time Machine
 - [ANovokmet/svelte-gantt](https://github.com/ANovokmet/svelte-gantt) - :calendar: Interactive JavaScript Gantt chart/resource booking component
 - [MariusLang/mapcn-svelte](https://github.com/MariusLang/mapcn-svelte) - Beautiful shadcn-svelte map components.
 - [friendofsvelte/mermaid](https://github.com/friendofsvelte/mermaid) - Svelte Mermaid Renderer
