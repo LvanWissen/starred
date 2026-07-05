@@ -74,6 +74,7 @@
 
 ## C++ 
 
+- [arjenhiemstra/ithowifi](https://github.com/arjenhiemstra/ithowifi) - Itho wifi  add-on module (ESP32 wifi to itho I2C protocol)
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [ruven/iipsrv](https://github.com/ruven/iipsrv) - iipsrv is an advanced high-performance feature-rich image server for web-based streamed viewing and zooming of ultra high-resolution images.
@@ -404,7 +405,7 @@
 - [acdh-oeaw/rdfproxy](https://github.com/acdh-oeaw/rdfproxy) - Python library for building REST APIs on top of SPARQL endpoints
 - [gitonthescene/csv-reconcile](https://github.com/gitonthescene/csv-reconcile) - A reconciliation service for OpenRefine serving data from a given CSV file.
 - [datachain-ai/datachain](https://github.com/datachain-ai/datachain) - The Context Layer for unstructured data: typed, versioned datasets over S3, GCS, Azure
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [bellingcat/auto-archiver](https://github.com/bellingcat/auto-archiver) - Automatically archive links to videos, images, and social media content from Google Sheets (and more).
 - [AI-Riksarkivet/htrflow](https://github.com/AI-Riksarkivet/htrflow) - HTRflow is the underlying engine for our HTR-pipeline
 - [opengeos/segment-geospatial](https://github.com/opengeos/segment-geospatial) - A Python package for segmenting geospatial data with the Segment Anything Model (SAM)
