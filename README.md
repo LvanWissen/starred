@@ -60,6 +60,7 @@
 
 ## C 
 
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [termux/termux-x11](https://github.com/termux/termux-x11) - Termux X-server add-on.
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
