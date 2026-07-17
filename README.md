@@ -75,7 +75,6 @@
 
 ## C++ 
 
-- [arjenhiemstra/ithowifi](https://github.com/arjenhiemstra/ithowifi) - Itho wifi  add-on module (ESP32 wifi to itho I2C protocol)
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia + Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [ruven/iipsrv](https://github.com/ruven/iipsrv) - iipsrv is an advanced high-performance feature-rich image server for web-based streamed viewing and zooming of ultra high-resolution images.
@@ -147,6 +146,7 @@
 
 ## HTML 
 
+- [arjenhiemstra/ithowifi](https://github.com/arjenhiemstra/ithowifi) - Itho wifi  add-on module (ESP32 wifi to itho I2C protocol)
 - [Deep-Keep-Group/keepright-spec](https://github.com/Deep-Keep-Group/keepright-spec) - This is where the spec lives
 - [OCFL/spec](https://github.com/OCFL/spec) - The Oxford Common File Layout (OCFL) specifications and website
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
@@ -536,7 +536,7 @@
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - One Postgres for your application data, full-text search, vector retrieval, and aggregations. Home of the pg_search extension.
 - [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
+- [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now speaking Postgres. The LLVM of databases.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [Pagefind/pagefind](https://github.com/Pagefind/pagefind) - Static low-bandwidth search at scale
