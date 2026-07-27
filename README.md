@@ -149,7 +149,6 @@
 - [arjenhiemstra/ithowifi](https://github.com/arjenhiemstra/ithowifi) - Itho wifi  add-on module (ESP32 wifi to itho I2C protocol)
 - [Deep-Keep-Group/keepright-spec](https://github.com/Deep-Keep-Group/keepright-spec) - This is where the spec lives
 - [OCFL/spec](https://github.com/OCFL/spec) - The Oxford Common File Layout (OCFL) specifications and website
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [timathom/marc2linkedart](https://github.com/timathom/marc2linkedart) - Specifications to convert MARC 21 records to Linked Art JSON-LD
 - [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
@@ -531,6 +530,7 @@
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [DataTreehouse/maplib](https://github.com/DataTreehouse/maplib) - 
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly OSS embedded retrieval library for multimodal AI. Search More; Manage Less.
 - [lockbook/lockbook](https://github.com/lockbook/lockbook) - Encrypted notebook
 - [lnx-search/lnx](https://github.com/lnx-search/lnx) - A flexible, performant and reliable search database without the AI bullshit.
 - [loro-dev/loro](https://github.com/loro-dev/loro) - Make your JSON data collaborative and version-controlled with CRDTs
