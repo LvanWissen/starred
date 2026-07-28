@@ -275,7 +275,7 @@
 - [facebookresearch/EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 - [wjbmattingly/llm-lod-recipes](https://github.com/wjbmattingly/llm-lod-recipes) - A set of recipes for working LOD and LLMs.
 - [stanford-oval/spinach](https://github.com/stanford-oval/spinach) - SPINACH: SPARQL-Based Information Navigation for Challenging Real-World Questions
-- [glp500/Globalise-Document-Segmentation](https://github.com/glp500/Globalise-Document-Segmentation) - 
+- [glp500/Multi-View-Learning-for-Archival-Document-Segmentation](https://github.com/glp500/Multi-View-Learning-for-Archival-Document-Segmentation) - 
 - [TurkuNLP/DIGHT25](https://github.com/TurkuNLP/DIGHT25) - Materials for the DIGHT25 summer school
 - [google-research/inksight](https://github.com/google-research/inksight) - 
 - [andreasveit/coco-text](https://github.com/andreasveit/coco-text) - COCO-Text API http://vision.cornell.edu/se3/coco-text/
