@@ -958,7 +958,8 @@
 
 ## others 
 
-- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
+- [victoria-riley-barnett/koreader-tailscale](https://github.com/victoria-riley-barnett/koreader-tailscale) - A koreader plugin for Tailscale VPN to get around the pesky local network requirements of many sync tools and services.
+- [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦
 - [blue-guardrails/cheap-ocr](https://github.com/blue-guardrails/cheap-ocr) - OCR with VLMs running on a single GPU with high throughput
 - [TREEcg/extract-cbd-shape](https://github.com/TREEcg/extract-cbd-shape) - Get all RDF triples/quads related to an entity based on CBD and a SHACL shape
 - [allmaps/rotterdamtimemachine](https://github.com/allmaps/rotterdamtimemachine) - Rotterdam Time Machine
