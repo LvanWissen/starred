@@ -210,7 +210,7 @@
 - [sfomuseum/webcomponent-zoomable-image](https://github.com/sfomuseum/webcomponent-zoomable-image) - A Web Component to extend the HTML picture element to enable fullscreen, interactive, IIIF Level 0 "zoomable" image tiles.
 - [rdf-ext/rdf-ext](https://github.com/rdf-ext/rdf-ext) - RDF-Ext is a developer-friendly extension for RDF/JS
 - [quarto-dev/quarto-cli](https://github.com/quarto-dev/quarto-cli) - Open-source scientific and technical publishing system built on Pandoc.
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Hundreds of real-world examples. Framework-agnostic, open s
 - [thegetty/quire](https://github.com/thegetty/quire) - A multi-package repository for the Quire multiformat publishing framework
 - [hackmdio/codimd](https://github.com/hackmdio/codimd) - CodiMD - Realtime collaborative markdown notes on all platforms.
 - [docuracy/Locolligo](https://github.com/docuracy/Locolligo) - Locolligo is a single-page, browser-based javascript application to facilitate the formatting, linking, and geolocation of datasets, with a particular focus on Cultural Heritage.
