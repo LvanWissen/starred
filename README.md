@@ -667,7 +667,7 @@
 - [samvera-labs/clover-iiif](https://github.com/samvera-labs/clover-iiif) - Extensible IIIF front-end toolkit and Manifest viewer. Accessible. Composable. Open Source.
 - [digirati-co-uk/iiif-canvas-panel](https://github.com/digirati-co-uk/iiif-canvas-panel) - Investigation into component granularity
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
-- [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - An HTML5 web component to edit, view and query RDF data that conform to SHACL
+- [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component to edit, view and query RDF data that conform to SHACL
 - [vemonet/json-ld-editor-react](https://github.com/vemonet/json-ld-editor-react) - 🧙‍♂️📝 JSON-LD web editor, with autocomplete based on the loaded ontologies concepts and properties
 - [rdfjs/Yasgui](https://github.com/rdfjs/Yasgui) - Yet Another Sparql GUI
 - [metadatacenter/cedar-embeddable-editor](https://github.com/metadatacenter/cedar-embeddable-editor) - CEDAR Embeddable Editor WebComponent
