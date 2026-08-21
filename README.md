@@ -94,6 +94,7 @@
 
 ## CSS 
 
+- [FIAF/fiaf-cataloguing-manual](https://github.com/FIAF/fiaf-cataloguing-manual) - Markdown representation of the FIAF Cataloguing Manual.
 - [mathiasrichter/shapiro](https://github.com/mathiasrichter/shapiro) - Modelling data with JSON-LD, Turtle, SHACL
 
 ## Cuda 
@@ -106,7 +107,7 @@
 
 ## Dockerfile 
 
-- [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [WebThingsIO/gateway-docker](https://github.com/WebThingsIO/gateway-docker) - Legacy docker image for WebThings Gateway - now moved to main gateway repo at https://github.com/WebThingsIO/gateway
 
 ## Go 
