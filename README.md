@@ -307,6 +307,7 @@
 
 ## Lua 
 
+- [victoria-riley-barnett/koreader-tailscale](https://github.com/victoria-riley-barnett/koreader-tailscale) - A koreader plugin for Tailscale VPN to get around the pesky local network requirements of many sync tools and services.
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 ## OCaml 
@@ -442,7 +443,6 @@
 - [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
-- [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [jayanta525/github-pages-directory-listing](https://github.com/jayanta525/github-pages-directory-listing) - Directory listing for Github Pages
 - [onnx/onnx](https://github.com/onnx/onnx) - Open standard for machine learning interoperability
@@ -574,7 +574,6 @@
 
 ## Shell 
 
-- [victoria-riley-barnett/koreader-tailscale](https://github.com/victoria-riley-barnett/koreader-tailscale) - A koreader plugin for Tailscale VPN to get around the pesky local network requirements of many sync tools and services.
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [inuits/elody-common](https://github.com/inuits/elody-common) - 
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
@@ -715,6 +714,7 @@
 
 - [edwardanderson/krml](https://github.com/edwardanderson/krml) - Create knowledge graphs with Markdown
 - [crystalyragui/MARC2RDA](https://github.com/crystalyragui/MARC2RDA) - mapping between MARC21 and RDA-RDF
+- [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives.
 - [mightymax/ead2rico](https://github.com/mightymax/ead2rico) - Conversion between EAD in Ric-O
 - [ivozandhuis/A2ALOD](https://github.com/ivozandhuis/A2ALOD) - Converting A2A XML format for genealogical data into RDF XML
 - [transpect/docx2tex](https://github.com/transpect/docx2tex) - Converts Microsoft Word docx to LaTeX
