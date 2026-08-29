@@ -107,7 +107,7 @@
 
 ## Dockerfile 
 
-- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup and restore your databases to multiple storage backends
 - [WebThingsIO/gateway-docker](https://github.com/WebThingsIO/gateway-docker) - Legacy docker image for WebThings Gateway - now moved to main gateway repo at https://github.com/WebThingsIO/gateway
 
 ## Go 
@@ -166,7 +166,7 @@
 
 - [dbmdz/wolpi](https://github.com/dbmdz/wolpi) - Wolpi: A fast and extensible IIIF Image Server
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
-- [structs-nl/Enlight](https://github.com/structs-nl/Enlight) - 
+- [structs-nl/enlight](https://github.com/structs-nl/enlight) - 
 - [DSpace/DSpace](https://github.com/DSpace/DSpace) - (Official) The DSpace digital asset management system that powers your Institutional Repository
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [codeforkjeff/conciliator](https://github.com/codeforkjeff/conciliator) - OpenRefine reconciliation services for VIAF, ORCID, and Open Library + framework for creating more.
