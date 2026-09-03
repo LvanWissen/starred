@@ -709,7 +709,7 @@
 
 - [netwerk-digitaal-erfgoed/heritageflix](https://github.com/netwerk-digitaal-erfgoed/heritageflix) - Heritageflix: a prototype for browsing heritage
 - [mightymax/mijnclub.nu](https://github.com/mightymax/mijnclub.nu) - HackaLoD 2024 project
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## XSLT 
 
