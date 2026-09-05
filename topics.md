@@ -958,6 +958,7 @@
 
 ## others 
 
+- [Valeros-LD/valeros-NDE](https://github.com/Valeros-LD/valeros-NDE) - Reusable, flexible heritage data browser
 - [inside-out-time-machines/jottem](https://github.com/inside-out-time-machines/jottem) - Jottem - participatief digitaal erfgoedplatform
 - [FIAF/fiaf-cataloguing-manual](https://github.com/FIAF/fiaf-cataloguing-manual) - Markdown representation of the FIAF Cataloguing Manual.
 - [victoria-riley-barnett/koreader-tailscale](https://github.com/victoria-riley-barnett/koreader-tailscale) - A koreader plugin for Tailscale VPN to get around the pesky local network requirements of many sync tools and services.
