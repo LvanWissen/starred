@@ -620,6 +620,7 @@
 
 ## TypeScript 
 
+- [Valeros-LD/valeros-NDE](https://github.com/Valeros-LD/valeros-NDE) - Reusable, flexible heritage data browser
 - [ontola/atomic-server](https://github.com/ontola/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [TREEcg/extract-cbd-shape](https://github.com/TREEcg/extract-cbd-shape) - Get all RDF triples/quads related to an entity based on CBD and a SHACL shape
 - [cloudflare/vinext](https://github.com/cloudflare/vinext) - Vite plugin that reimplements the Next.js API surface — deploy anywhere
