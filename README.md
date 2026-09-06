@@ -620,6 +620,7 @@
 
 ## TypeScript 
 
+- [ldelements/lde](https://github.com/ldelements/lde) - Coherent, composable building blocks for your Linked Data apps and pipelines, powering the full Linked Data lifecycle  🧩
 - [Valeros-LD/valeros-NDE](https://github.com/Valeros-LD/valeros-NDE) - Reusable, flexible heritage data browser
 - [ontola/atomic-server](https://github.com/ontola/atomic-server) - An open source headless CMS / real-time database. Powerful table editor, full-text search, and SDKs for JS / React / Svelte.
 - [TREEcg/extract-cbd-shape](https://github.com/TREEcg/extract-cbd-shape) - Get all RDF triples/quads related to an entity based on CBD and a SHACL shape
