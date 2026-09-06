@@ -958,6 +958,7 @@
 
 ## others 
 
+- [ldelements/lde](https://github.com/ldelements/lde) - Coherent, composable building blocks for your Linked Data apps and pipelines, powering the full Linked Data lifecycle  🧩
 - [Valeros-LD/valeros-NDE](https://github.com/Valeros-LD/valeros-NDE) - Reusable, flexible heritage data browser
 - [inside-out-time-machines/jottem](https://github.com/inside-out-time-machines/jottem) - Jottem - participatief digitaal erfgoedplatform
 - [FIAF/fiaf-cataloguing-manual](https://github.com/FIAF/fiaf-cataloguing-manual) - Markdown representation of the FIAF Cataloguing Manual.
