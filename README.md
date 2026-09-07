@@ -631,7 +631,7 @@
 - [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
 - [IIIF-Commons/presentation-3-types](https://github.com/IIIF-Commons/presentation-3-types) - A set of Typescript types that describe the format of the IIIF Presentation 3.0 specification as accurately as possible. (JS/Typescript)
 - [Valeros-LD/Valeros](https://github.com/Valeros-LD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
-- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
+- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond.
 - [recogito/text-annotator-js](https://github.com/recogito/text-annotator-js) - A JavaScript library for text annotation.
 - [samvera/serverless-iiif](https://github.com/samvera/serverless-iiif) - IIIF Image API 2.1 & 3.0 server in an AWS Serverless Application
 - [jillesme/cloudflare-worker-svelte-guestbook](https://github.com/jillesme/cloudflare-worker-svelte-guestbook) - This project is a simple guestbook application built following the steps outlined in Cloudflare Workers, SvelteKit, Drizzle, and D1: Up and Running
@@ -691,7 +691,7 @@
 - [jupyter-book/mystmd](https://github.com/jupyter-book/mystmd) - Command line tools for working with MyST Markdown.
 - [maplibre/maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - Skeleton is an adaptive design system powered by Tailwind CSS.
-- [vriteio/vrite](https://github.com/vriteio/vrite) - Open-source developer content platform
+- [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source adaptive content workspace
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [Nutlope/aicommits](https://github.com/Nutlope/aicommits) - A CLI that writes your git commit messages for you with AI
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
