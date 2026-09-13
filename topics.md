@@ -377,7 +377,7 @@
 
 ## data 
 
-- [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
+- [Matdata-eu/MatGUI](https://github.com/Matdata-eu/MatGUI) - A modern knowledge graph and SPARQL workbench
 - [mathiasrichter/shapiro](https://github.com/mathiasrichter/shapiro) - Modelling data with JSON-LD, Turtle, SHACL
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [illacceptanything/illacceptanything](https://github.com/illacceptanything/illacceptanything) - The project where literally anything* goes.
@@ -1560,7 +1560,7 @@
 
 ## typescript 
 
-- [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
+- [Matdata-eu/MatGUI](https://github.com/Matdata-eu/MatGUI) - A modern knowledge graph and SPARQL workbench
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [ciscoheat/eslint-plugin-dci-lint](https://github.com/ciscoheat/eslint-plugin-dci-lint) - DCI linting for Typescript and ESLint
 - [Language-Mapping/language-map](https://github.com/Language-Mapping/language-map) - Front-end codebase for Language Mapping web map
@@ -1626,7 +1626,7 @@
 
 ## webapp 
 
-- [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
+- [Matdata-eu/MatGUI](https://github.com/Matdata-eu/MatGUI) - A modern knowledge graph and SPARQL workbench
 
 ## webpack 
 
