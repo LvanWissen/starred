@@ -628,7 +628,7 @@
 - [pocketbase/js-sdk](https://github.com/pocketbase/js-sdk) - PocketBase JavaScript SDK
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [rsimon/liiive](https://github.com/rsimon/liiive) - A tool for real-time collaborative IIIF image annotation.
-- [Matdata-eu/Yasgui](https://github.com/Matdata-eu/Yasgui) - SPARQL development web application
+- [Matdata-eu/MatGUI](https://github.com/Matdata-eu/MatGUI) - A modern knowledge graph and SPARQL workbench
 - [IIIF-Commons/presentation-3-types](https://github.com/IIIF-Commons/presentation-3-types) - A set of Typescript types that describe the format of the IIIF Presentation 3.0 specification as accurately as possible. (JS/Typescript)
 - [Valeros-LD/Valeros](https://github.com/Valeros-LD/Valeros) - A flexible and configurable LOD viewer using SPARQL and Elastic endpoints.
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond.
