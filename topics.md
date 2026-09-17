@@ -1507,6 +1507,7 @@
 
 ## svelte 
 
+- [d-flood/triiiceratops](https://github.com/d-flood/triiiceratops) - A modern IIIF viewer with a small footprint (despite the name) distributed as a web component that can be dropped into any HTML page or frontend framework.
 - [ANovokmet/svelte-gantt](https://github.com/ANovokmet/svelte-gantt) - :calendar: Interactive JavaScript Gantt chart/resource booking component
 - [friendofsvelte/mermaid](https://github.com/friendofsvelte/mermaid) - Svelte Mermaid Renderer
 - [threlte/threlte](https://github.com/threlte/threlte) - 3D framework for Svelte
