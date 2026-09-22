@@ -164,6 +164,7 @@
 
 ## Java 
 
+- [soundvibe/ha-danfoss](https://github.com/soundvibe/ha-danfoss) - Home Assistant Addon for Danfoss Icon App Module
 - [dbmdz/wolpi](https://github.com/dbmdz/wolpi) - Wolpi: A fast and extensible IIIF Image Server
 - [crate/crate](https://github.com/crate/crate) - CrateDB is a distributed and scalable SQL database for storing and analyzing massive amounts of data in near real-time, even with complex queries. It is PostgreSQL-compatible, and based on Lucene.
 - [structs-nl/enlight](https://github.com/structs-nl/enlight) - 
@@ -387,6 +388,7 @@
 
 ## Python 
 
+- [arjenhiemstra/ithowifi-ha-integration](https://github.com/arjenhiemstra/ithowifi-ha-integration) - Home Assistant integration for Itho WiFi add-on (REST API)
 - [inside-out-time-machines/jottem](https://github.com/inside-out-time-machines/jottem) - Jottem - participatief digitaal erfgoedplatform
 - [moj-analytical-services/splink](https://github.com/moj-analytical-services/splink) - Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends
 - [opengeospatial/geoparquet](https://github.com/opengeospatial/geoparquet) - Specification for storing geospatial vector data (point, line, polygon) in Parquet
@@ -621,6 +623,7 @@
 
 ## TypeScript 
 
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
 - [d-flood/triiiceratops](https://github.com/d-flood/triiiceratops) - A modern IIIF viewer with a small footprint (despite the name) distributed as a React, Vue, Svelte, and web component that can be dropped into any HTML page or frontend framework.
 - [ldelements/lde](https://github.com/ldelements/lde) - Coherent, composable building blocks for your Linked Data apps and pipelines, powering the full Linked Data lifecycle  🧩
 - [Valeros-LD/valeros-NDE](https://github.com/Valeros-LD/valeros-NDE) - Reusable, flexible heritage data browser
