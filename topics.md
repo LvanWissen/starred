@@ -960,6 +960,7 @@
 
 ## others 
 
+- [IgnatiusEzeani/spatial-humanities-2026](https://github.com/IgnatiusEzeani/spatial-humanities-2026) - Workshop, demonstration and teaching materials for Spatial Humanities 2026 using the spatio-textual package.
 - [arjenhiemstra/ithowifi-ha-integration](https://github.com/arjenhiemstra/ithowifi-ha-integration) - Home Assistant integration for Itho WiFi add-on (REST API)
 - [soundvibe/ha-danfoss](https://github.com/soundvibe/ha-danfoss) - Home Assistant Addon for Danfoss Icon App Module
 - [ldelements/lde](https://github.com/ldelements/lde) - Coherent, composable building blocks for your Linked Data apps and pipelines, powering the full Linked Data lifecycle  🧩
