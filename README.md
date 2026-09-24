@@ -66,7 +66,6 @@
 - [libvips/libvips](https://github.com/libvips/libvips) - A fast image processing library with low memory needs.
 - [eddieantonio/ocreval](https://github.com/eddieantonio/ocreval) - Update of the ISRI Analytic Tools for OCR Evaluation with UTF-8 support
 - [mopemope/meinheld](https://github.com/mopemope/meinheld) - Meinheld is a high performance asynchronous WSGI Web Server (based on picoev)
-- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 
 ## C# # 
@@ -388,6 +387,7 @@
 
 ## Python 
 
+- [IgnatiusEzeani/spatial-humanities-2026](https://github.com/IgnatiusEzeani/spatial-humanities-2026) - Workshop, demonstration and teaching materials for Spatial Humanities 2026 using the spatio-textual package.
 - [arjenhiemstra/ithowifi-ha-integration](https://github.com/arjenhiemstra/ithowifi-ha-integration) - Home Assistant integration for Itho WiFi add-on (REST API)
 - [inside-out-time-machines/jottem](https://github.com/inside-out-time-machines/jottem) - Jottem - participatief digitaal erfgoedplatform
 - [moj-analytical-services/splink](https://github.com/moj-analytical-services/splink) - Fast, accurate and scalable probabilistic data linkage with support for multiple SQL backends
@@ -558,6 +558,7 @@
 - [field33/plow](https://github.com/field33/plow) - Plow - The ontology package manager
 - [oxigraph/oxigraph](https://github.com/oxigraph/oxigraph) - SPARQL graph database
 - [tonarino/innernet](https://github.com/tonarino/innernet) - A private network system that uses WireGuard under the hood.
+- [ddccontrol/ddccontrol](https://github.com/ddccontrol/ddccontrol) - DDC Control
 
 ## SCSS 
 
