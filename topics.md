@@ -257,7 +257,6 @@
 ## automation 
 
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
@@ -334,7 +333,6 @@
 
 ## cloud 
 
-- [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 
 ## cms 
@@ -965,6 +963,7 @@
 
 ## others 
 
+- [eclipse-dataspace-protocol-base/DataspaceProtocol](https://github.com/eclipse-dataspace-protocol-base/DataspaceProtocol) - The Dataspace Protocol is a set of specifications designed to facilitate interoperable data sharing between entities governed by usage control and based on Web technologies. These specifications defin
 - [IgnatiusEzeani/spatial-humanities-2026](https://github.com/IgnatiusEzeani/spatial-humanities-2026) - Workshop, demonstration and teaching materials for Spatial Humanities 2026 using the spatio-textual package.
 - [arjenhiemstra/ithowifi-ha-integration](https://github.com/arjenhiemstra/ithowifi-ha-integration) - Home Assistant integration for Itho WiFi add-on (REST API)
 - [soundvibe/ha-danfoss](https://github.com/soundvibe/ha-danfoss) - Home Assistant Addon for Danfoss Icon App Module
