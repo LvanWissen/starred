@@ -384,7 +384,7 @@
 ## Prolog 
 
 - [jrvosse/amalgame](https://github.com/jrvosse/amalgame) - Amalgame: a SKOS vocabulary alignment tool
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a distributed, collaborative knowledge graph database designed for building, sharing, versioning, and reasoning over structured data.
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a Knowledge Graph Database with Version Control. A distributed, collaborative knowledge graph database designed for building, sharing, versioning, and reasoning over structured data.
 
 ## Python 
 
