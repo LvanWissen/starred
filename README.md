@@ -384,10 +384,11 @@
 ## Prolog 
 
 - [jrvosse/amalgame](https://github.com/jrvosse/amalgame) - Amalgame: a SKOS vocabulary alignment tool
-- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a Knowledge Graph Database with Version Control. A distributed, collaborative knowledge graph database designed for building, sharing, versioning, and reasoning over structured data.
+- [terminusdb/terminusdb](https://github.com/terminusdb/terminusdb) - TerminusDB is a Knowledge Graph Database with Version Control. Time-travel, reason, collaborate, branch, merge, diff, and query your data with Datalog.
 
 ## Python 
 
+- [explosion/spacy-llm](https://github.com/explosion/spacy-llm) - 🦙 Integrating LLMs into structured NLP pipelines
 - [IgnatiusEzeani/spatial-humanities-2026](https://github.com/IgnatiusEzeani/spatial-humanities-2026) - Workshop, demonstration and teaching materials for Spatial Humanities 2026 using the spatio-textual package.
 - [arjenhiemstra/ithowifi-ha-integration](https://github.com/arjenhiemstra/ithowifi-ha-integration) - Home Assistant integration for Itho WiFi add-on (REST API)
 - [inside-out-time-machines/jottem](https://github.com/inside-out-time-machines/jottem) - Jottem - participatief digitaal erfgoedplatform
