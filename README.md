@@ -353,7 +353,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [sinanatra/NestedDataType](https://github.com/sinanatra/NestedDataType) - Nested Data Type is a module for Omeka S which allows users to choose a specific resource class as datatype, and inner properties.
 - [collectiveaccess/providence](https://github.com/collectiveaccess/providence) - Cataloguing and data/media management application
 - [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
