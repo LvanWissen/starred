@@ -78,7 +78,7 @@
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [ruven/iipsrv](https://github.com/ruven/iipsrv) - iipsrv is an advanced high-performance feature-rich image server for web-based streamed viewing and zooming of ultra high-resolution images.
 - [Beaky2000/esphome-p1mini](https://github.com/Beaky2000/esphome-p1mini) - ESPHome external component for reading P1 data from (Swedish) electricity meters
-- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+- [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is a high-performance analytical database system
 - [ScanTailor-Advanced/scantailor-advanced](https://github.com/ScanTailor-Advanced/scantailor-advanced) - ScanTailor Advanced is the version that merges the features of the ScanTailor Featured and ScanTailor Enhanced versions, brings new ones and fixes.
 - [tudelft3d/3dfier](https://github.com/tudelft3d/3dfier) - The open-source tool for creating 3D models
 - [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Graph database implementing the RDF and SPARQL standards. Very fast and scales to more than a trillion triples on a single commodity machine
@@ -670,6 +670,7 @@
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - ORM
 - [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - 🛹 Typescript tools for advanced processing of SVG path data.
 - [netwerk-digitaal-erfgoed/ld-workbench](https://github.com/netwerk-digitaal-erfgoed/ld-workbench) - A CLI tool for transforming large RDF datasets using pure SPARQL
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [jptmoore/maniiifest](https://github.com/jptmoore/maniiifest) - Typesafe IIIF presentation v3 parsing without external dependencies
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
@@ -719,7 +720,6 @@
 
 - [netwerk-digitaal-erfgoed/heritageflix](https://github.com/netwerk-digitaal-erfgoed/heritageflix) - Heritageflix: a prototype for browsing heritage
 - [mightymax/mijnclub.nu](https://github.com/mightymax/mijnclub.nu) - HackaLoD 2024 project
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 
 ## XSLT 
 
