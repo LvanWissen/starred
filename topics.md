@@ -978,7 +978,7 @@
 - [arjenhiemstra/ithowifi-ha-integration](https://github.com/arjenhiemstra/ithowifi-ha-integration) - Home Assistant integration for Itho WiFi add-on (REST API)
 - [soundvibe/ha-danfoss](https://github.com/soundvibe/ha-danfoss) - Home Assistant Addon for Danfoss Icon App Module
 - [ldelements/lde](https://github.com/ldelements/lde) - Coherent, composable building blocks for your Linked Data apps and pipelines, powering the full Linked Data lifecycle  🧩
-- [Valeros-LD/valeros-NDE](https://github.com/Valeros-LD/valeros-NDE) - Reusable, flexible heritage data browser
+- [Simon-Dirks/erfgoedzoeker](https://github.com/Simon-Dirks/erfgoedzoeker) - Reusable, flexible heritage data browser
 - [inside-out-time-machines/jottem](https://github.com/inside-out-time-machines/jottem) - Jottem - participatief digitaal erfgoedplatform
 - [FIAF/fiaf-cataloguing-manual](https://github.com/FIAF/fiaf-cataloguing-manual) - Markdown representation of the FIAF Cataloguing Manual.
 - [victoria-riley-barnett/koreader-tailscale](https://github.com/victoria-riley-barnett/koreader-tailscale) - A koreader plugin for Tailscale VPN to get around the pesky local network requirements of many sync tools and services.
