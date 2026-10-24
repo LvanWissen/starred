@@ -58,6 +58,7 @@
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
+- [downloader](#downloader)
 - [education](#education)
 - [electron](#electron)
 - [ember](#ember)
@@ -509,6 +510,10 @@
 - [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [vriteio/andesine](https://github.com/vriteio/andesine) - Open-source adaptive content workspace
 - [RDFLib/pyLODE](https://github.com/RDFLib/pyLODE) - An OWL ontology documentation tool using Python and templating, based on LODE
+
+## downloader 
+
+- [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 
 ## education 
 
@@ -1035,7 +1040,6 @@
 - [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [netwerk-digitaal-erfgoed/anno-demo](https://github.com/netwerk-digitaal-erfgoed/anno-demo) - Demonstrator of a annotation server service for heritage.
 - [inuits/elody-common](https://github.com/inuits/elody-common) - 
-- [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 - [codeforkjeff/conciliator](https://github.com/codeforkjeff/conciliator) - OpenRefine reconciliation services for VIAF, ORCID, and Open Library + framework for creating more.
 - [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
 - [swiss-art-research-net/aaao](https://github.com/swiss-art-research-net/aaao) - Art and Architectural Argumentation Ontology
