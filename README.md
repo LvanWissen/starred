@@ -155,6 +155,7 @@
 - [mlcommons/croissant](https://github.com/mlcommons/croissant) - Croissant is a high-level format for machine learning datasets that brings together four rich layers.
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [w3c/yaml-ld](https://github.com/w3c/yaml-ld) - Specification for YAML-LD and UCR
+- [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [opengeospatial/ogc-geosparql](https://github.com/opengeospatial/ogc-geosparql) - Public Repository for the OGC GeoSPARQL Standards Working Group
 - [ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O) - ICA Records in Contexts-Ontology (ICA RiC-O) GitHub repository web pages
 - [PRImA-Research-Lab/prima-page-converter](https://github.com/PRImA-Research-Lab/prima-page-converter) - Command line tool to convert page layout files to the latest PAGE XML format. It supports all previous versions of the PAGE format as well as ALTO XML, FineReader XML, and HOCR
@@ -445,7 +446,6 @@
 - [microsoft/table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evalu
 - [universal-ner/universal-ner](https://github.com/universal-ner/universal-ner) - 
 - [knowledge-computing/mapkurator-system](https://github.com/knowledge-computing/mapkurator-system) - 
-- [OvertureMaps/data](https://github.com/OvertureMaps/data) - Overture Maps Data
 - [internetarchive/arklet](https://github.com/internetarchive/arklet) - ARK minter, binder, resolver
 - [eugeneyan/obsidian-copilot](https://github.com/eugeneyan/obsidian-copilot) - 🤖 A prototype assistant for writing and thinking
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
@@ -656,7 +656,6 @@
 - [tu-delft-heritage/watertijdreis-data](https://github.com/tu-delft-heritage/watertijdreis-data) - Brondata voor de Watertijdreis applicatie
 - [netwerk-digitaal-erfgoed/dataset-register](https://github.com/netwerk-digitaal-erfgoed/dataset-register) - API, crawler and browser components for the NDE Dataset Register
 - [netwerk-digitaal-erfgoed/network-of-terms](https://github.com/netwerk-digitaal-erfgoed/network-of-terms) - Search engine for finding terms in terminology sources (such as thesauri, classification systems and reference lists)
-- [mattrglobal/jsonld-lint](https://github.com/mattrglobal/jsonld-lint) - A linter for JSON-LD
 - [ciscoheat/eslint-plugin-dci-lint](https://github.com/ciscoheat/eslint-plugin-dci-lint) - DCI linting for Typescript and ESLint
 - [lucasgelfond/webgpu-sam2](https://github.com/lucasgelfond/webgpu-sam2) - Segment Anything 2, 100% in the browser (with WebGPU!)
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
