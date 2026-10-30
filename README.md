@@ -370,7 +370,6 @@
 ## PLpgSQL 
 
 - [3dcitydb/3dcitydb](https://github.com/3dcitydb/3dcitydb) - 3D City Database - The Open Source CityGML Database
-- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
 
 ## Perl 
 
@@ -583,6 +582,7 @@
 
 - [LinuxDroidMaster/Termux-Desktops](https://github.com/LinuxDroidMaster/Termux-Desktops) - Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration
 - [inuits/elody-common](https://github.com/inuits/elody-common) - 
+- [recogito/recogito-studio](https://github.com/recogito/recogito-studio) - Self hosting code for Recogito-Studio
 - [ecdye/zram-config](https://github.com/ecdye/zram-config) - A complete zram-config utility for swap, directories, and logs to reduce SD, NAND and eMMC block wear.
 - [opencontext/arches-via-docker](https://github.com/opencontext/arches-via-docker) - Deployment of Arches (archesproject.org) via Docker for archaeology and related instruction
 - [knaw-huc/loghi](https://github.com/knaw-huc/loghi) - Loghi is a comprehensive toolkit designed for Handwritten Text Recognition (HTR) and Optical Character Recognition (OCR), offering an accessible approach to transcribing historical documents and train
@@ -705,7 +705,7 @@
 - [digirati-co-uk/madoc-platform](https://github.com/digirati-co-uk/madoc-platform) - A platform for the display, enrichment, and curation of IIIF-based digital objects
 - [timhall/svelte-apollo](https://github.com/timhall/svelte-apollo) - Svelte integration for Apollo GraphQL
 - [hypermedia-app/shaperone](https://github.com/hypermedia-app/shaperone) - Form UI elements driven by SHACL Shapes
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use database GUI & SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [instituutnederlandsetaal/blacklab-frontend](https://github.com/instituutnederlandsetaal/blacklab-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [CommunitySolidServer/CommunitySolidServer](https://github.com/CommunitySolidServer/CommunitySolidServer) - An open and modular implementation of the Solid specifications
