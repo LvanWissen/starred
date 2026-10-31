@@ -359,7 +359,7 @@
 - [collectiveaccess/providence](https://github.com/collectiveaccess/providence) - Cataloguing and data/media management application
 - [Daniel-KM/Omeka-S-module-Sparql](https://github.com/Daniel-KM/Omeka-S-module-Sparql) - 
 - [mmmenno/saa-kaartviewer](https://github.com/mmmenno/saa-kaartviewer) - 
-- [digitalutsc/arks-service](https://github.com/digitalutsc/arks-service) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
+- [digitalutsc/arks-service-archived](https://github.com/digitalutsc/arks-service-archived) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
 - [mmmenno/roar-samples](https://github.com/mmmenno/roar-samples) - personobservations, locationobservations and personreconstructions illustrating the use of the roar ontology
 - [nodegoat/nodegoat](https://github.com/nodegoat/nodegoat) - Web-based data management, network analysis & visualisation environment.
 - [OpenSKOS/OpenSKOS](https://github.com/OpenSKOS/OpenSKOS) - Provide RESTful access to SKOS vocabularies
