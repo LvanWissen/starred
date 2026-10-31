@@ -1162,7 +1162,7 @@
 - [hypermedia-app/shaperone](https://github.com/hypermedia-app/shaperone) - Form UI elements driven by SHACL Shapes
 - [ICA-EGAD/RiC-O](https://github.com/ICA-EGAD/RiC-O) - ICA Records in Contexts-Ontology (ICA RiC-O) GitHub repository web pages
 - [natliblux/nautilusocr](https://github.com/natliblux/nautilusocr) - METS/ALTO OCR enhancing tool by the National Library of Luxembourg (BnL)
-- [digitalutsc/arks-service](https://github.com/digitalutsc/arks-service) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
+- [digitalutsc/arks-service-archived](https://github.com/digitalutsc/arks-service-archived) - This standalone application provides a user interface to mint, (bulk) bind ARK Identifiers, and resolver for Ark URLs.
 - [qurator-spk/dinglehopper](https://github.com/qurator-spk/dinglehopper) - An OCR evaluation tool
 - [blake-regalia/graphy.js](https://github.com/blake-regalia/graphy.js) - A collection of RDF libraries for JavaScript
 - [jina-ai/finetuner](https://github.com/jina-ai/finetuner) - :dart: Task-oriented embedding tuning for BERT, CLIP, etc.
