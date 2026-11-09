@@ -94,6 +94,7 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [knowledge-graph](#knowledge-graph)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
@@ -748,6 +749,19 @@
 - [aws/graph-notebook](https://github.com/aws/graph-notebook) - Library extending Jupyter notebooks to integrate with Apache TinkerPop, openCypher, and RDF SPARQL.
 - [Sheeba-Samuel/ProvBook](https://github.com/Sheeba-Samuel/ProvBook) - The provenance of a Jupyter Notebook
 
+## knowledge-graph 
+
+- [sparna-git/rdf2gephi](https://github.com/sparna-git/rdf2gephi) - A converter from RDF knowledge graph to Gephi project files
+- [edwardanderson/krml](https://github.com/edwardanderson/krml) - Create knowledge graphs with Markdown
+- [sparna-git/xls2rdf](https://github.com/sparna-git/xls2rdf) - Create RDF data from Excel spreadsheets - edit SKOS vocabularies, knowledge graph instances, SHACL constraints, OWL ontologies in Excel files. Available as HTTP service, upload form, command-line, or 
+- [sparna-git/Sparnatural](https://github.com/sparna-git/Sparnatural) - Sparnatural : visual knowledge graph explorer with SPARQL, in the browser, configurable with SHACL
+- [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Developer-friendly queries over RDF triples
+- [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
+- [nicolas-hbt/pygraft](https://github.com/nicolas-hbt/pygraft) - Configurable Generation of Synthetic Schemas and Knowledge Graphs at Your Fingertips
+- [henrietteharmse/uml2semantics](https://github.com/henrietteharmse/uml2semantics) - Translates UML class diagrams to OWL2
+- [kbrbe/beltrans-data-integration](https://github.com/kbrbe/beltrans-data-integration) - Creating a FAIR Linked Data corpus for the BELTRANS research project about Belgian book translations NL-FR and FR-NL between 1970 and 2020
+- [SwissDataScienceCenter/calamus](https://github.com/SwissDataScienceCenter/calamus) - A JSON-LD Serialization Libary for Python
+
 ## kubernetes 
 
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps. OpenID Certified™ and Post-Quantum Cryptography Ready.
@@ -1096,7 +1110,6 @@
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [ULB-Darmstadt/shacl-form](https://github.com/ULB-Darmstadt/shacl-form) - HTML5 web component to edit, view and query RDF data that conform to SHACL
 - [vemonet/json-ld-editor-react](https://github.com/vemonet/json-ld-editor-react) - 🧙‍♂️📝 JSON-LD web editor, with autocomplete based on the loaded ontologies concepts and properties
-- [sparna-git/xls2rdf](https://github.com/sparna-git/xls2rdf) - Create RDF data from Excel spreadsheets - edit SKOS vocabularies, knowledge graph instances, SHACL constraints, OWL ontologies in Excel files. Available as HTTP service, upload form, command-line, or 
 - [duckdb-wasm-examples/sveltekit-typescript](https://github.com/duckdb-wasm-examples/sveltekit-typescript) - Demo of duckdb-wasm in static sveltekit.
 - [linkeddata/rdflib.js](https://github.com/linkeddata/rdflib.js) - Linked Data API for JavaScript
 - [rdfjs/Yasgui](https://github.com/rdfjs/Yasgui) - Yet Another Sparql GUI
@@ -1123,10 +1136,8 @@
 - [WHaverals/CERberus](https://github.com/WHaverals/CERberus) - CERberus -- guardian against character errors :dog::dog::dog:
 - [machines-reading-maps/mrm-recogito-ui](https://github.com/machines-reading-maps/mrm-recogito-ui) - A fully customized annotation interface for MRM that fits into Recogito
 - [lod4hss-apps/ontome](https://github.com/lod4hss-apps/ontome) - 
-- [ISE-FIZKarlsruhe/bikidata](https://github.com/ISE-FIZKarlsruhe/bikidata) - Developer-friendly queries over RDF triples
 - [Dans-labs/did-summarizer](https://github.com/Dans-labs/did-summarizer) - Linked Data summarizer driven by Decentralized Identifiers (DIDs)
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [neo4j-labs/neosemantics](https://github.com/neo4j-labs/neosemantics) - Graph+Semantics: Import/Export RDF from Neo4j. SHACL Validation, Model mapping and more.... If you like it, please ★ ⇧
 - [microsoft/table-transformer](https://github.com/microsoft/table-transformer) - Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evalu
 - [universal-ner/universal-ner](https://github.com/universal-ner/universal-ner) - 
 - [knowledge-computing/mapkurator-system](https://github.com/knowledge-computing/mapkurator-system) - 
@@ -1144,7 +1155,6 @@
 - [deiu/rdf2go](https://github.com/deiu/rdf2go) - Native golang library for RDF (includes parser/serializer for Turtle and JSON-LD)
 - [jkunze/n2t-eggnog](https://github.com/jkunze/n2t-eggnog) - 
 - [opencontext/arches-via-docker](https://github.com/opencontext/arches-via-docker) - Deployment of Arches (archesproject.org) via Docker for archaeology and related instruction
-- [kbrbe/beltrans-data-integration](https://github.com/kbrbe/beltrans-data-integration) - Creating a FAIR Linked Data corpus for the BELTRANS research project about Belgian book translations NL-FR and FR-NL between 1970 and 2020
 - [tropy/tropy-plugin-iiif](https://github.com/tropy/tropy-plugin-iiif) - Tropy plugin to import IIIF manifests
 - [FIAF/fiafcore](https://github.com/FIAF/fiafcore) - FIAFcore is an ontology for film archives.
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
@@ -1213,7 +1223,6 @@
 - [recogito/recogito-js](https://github.com/recogito/recogito-js) - **deprecated**
 - [snvfk1n/recogito-web-annotation-adapter](https://github.com/snvfk1n/recogito-web-annotation-adapter) - Connect RecogitoJS and Annotorious to Web Annotation LDP containers
 - [PRImA-Research-Lab/prima-page-converter](https://github.com/PRImA-Research-Lab/prima-page-converter) - Command line tool to convert page layout files to the latest PAGE XML format. It supports all previous versions of the PAGE format as well as ALTO XML, FineReader XML, and HOCR
-- [SwissDataScienceCenter/calamus](https://github.com/SwissDataScienceCenter/calamus) - A JSON-LD Serialization Libary for Python
 - [CLARIAH/wp4-links](https://github.com/CLARIAH/wp4-links) - Code for linking all Dutch civil registries
 - [inveniosoftware/invenio-app-ils](https://github.com/inveniosoftware/invenio-app-ils) - Integrated Library System (ILS) flavour of Invenio.
 - [time-machine-project/requests-for-comments](https://github.com/time-machine-project/requests-for-comments) - The main repository for Time Machine Requests for Comments drafts and releases
@@ -1414,7 +1423,7 @@
 - [spliit-app/spliit](https://github.com/spliit-app/spliit) - Free and Open Source Alternative to Splitwise. Share expenses with your friends and family.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The batteries-included full-stack framework for the AI era. Develop JS/TS web apps (React, Node.js, and Prisma) using declarative code that abstracts away complex full-stack features like auth, backgr
 - [Language-Mapping/language-map](https://github.com/Language-Mapping/language-map) - Front-end codebase for Language Mapping web map
-- [nulib-ds/clover](https://github.com/nulib-ds/clover) - IIIF viewer and UI library for React and web components. Use existing templates or compose your own.
+- [nulib-ds/clover](https://github.com/nulib-ds/clover) - Accessible, lightweight IIIF viewer and design system in React or as web components. Use a template or compose your own. 🍀
 - [leanderseige/detektiiif](https://github.com/leanderseige/detektiiif) - chrome extension to detect IIIF content in web pages
 - [samvera-labs/ramp](https://github.com/samvera-labs/ramp) - Interactive, IIIF powered audio/video media player React components library. Storybook Docs: https://samvera-labs.github.io/ramp/
 - [daveearley/screenshot.rocks](https://github.com/daveearley/screenshot.rocks) - Create beautiful mobile & browser mockups from screenshots
