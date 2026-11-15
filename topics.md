@@ -513,7 +513,7 @@
 
 ## downloader 
 
-- [lovasoa/dezoomify-rs](https://github.com/lovasoa/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
+- [dezoomify/dezoomify-rs](https://github.com/dezoomify/dezoomify-rs) - Zoomable image downloader for Google Arts & Culture, Zoomify, IIIF, and others
 
 ## education 
 
