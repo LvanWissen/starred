@@ -157,6 +157,7 @@
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
+- [static-site-generator](#static-site-generator)
 - [storybook](#storybook)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
@@ -1193,7 +1194,6 @@
 - [knaw-huc/annorepo](https://github.com/knaw-huc/annorepo) - Annotation Repository
 - [annotorious/annotorious-v2-geotagging-widget](https://github.com/annotorious/annotorious-v2-geotagging-widget) - A geo-tagging editor widget for Annotorious and RecogitoJS
 - [instituutnederlandsetaal/blacklab-frontend](https://github.com/instituutnederlandsetaal/blacklab-frontend) - BlackLab Frontend, a feature-rich corpus search interface for BlackLab.
-- [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
 - [adrienverge/openfortivpn](https://github.com/adrienverge/openfortivpn) - Client for PPP+TLS VPN tunnel services
 - [ad-freiburg/qlever](https://github.com/ad-freiburg/qlever) - Graph database implementing the RDF and SPARQL standards. Very fast and scales to more than a trillion triples on a single commodity machine
 - [knaw-huc/textrepo-client-python](https://github.com/knaw-huc/textrepo-client-python) - Python client for TextRepo
@@ -1535,6 +1535,13 @@
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [directus/directus](https://github.com/directus/directus) - The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+
+## static-site-generator 
+
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Leading Git-based headless CMS. Successor to Netlify/Decap CMS. Modern UX, first-class i18n support, mobile support + numerous improvements. Framework-agnostic, open source & free.
+- [observablehq/framework](https://github.com/observablehq/framework) - A static site generator for data apps, dashboards, reports, and more. Observable Framework combines JavaScript on the front-end for interactive graphics with any language on the back-end for data anal
+- [glaciers-in-archives/snowman](https://github.com/glaciers-in-archives/snowman) - A static site generator for SPARQL backends.
 
 ## storybook 
 
